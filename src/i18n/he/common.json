@@ -8,11 +8,11 @@
     "description": "Button text for initiating certain actions"
   },
   "button.copy": {
-    "message": "Copy",
+    "message": "העתקה",
     "description": "Text in button for copying content"
   },
   "button.copied": {
-    "message": "Copied",
+    "message": "הועתק",
     "description": "Button text indicating content has been copied"
   },
   "button.restart": {
@@ -20,47 +20,47 @@
     "description": "Button text for regenerating certain content"
   },
   "button.preview": {
-    "message": "Preview",
+    "message": "תצוגה מקדימה",
     "description": "Button text for opening a preview of a file via URL"
   },
   "button.seeRawImage": {
-    "message": "View Original Image",
+    "message": "צפייה בתמונה המקורית",
     "description": "Button text for viewing the original image"
   },
   "button.seeRawVideo": {
-    "message": "View Video",
+    "message": "צפייה בווידאו",
     "description": "Button text for viewing the original video"
   },
   "button.edit": {
-    "message": "Edit",
+    "message": "עריכה",
     "description": "Text in button for editing content"
   },
   "button.login": {
-    "message": "Login",
+    "message": "התחברות",
     "description": "Text in button for logging in"
   },
   "button.logout": {
-    "message": "Logout",
+    "message": "התנתקות",
     "description": "Text in button for logging out"
   },
   "button.new": {
-    "message": "New",
+    "message": "חדש",
     "description": "Text in button for creating a new item"
   },
   "button.delete": {
-    "message": "Delete",
+    "message": "מחיקה",
     "description": "Text in button for deleting content"
   },
   "button.confirm": {
-    "message": "Confirm",
+    "message": "אישור",
     "description": "Text in button for confirming an action"
   },
   "button.cancel": {
-    "message": "Cancel",
+    "message": "ביטול",
     "description": "Text in button for canceling an action"
   },
   "button.alert": {
-    "message": "Alert",
+    "message": "התראה",
     "description": "Text in button for issuing an alert"
   },
   "button.info": {
@@ -68,23 +68,23 @@
     "description": "Text in button for displaying information"
   },
   "button.publish": {
-    "message": "Publish",
+    "message": "פרסום",
     "description": "Text in button for publishing content"
   },
   "button.watch": {
-    "message": "Watch",
+    "message": "צפייה",
     "description": "Text in button for watching content"
   },
   "button.verify": {
-    "message": "Real Name Verification",
+    "message": "אימות זהות (שם אמיתי)",
     "description": "Text in button for allowing users to verify their identity"
   },
   "button.profile": {
-    "message": "Profile",
+    "message": "פרופיל",
     "description": "Text in button for displaying user profile"
   },
   "button.console": {
-    "message": "Console",
+    "message": "קונסול",
     "description": "Text in button for displaying the console page to control certain content on the webpage"
   },
   "button.learn": {
@@ -92,7 +92,7 @@
     "description": "Text in button for allowing users to learn about something"
   },
   "button.buy": {
-    "message": "Buy",
+    "message": "קנה/י",
     "description": "Text in button for allowing users to purchase something"
   },
   "button.try": {
@@ -100,7 +100,7 @@
     "description": "Text in button for allowing users to try something"
   },
   "button.startForFree": {
-    "message": "Start for Free",
+    "message": "התחל בחינם",
     "description": "Text in button for allowing users to start for free"
   },
   "button.apply": {
@@ -112,11 +112,11 @@
     "description": "Text in button for refreshing the page"
   },
   "button.pay": {
-    "message": "Pay",
+    "message": "לתשלום",
     "description": "Text in button for allowing users to pay for services"
   },
   "button.repay": {
-    "message": "Continue Payment",
+    "message": "להמשך תשלום",
     "description": "Text in button for allowing users to continue payment for services"
   },
   "button.applied": {
@@ -128,7 +128,7 @@
     "description": "Text in button for allowing users to obtain API service tokens or keys"
   },
   "button.fillExample": {
-    "message": "Fill Example",
+    "message": "Fill דוגמה",
     "description": "Text in button for allowing users to fill in example data"
   },
   "button.buyMore": {
@@ -136,19 +136,19 @@
     "description": "Text in button for allowing users to recharge"
   },
   "button.update": {
-    "message": "Update",
+    "message": "עדכון",
     "description": "Text in button for updating content"
   },
   "button.view": {
-    "message": "View",
+    "message": "צפייה",
     "description": "Text in button for viewing content"
   },
   "button.create": {
-    "message": "Create",
+    "message": "צור",
     "description": "Text in button for creating content"
   },
   "button.referralEarnings": {
-    "message": "Referral Earnings",
+    "message": "רווחים מהפניות",
     "description": "Text in button for displaying referral earnings, meaning users can earn by inviting others to use the service"
   },
   "button.finish": {
@@ -168,7 +168,7 @@
     "description": "Website name, no translation needed, keep as 'Ace Data Cloud'"
   },
   "entity.copyright": {
-    "message": "Copyright",
+    "message": "העתקהright",
     "description": "Text displaying copyright"
   },
   "entity.platform": {
@@ -188,7 +188,7 @@
     "description": "Status of the entity"
   },
   "status.loading": {
-    "message": "Loading...",
+    "message": "טוען…",
     "description": "Status text displayed while content is loading"
   },
   "entity.operation": {
@@ -200,19 +200,19 @@
     "description": "Description of the entity"
   },
   "entity.createdAt": {
-    "message": "Created At",
+    "message": "צורd At",
     "description": "Time when the entity was created"
   },
   "entity.updatedAt": {
-    "message": "Updated At",
+    "message": "עדכוןd At",
     "description": "Time when the entity was updated"
   },
   "entity.order": {
-    "message": "Order",
-    "description": "Order of the entity, which includes monetary and service information that the user needs to pay for"
+    "message": "הזמנה",
+    "description": "הזמנה of the entity, which includes monetary and service information that the user needs to pay for"
   },
   "message.noTasks": {
-    "message": "No historical tasks, please start a new task~",
+    "message": "אין עדיין היסטוריה — בוא/י נתחיל משהו חדש 🙂",
     "description": "Message when there are no tasks"
   },
   "message.usedAmount": {
@@ -224,7 +224,7 @@
     "description": "Used to display the remaining amount of service"
   },
   "message.copied": {
-    "message": "Copied Successfully",
+    "message": "הועתק בהצלחה ✅",
     "description": "Message indicating content has been successfully copied"
   },
   "message.restart": {
@@ -240,15 +240,15 @@
     "description": "Used to display the expiration time of the service"
   },
   "message.alert": {
-    "message": "Warning",
+    "message": "אזהרה",
     "description": "Message warning the user"
   },
   "message.info": {
-    "message": "Notice",
+    "message": "מידע",
     "description": "Message displaying information"
   },
   "message.free": {
-    "message": "Free",
+    "message": "חינם",
     "description": "Message indicating that the service is free, meaning the user does not need to pay"
   },
   "message.startPrice": {
@@ -256,7 +256,7 @@
     "description": "Message displaying the minimum price of the service"
   },
   "message.joinDiscord": {
-    "message": "Join Discord",
+    "message": "הצטרפו ל־Discord",
     "description": "Message prompting the user to join the Discord channel"
   },
   "message.addWeChat": {
@@ -272,11 +272,11 @@
     "description": "Message displaying business cooperation information"
   },
   "message.noData": {
-    "message": "No Data",
+    "message": "אין נתונים",
     "description": "Message indicating there is no data in the table or list"
   },
   "nav.home": {
-    "message": "Home",
+    "message": "דף הבית",
     "description": "Text in the website navigation bar for displaying the home page"
   },
   "nav.content": {
@@ -308,11 +308,11 @@
     "description": "Text in the website navigation bar for displaying the API platform page"
   },
   "nav.document": {
-    "message": "Developer Documentation",
+    "message": "תיעוד למפתחים",
     "description": "Text in the website navigation bar for displaying the documentation page"
   },
   "nav.console": {
-    "message": "Console",
+    "message": "קונסול",
     "description": "Text in the website navigation bar for displaying the console page"
   },
   "nav.chatgpt": {
@@ -400,19 +400,19 @@
     "description": "Text in the website navigation bar for displaying the video page"
   },
   "nav.distribution": {
-    "message": "Referral Earnings",
+    "message": "רווחים מהפניות",
     "description": "Text in the website navigation bar for displaying the referral earnings page"
   },
   "nav.logOut": {
-    "message": "Log Out",
+    "message": "התנתקות",
     "description": "Text in the website navigation bar for logging out"
   },
   "nav.site": {
-    "message": "Site Configuration",
+    "message": "הגדרות אתר",
     "description": "Text in the website navigation bar for displaying the site configuration page"
   },
   "nav.setting": {
-    "message": "Settings",
+    "message": "הגדרות",
     "description": "Text in the website navigation bar for displaying the settings page"
   },
   "nav.headshots": {
@@ -420,7 +420,7 @@
     "description": "Text in the website navigation bar for displaying the site configuration page"
   },
   "nav.locale": {
-    "message": "Language Settings",
+    "message": "שפה",
     "description": "Text in the website navigation bar for changing the language"
   },
   "nav.support": {
@@ -428,31 +428,31 @@
     "description": "Text in the website navigation bar for displaying the contact page"
   },
   "nav.darkMode": {
-    "message": "Dark Mode",
+    "message": "מצב כהה",
     "description": "Text in the website navigation bar for switching to dark theme"
   },
   "title.alert": {
-    "message": "Alert",
+    "message": "התראה",
     "description": "Title for alert messages"
   },
   "title.placeholderOfSelect": {
-    "message": "Please Select",
+    "message": "נא Select",
     "description": "Placeholder for selection input"
   },
   "title.placeholderOfInput": {
-    "message": "Please Fill In",
+    "message": "נא Fill In",
     "description": "Placeholder for input field"
   },
   "title.allApplications": {
-    "message": "All Applications",
+    "message": "כל האפליקציות",
     "description": "Page title for displaying all applications"
   },
   "title.allOrders": {
-    "message": "All Orders",
+    "message": "כל ההזמנות",
     "description": "Page title for displaying all orders"
   },
   "title.orderInfo": {
-    "message": "Order Information",
+    "message": "פרטי הזמנה",
     "description": "Page title for displaying order information"
   },
   "title.buyMore": {
@@ -460,15 +460,15 @@
     "description": "Page title for recharging. Must be translated to 'Top Up'."
   },
   "title.distribution": {
-    "message": "Referral Earnings",
+    "message": "רווחים מהפניות",
     "description": "Page title for displaying referral income, meaning users can earn by inviting others to use the service"
   },
   "title.site": {
-    "message": "Site Configuration",
+    "message": "הגדרות אתר",
     "description": "Page title for displaying site configuration"
   },
   "title.distributionHistory": {
-    "message": "Referral History",
+    "message": "היסטוריית הפניות",
     "description": "Page title for displaying referral history"
   },
   "title.invitee": {
@@ -476,7 +476,7 @@
     "description": "Title of the page displaying the inviter"
   },
   "title.allUsages": {
-    "message": "Usage History",
+    "message": "היסטוריית שימוש",
     "description": "Title of the page displaying all usages of the API service"
   },
   "title.allCredentials": {
@@ -484,15 +484,15 @@
     "description": "Title of the page displaying all credentials used to access the API"
   },
   "about.title1": {
-    "message": "Contact Us",
+    "message": "צור קשר",
     "description": "Title of the section displaying contact information"
   },
   "about.title2": {
-    "message": "Resources",
+    "message": "משאבים",
     "description": "Title of the section displaying links"
   },
   "about.title3": {
-    "message": "Links",
+    "message": "קישורים",
     "description": "Title of the section displaying support information"
   },
   "about.address": {
@@ -508,15 +508,15 @@
     "description": "Link to the documentation page"
   },
   "about.link2": {
-    "message": "Developer Documentation",
+    "message": "תיעוד למפתחים",
     "description": "Link to the services page"
   },
   "about.link3": {
-    "message": "Console",
+    "message": "קונסול",
     "description": "Link to the console page"
   },
   "about.link4": {
-    "message": "Profile",
+    "message": "פרופיל",
     "description": "Link to the profile page"
   },
   "about.link5": {
@@ -524,7 +524,7 @@
     "description": "Link to the hub page"
   },
   "about.link6": {
-    "message": "Referral Earnings",
+    "message": "רווחים מהפניות",
     "description": "Link to the referral income page"
   },
   "about.link7": {
@@ -532,27 +532,27 @@
     "description": "Link to the support page"
   },
   "about.link8": {
-    "message": "Terms of Service",
+    "message": "תנאי שימוש",
     "description": "Link to the terms of service page"
   },
   "about.link9": {
-    "message": "Privacy Policy",
+    "message": "מדיניות פרטיות",
     "description": "Link to the privacy policy page"
   },
   "theme.light": {
-    "message": "Light",
+    "message": "בהיר",
     "description": "Name of the light theme"
   },
   "theme.dark": {
-    "message": "Dark",
+    "message": "כהה",
     "description": "Name of the dark theme"
   },
   "theme.system": {
-    "message": "System",
+    "message": "מערכת",
     "description": "Name of the system theme, indicating automatic switching based on system settings"
   },
   "settings.general": {
-    "message": "General Settings",
+    "message": "General הגדרות",
     "description": "Title of the general settings section in the settings page"
   },
   "settings.language": {
@@ -564,19 +564,19 @@
     "description": "Title of the theme settings section in the settings page"
   },
   "settings.seo": {
-    "message": "SEO Settings",
+    "message": "SEO הגדרות",
     "description": "Title of the SEO settings section in the settings page"
   },
   "settings.site": {
-    "message": "Site Settings",
+    "message": "Site הגדרות",
     "description": "Title of the site settings section in the settings page"
   },
   "settings.distribution": {
-    "message": "Distribution Settings",
+    "message": "Distribution הגדרות",
     "description": "Title of the distribution settings section in the settings page"
   },
   "settings.function": {
-    "message": "Function Settings",
+    "message": "Function הגדרות",
     "description": "Title of the function settings section in the settings page"
   },
   "nav.gemini": {
@@ -588,7 +588,7 @@
     "description": "Text in the website navigation bar to display the Claude page, must remain as 'Claude'"
   },
   "button.detail": {
-    "message": "View Details",
+    "message": "צפייה בפרטים",
     "description": ""
   },
   "button.testEnv": {
@@ -604,11 +604,11 @@
     "description": "Information regarding the filing in the China region"
   },
   "message.copyFailed": {
-    "message": "Copy Failed",
+    "message": "העתקה Failed",
     "description": "Message displayed when content copy fails"
   },
   "nav.tryNow": {
-    "message": "Try Now",
+    "message": "נסו עכשיו",
     "description": "Text in the website navigation bar to let users try the service"
   },
   "title.coin": {
@@ -616,11 +616,11 @@
     "description": "Title of the page displaying cryptocurrency"
   },
   "title.distributionRank": {
-    "message": "Referral Ranking",
+    "message": "דירוג הפניות",
     "description": "Title of the page displaying referral ranking"
   },
   "title.distributionPlatformRank": {
-    "message": "Platform Ranking",
+    "message": "דירוג פלטפורמה",
     "description": "Title of the page displaying platform ranking"
   },
   "customers.name1": {
@@ -664,11 +664,11 @@
     "description": "Link to the GitHub repository"
   },
   "settings.github": {
-    "message": "Source Code",
+    "message": "קוד מקור",
     "description": "Link to view the source code on GitHub"
   },
   "message.viewOnGithub": {
-    "message": "View on GitHub",
+    "message": "צפייה ב־GitHub",
     "description": "Link text to view the project on GitHub"
   }
 }

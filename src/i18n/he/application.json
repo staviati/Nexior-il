@@ -12,7 +12,7 @@
     "description": "The expiration time of the application."
   },
   "button.goDocument": {
-    "message": "Document",
+    "message": "תיעוד",
     "description": "Button text that navigates to the document page."
   },
   "button.goCredentials": {
@@ -24,7 +24,7 @@
     "description": "Button text that navigates to the purchase more page. Must translate to 'Top Up'."
   },
   "button.createOrder": {
-    "message": "Create Order",
+    "message": "צור הזמנה",
     "description": "Button text that navigates to the create order page."
   },
   "button.custom": {
@@ -32,7 +32,7 @@
     "description": "Button text that navigates to the custom page."
   },
   "button.query": {
-    "message": "Query",
+    "message": "בדיקה",
     "description": "Button text that navigates to the query page."
   },
   "button.usage": {
@@ -44,7 +44,7 @@
     "description": "The name of the service."
   },
   "field.application": {
-    "message": "Application",
+    "message": "אפליקציה",
     "description": "The application for the service."
   },
   "field.status": {
@@ -120,7 +120,7 @@
     "description": "The type of the application."
   },
   "field.freeAmount": {
-    "message": "Free Amount",
+    "message": "חינם Amount",
     "description": "The free amount of the application."
   },
   "field.extraPrice": {
@@ -128,15 +128,15 @@
     "description": "The additional price the user should pay for the application."
   },
   "message.alreadyApplied": {
-    "message": "You have already applied for this service, please check the console.",
+    "message": "You have already applied for this service, נא check the console.",
     "description": "Message displayed when the user has already applied for this service."
   },
   "message.applySuccessfully": {
-    "message": "Application Successful",
+    "message": "אפליקציה הצלחהful",
     "description": "Message displayed when the user successfully applies for this service."
   },
   "message.notApplied": {
-    "message": "You have not applied for this service, please apply before use.",
+    "message": "You have not applied for this service, נא apply before use.",
     "description": "Message displayed when the user has not applied for this service."
   },
   "message.globalBalanceBuyDescription": {
@@ -144,7 +144,7 @@
     "description": "Prompt text explaining that the top-up goes into the general balance and automatically supplements when the instance balance is insufficient."
   },
   "message.yourApplication": {
-    "message": "Your Application",
+    "message": "Your אפליקציה",
     "description": "Message displayed when the user is viewing their application."
   },
   "message.unverified": {
@@ -152,7 +152,7 @@
     "description": "Message displayed to the user when they have not completed identity verification."
   },
   "message.goVerify": {
-    "message": "Go to Identity Verification",
+    "message": "Go to אימות זהות",
     "description": "Message displayed to the user when they have not completed identity verification."
   },
   "message.requiredParameter": {
@@ -160,7 +160,7 @@
     "description": "Message displayed to the user when they have not entered a required parameter."
   },
   "message.example": {
-    "message": "Example",
+    "message": "דוגמה",
     "description": "Message displayed to the user when they have not entered a required parameter."
   },
   "message.applicationSelection": {
@@ -168,7 +168,7 @@
     "description": "Message displayed to the user when they need to select an application."
   },
   "message.createCredentialSuccessfully": {
-    "message": "Credential Created Successfully",
+    "message": "Credential צורd הצלחהfully",
     "description": "Message displayed to the user when they successfully create credentials."
   },
   "message.readPolicy": {
@@ -196,27 +196,27 @@
     "description": "Message displayed to the user when they confirm the key reset."
   },
   "message.idDoesNotExist": {
-    "message": "Application does not exist",
+    "message": "אפליקציה does not exist",
     "description": "Message displayed to the user when the application does not exist."
   },
   "message.rotateCredentialSuccessfully": {
-    "message": "Key Reset Successfully",
+    "message": "Key Reset הצלחהfully",
     "description": "Message displayed to the user when the key reset is successful."
   },
   "message.rotateCredentialFailed": {
-    "message": "Key Reset Failed, please contact support.",
+    "message": "Key Reset Failed, נא contact support.",
     "description": "Message displayed to the user when the key reset fails."
   },
   "message.fetchFailed": {
-    "message": "Failed to fetch applications, please try again later.",
+    "message": "Failed to fetch applications, נא try again later.",
     "description": "Prompt when fetching the application list fails."
   },
   "message.updateFailed": {
-    "message": "Update Failed",
+    "message": "עדכון Failed",
     "description": "Message displayed to the user when the update fails."
   },
   "message.updateSuccessfully": {
-    "message": "Update Successful",
+    "message": "עדכון הצלחהful",
     "description": "Message displayed to the user when the update is successful."
   },
   "message.neverExpire": {
@@ -236,7 +236,7 @@
     "description": "Title of the page when the user wants to modify the application count."
   },
   "title.manageApplication": {
-    "message": "Application Management",
+    "message": "אפליקציה Management",
     "description": "Title of the page when the user wants to manage applications."
   },
   "title.applicationBalance": {
@@ -244,7 +244,7 @@
     "description": "Message displayed to the user when they view the application balance."
   },
   "title.count": {
-    "message": "Total Applications",
+    "message": "Total אפליקציהs",
     "description": "Title of the page when the user views the application count."
   },
   "message.countDescription": {
@@ -268,7 +268,7 @@
     "description": "Button text that adds support."
   },
   "button.delete": {
-    "message": "Delete",
+    "message": "מחיקה",
     "description": "Button text that deletes the item."
   },
   "field.dataset": {
@@ -280,11 +280,11 @@
     "description": "Indicates whether the application is disabled."
   },
   "message.addServiceToAcquire": {
-    "message": "Please add support to acquire",
+    "message": "נא add support to acquire",
     "description": "Message displayed to the user when they have not yet added support to acquire."
   },
   "message.confirmApplying": {
-    "message": "Confirm service application",
+    "message": "אישור service application",
     "description": "Message displayed to the user when they confirm the service application."
   },
   "message.confirmDelete": {
@@ -308,7 +308,7 @@
     "description": "Message displayed to the user when deletion is successful."
   },
   "title.application": {
-    "message": "Application",
+    "message": "אפליקציה",
     "description": ""
   },
   "title.description": {

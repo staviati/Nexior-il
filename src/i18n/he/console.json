@@ -4,27 +4,27 @@
     "description": "Button text indicating a suggested action"
   },
   "menu.orderList": {
-    "message": "Order List",
+    "message": "רשימת הזמנות",
     "description": "Text in the website menu referring to the list of orders for services purchased by the user"
   },
   "menu.applicationList": {
-    "message": "Application List",
+    "message": "אפליקציה List",
     "description": "Text in the website menu referring to the list of applications for services used by the user"
   },
   "menu.userProfile": {
-    "message": "User Profile",
+    "message": "User פרופיל",
     "description": "Text in the website menu referring to the user's personal profile"
   },
   "menu.idVerify": {
-    "message": "Identity Verification",
+    "message": "אימות זהות",
     "description": "Text in the website menu referring to the verification of the user's identity"
   },
   "menu.manageApplication": {
-    "message": "Application Management",
+    "message": "אפליקציה Management",
     "description": "Text in the website menu referring to the management of user applications"
   },
   "menu.distributionIndex": {
-    "message": "Referral Earnings",
+    "message": "רווחים מהפניות",
     "description": "Text in the website menu referring to the earnings from user referrals"
   },
   "menu.developerPlatform": {
@@ -32,7 +32,7 @@
     "description": "Text in the website menu referring to the platform for developers"
   },
   "menu.usageList": {
-    "message": "Usage History",
+    "message": "היסטוריית שימוש",
     "description": "Text in the website menu referring to the history of API service usage by the user"
   },
   "menu.credentialIndex": {
@@ -40,7 +40,7 @@
     "description": "Text in the website menu referring to the credentials for accessing the API"
   },
   "menu.manageOrder": {
-    "message": "Order Management",
+    "message": "ניהול הזמנות",
     "description": "Text in the website menu referring to the management of user orders, which are the orders for services purchased by the user"
   },
   "menu.manageDistributionStatus": {
@@ -52,7 +52,7 @@
     "description": "Text on the homepage indicating that users can receive support from dedicated customer service"
   },
   "message.benefit2": {
-    "message": "Priority Access to New Features",
+    "message": "Priority Access to חדש Features",
     "description": "Text on the homepage indicating that users can have priority access to new features"
   },
   "message.buyExtra": {
@@ -72,7 +72,7 @@
     "description": "Text on the homepage indicating that users do not wish to purchase credits"
   },
   "message.applicationNotFound": {
-    "message": "Application Not Found",
+    "message": "אפליקציה Not Found",
     "description": "Message displayed to the user when the application does not exist."
   },
   "subscription.title": {
@@ -124,11 +124,11 @@
     "description": "Text in the website menu referring to the token used to access the Ace Data Cloud platform"
   },
   "menu.publishIndex": {
-    "message": "Publishing Center",
+    "message": "פרסוםing Center",
     "description": "Text in the website menu, the publishing center refers to the center where users publish content."
   },
   "menu.platformRankIndex": {
-    "message": "Platform Ranking",
+    "message": "דירוג פלטפורמה",
     "description": "Text in the website menu, the platform ranking refers to the earnings leaderboard recommended by users."
   },
   "menu.manageOrderDiscount": {

@@ -1,19 +1,19 @@
 {
   "button.thinkDeeper": {
-    "message": "Think Deeper",
+    "message": "חשיבה עמוקה",
     "description": "Button for deep thinking"
   },
   "button.deepsearch": {
-    "message": "Deep Search",
+    "message": "חיפוש עמוק",
     "description": "Button for deep search"
   },
   "button.search": {
-    "message": "Search",
+    "message": "חיפוש",
     "description": "Button for search"
   },
   "button.edit": {
-    "message": "Edit Message",
-    "description": "Edit the sent message"
+    "message": "עריכת הודעה",
+    "description": "עריכה the sent message"
   },
   "modelGroup.chatgpt": {
     "message": "ChatGPT",
@@ -72,7 +72,7 @@
     "description": "The name of the service model, i.e., GPT 4.0 Mini"
   },
   "model.4OMiniDescription": {
-    "message": "Lighter and faster model",
+    "message": "בהירer and faster model",
     "description": "Description of the 4.0 Mini model"
   },
   "model.4OImage": {
@@ -192,23 +192,23 @@
     "description": "Description of the O4 model"
   },
   "message.startNewChat": {
-    "message": "Start a new conversation",
+    "message": "התחל/י שיחה חדשה",
     "description": "Message in the webpage informing the user to start a new conversation"
   },
   "message.uploadFile": {
-    "message": "Upload file",
+    "message": "העלאת קובץ",
     "description": "Message in the webpage informing the user to upload a file"
   },
   "message.noToken": {
-    "message": "Please apply for the corresponding service first",
+    "message": "נא apply for the corresponding service first",
     "description": "Message in the webpage informing the user to apply for the corresponding service first"
   },
   "message.newMessagePlaceholder": {
-    "message": "Please enter your question...",
+    "message": "הקלד/י את השאלה שלך…",
     "description": "Placeholder in the webpage informing the user to input a question"
   },
   "message.noInput": {
-    "message": "Question cannot be empty",
+    "message": "השאלה לא יכולה להיות ריקה",
     "description": "Message in the webpage informing the user that the question cannot be empty"
   },
   "message.uploadReferencesExceed": {
@@ -216,111 +216,111 @@
     "description": "Message in the webpage informing the user that they can upload a maximum of 1 file"
   },
   "message.uploadReferencesError": {
-    "message": "File upload failed, please try again later",
-    "description": "Message in the webpage informing the user that the file upload failed, please try again later"
+    "message": "File upload failed, נא try again later",
+    "description": "Message in the webpage informing the user that the file upload failed, נא try again later"
   },
   "message.notApplied": {
-    "message": "You have not applied for this service, please apply first",
-    "description": "Message in the webpage informing the user that they have not applied for this service, please apply first"
+    "message": "You have not applied for this service, נא apply first",
+    "description": "Message in the webpage informing the user that they have not applied for this service, נא apply first"
   },
   "message.tryForFree": {
-    "message": "Try for free",
+    "message": "נסו בחינם",
     "description": "Message in the webpage informing the user about a free trial"
   },
   "message.question1": {
-    "message": "Create a training plan",
-    "description": "Example question to start a conversation, asking the user to write a JavaScript code that outputs Hello World"
+    "message": "תבנה לי תוכנית אימונים",
+    "description": "דוגמה question to start a conversation, asking the user to write a JavaScript code that outputs Hello World"
   },
   "message.question2": {
-    "message": "Make a personal webpage",
-    "description": "Example question to start a conversation, asking the user to write an email to Mike informing him that I just moved"
+    "message": "תכין לי דף נחיתה אישי",
+    "description": "דוגמה question to start a conversation, asking the user to write an email to Mike informing him that I just moved"
   },
   "message.question3": {
-    "message": "Design an interesting programming game",
-    "description": "Example question to start a conversation, asking the user to explain the basic principles of quantum computing in simple language"
+    "message": "תכנן משחק תכנות מגניב",
+    "description": "דוגמה question to start a conversation, asking the user to explain the basic principles of quantum computing in simple language"
   },
   "message.question4": {
-    "message": "Experience Seoul like a local",
-    "description": "Example question to start a conversation, asking the user to explain the impact of virtual reality on artistic creation"
+    "message": "תחווה את סיאול כמו מקומי/ת",
+    "description": "דוגמה question to start a conversation, asking the user to explain the impact of virtual reality on artistic creation"
   },
   "message.question5": {
-    "message": "Which is greater, 9.8 or 9.11?",
-    "description": "Example question to start a conversation, asking to compare the sizes of two numbers"
+    "message": "מה יותר גדול: 9.8 או 9.11?",
+    "description": "דוגמה question to start a conversation, asking to compare the sizes of two numbers"
   },
   "message.question6": {
-    "message": "What impact does AI have on the future?",
-    "description": "Example question to start a conversation, asking about the impact of AI on the future"
+    "message": "איזה השפעה יש ל־AI על העתיד?",
+    "description": "דוגמה question to start a conversation, asking about the impact of AI on the future"
   },
   "message.question7": {
-    "message": "How to improve learning efficiency?",
-    "description": "Example question to start a conversation, asking how to improve one's learning efficiency"
+    "message": "איך משפרים יעילות למידה?",
+    "description": "דוגמה question to start a conversation, asking how to improve one's learning efficiency"
   },
   "message.question8": {
-    "message": "How to improve concentration?",
-    "description": "Example question to start a conversation, asking how to improve one's concentration"
+    "message": "איך משפרים ריכוז?",
+    "description": "דוגמה question to start a conversation, asking how to improve one's concentration"
   },
   "message.errorApiError": {
-    "message": "Response failed, please try again later",
-    "description": "Message in the webpage informing the user that the response failed, please try again later"
+    "message": "התגובה נכשלה. נסה/י שוב מאוחר יותר",
+    "description": "Message in the webpage informing the user that the response failed, נא try again later"
   },
   "message.errorBadRequest": {
-    "message": "Request content is not valid, please ask again",
-    "description": "Message in the webpage informing the user that the request content is not valid, please ask again"
+    "message": "Request content is not valid, נא ask again",
+    "description": "Message in the webpage informing the user that the request content is not valid, נא ask again"
   },
   "message.errorNoConversation": {
-    "message": "Conversation does not exist or has expired, please start a new conversation",
-    "description": "Message in the webpage informing the user that the conversation does not exist or has expired, please start a new conversation"
+    "message": "Conversation does not exist or has expired, נא start a new conversation",
+    "description": "Message in the webpage informing the user that the conversation does not exist or has expired, נא start a new conversation"
   },
   "message.errorContentTooLarge": {
-    "message": "Question content is too long, please shorten it and try again",
-    "description": "Message in the webpage informing the user that the question content is too long, please shorten it and try again"
+    "message": "Question content is too long, נא shorten it and try again",
+    "description": "Message in the webpage informing the user that the question content is too long, נא shorten it and try again"
   },
   "message.errorTooManyRequests": {
-    "message": "Your actions are too frequent, please try again later",
-    "description": "Message in the webpage informing the user that their actions are too frequent, please try again later"
+    "message": "את/ה עושה יותר מדי פעולות מהר מדי. נסה/י שוב עוד רגע",
+    "description": "Message in the webpage informing the user that their actions are too frequent, נא try again later"
   },
   "message.errorBusy": {
-    "message": "Server is busy, please try again later",
-    "description": "Message in the webpage informing the user that the server is busy, please try again later"
+    "message": "השרת עמוס. נסה/י שוב מאוחר יותר",
+    "description": "Message in the webpage informing the user that the server is busy, נא try again later"
   },
   "message.errorUsedUp": {
-    "message": "You have used up your package quota, please purchase more to continue using",
-    "description": "Message in the webpage informing the user that they have used up their package quota, please purchase more to continue using"
+    "message": "You have used up your package quota, נא purchase more to continue using",
+    "description": "Message in the webpage informing the user that they have used up their package quota, נא purchase more to continue using"
   },
   "message.errorUnknown": {
-    "message": "An unknown error occurred on the server, please try again later or contact customer service",
-    "description": "Message in the webpage informing the user that an unknown error occurred on the server, please try again later or contact customer service"
+    "message": "קרתה שגיאה לא ידועה בשרת. נסה/י שוב או פנה/י לתמיכה",
+    "description": "Message in the webpage informing the user that an unknown error occurred on the server, נא try again later or contact customer service"
   },
   "message.errorTimeout": {
-    "message": "Answering the question timed out, please try again later",
-    "description": "Message in the webpage informing the user that answering the question timed out, please try again later"
+    "message": "עבר זמן ההמתנה לתשובה. נסה/י שוב מאוחר יותר",
+    "description": "Message in the webpage informing the user that answering the question timed out, נא try again later"
   },
   "message.errorNotApplied": {
-    "message": "You have not applied for this service, please apply first before continuing to ask",
-    "description": "Message in the webpage informing the user that they have not applied for this service, please apply first before continuing to ask"
+    "message": "You have not applied for this service, נא apply first before continuing to ask",
+    "description": "Message in the webpage informing the user that they have not applied for this service, נא apply first before continuing to ask"
   },
   "message.confirmDelete": {
-    "message": "Confirm deletion",
+    "message": "אישור deletion",
     "description": "Message in the webpage informing the user to confirm deletion"
   },
   "message.howToUse": {
-    "message": "AI may make mistakes, please check important information.",
+    "message": "AI לפעמים טועה — חשוב לבדוק מידע קריטי.",
     "description": "Message on the webpage informing users that AI may make mistakes and they should check important information."
   },
   "title.chat": {
-    "message": "AI Chat",
-    "description": "Title of the webpage, i.e., AI Chat."
+    "message": "צ׳אט AI",
+    "description": "Title of the webpage, i.e., צ׳אט AI."
   },
   "title.example": {
-    "message": "Example",
-    "description": "Title of the webpage, i.e., Example."
+    "message": "דוגמה",
+    "description": "Title of the webpage, i.e., דוגמה."
   },
   "title.capabilities": {
-    "message": "Capabilities",
-    "description": "Title of the webpage, i.e., Capabilities."
+    "message": "יכולות",
+    "description": "Title of the webpage, i.e., יכולות."
   },
   "title.limitations": {
-    "message": "Limitations",
+    "message": "מגבלות",
     "description": "Title on the webpage indicating that this section is about the technical limitations of the service."
   },
   "title.complexQuestion": {
@@ -336,20 +336,20 @@
     "description": "Title on the webpage indicating that this section is about the service's ability to get inspiration and ideas."
   },
   "group.today": {
-    "message": "Today",
-    "description": "Group name on the webpage, i.e., Today."
+    "message": "היום",
+    "description": "Group name on the webpage, i.e., היום."
   },
   "group.yesterday": {
-    "message": "Yesterday",
-    "description": "Group name on the webpage, i.e., Yesterday."
+    "message": "אתמול",
+    "description": "Group name on the webpage, i.e., אתמול."
   },
   "group.thisWeek": {
-    "message": "This Week",
-    "description": "Group name on the webpage, i.e., This Week."
+    "message": "השבוע",
+    "description": "Group name on the webpage, i.e., השבוע."
   },
   "group.earlier": {
-    "message": "Earlier",
-    "description": "Group name on the webpage, i.e., Earlier."
+    "message": "מוקדם יותר",
+    "description": "Group name on the webpage, i.e., מוקדם יותר."
   },
   "modelGroup.gemini": {
     "message": "Gemini",

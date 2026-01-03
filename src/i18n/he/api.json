@@ -4,15 +4,15 @@
     "description": "HTTP request query parameters."
   },
   "entity.requestBody": {
-    "message": "Request Body",
+    "message": "גוף הבקשה",
     "description": "The body of the HTTP request."
   },
   "entity.responseBody": {
-    "message": "Response Body",
+    "message": "גוף התשובה",
     "description": "The body of the HTTP response."
   },
   "entity.requestHeaders": {
-    "message": "Request Headers",
+    "message": "כותרות בקשה",
     "description": "HTTP request headers."
   },
   "entity.requestHeader": {
@@ -20,7 +20,7 @@
     "description": "A single HTTP request header."
   },
   "entity.responseHeaders": {
-    "message": "Response Headers",
+    "message": "כותרות תשובה",
     "description": "HTTP response headers."
   },
   "entity.response": {
@@ -28,23 +28,23 @@
     "description": "An HTTP response."
   },
   "entity.success": {
-    "message": "Success",
+    "message": "הצלחה",
     "description": "A successful response."
   },
   "entity.failure": {
-    "message": "Failure",
+    "message": "כשל",
     "description": "A failed response."
   },
   "entity.responseExample": {
-    "message": "Example",
+    "message": "דוגמה",
     "description": "An example of a response."
   },
   "entity.authentication": {
-    "message": "Authentication",
-    "description": "Authentication information."
+    "message": "אימות",
+    "description": "אימות information."
   },
   "entity.arrayOf": {
-    "message": "Array",
+    "message": "מערך",
     "description": "An array of entities."
   },
   "entity.apiKey": {
@@ -52,15 +52,15 @@
     "description": "The API key."
   },
   "message.free": {
-    "message": "Free",
+    "message": "חינם",
     "description": "Indicates that the price is free; no points or currency are required when using the API services."
   },
   "message.appliedCount": {
-    "message": "Application Count",
+    "message": "אפליקציה Count",
     "description": "The number of times the API service has been applied."
   },
   "message.firstFree": {
-    "message": "First Free",
+    "message": "First חינם",
     "description": "Indicates that the first use of the API service is free, requiring no points or currency."
   },
   "message.custom": {
@@ -76,64 +76,64 @@
     "description": "The price is approximately as stated; actual prices may vary."
   },
   "message.successRate15min": {
-    "message": "Real-Time Success Rate",
+    "message": "אחוז הצלחה בזמן אמת",
     "description": "The real-time success rate of the API service over the past 15 minutes."
   },
   "message.ySuccessRate": {
-    "message": "Success Rate (100%)",
+    "message": "אחוז הצלחה (100%)",
     "description": "The success rate of the API service."
   },
   "message.xMinutes": {
-    "message": "Time (Minutes)",
+    "message": "זמן (בדקות)",
     "description": "Time expressed in minutes."
   },
   "message.streamUsage": {
-    "message": "Friendly Reminder: The above code may not be fully applicable for streaming requests. Please refer to the documentation for modifications.",
-    "description": "The above code may not be fully applicable for streaming requests. Please refer to the documentation for modifications."
+    "message": "Friendly Reminder: The above code may not be fully applicable for streaming requests. נא refer to the documentation for modifications.",
+    "description": "The above code may not be fully applicable for streaming requests. נא refer to the documentation for modifications."
   },
   "message.alphaStage": {
     "message": "This API is in Alpha stage, an early preview version, which may have potential instability. The API format may undergo significant changes, and it is not recommended for production use. Current pricing is relatively low, and there may be significant price adjustments in the future.",
     "description": "This API is in Alpha stage, an early preview version, which may have potential instability. The API format may undergo significant changes, and it is not recommended for production use. Current pricing is relatively low, and there may be significant price adjustments in the future."
   },
   "message.betaStage": {
-    "message": "This API is in Beta stage, and the API format is unlikely to change significantly, but there may be potential instability. Please use caution when using in production. Current pricing is relatively low, and there may be moderate price adjustments in the future.",
-    "description": "This API is in Beta stage, and the API format is unlikely to change significantly, but there may be potential instability. Please use caution when using in production. Current pricing is relatively low, and there may be moderate price adjustments in the future."
+    "message": "This API is in Beta stage, and the API format is unlikely to change significantly, but there may be potential instability. נא use caution when using in production. Current pricing is relatively low, and there may be moderate price adjustments in the future.",
+    "description": "This API is in Beta stage, and the API format is unlikely to change significantly, but there may be potential instability. נא use caution when using in production. Current pricing is relatively low, and there may be moderate price adjustments in the future."
   },
   "unit.credit": {
-    "message": "Credit",
-    "description": "Credits are the virtual currency used for the API service."
+    "message": "קרדיט",
+    "description": "קרדיטs are the virtual currency used for the API service."
   },
   "unit.Credit": {
-    "message": "Credit",
-    "description": "Credits are the virtual currency used for the API service; this is the uppercase form."
+    "message": "קרדיט",
+    "description": "קרדיטs are the virtual currency used for the API service; this is the uppercase form."
   },
   "unit.credits": {
-    "message": "Credits",
-    "description": "Credits are the virtual currency used for the API service; this is the plural form."
+    "message": "קרדיטים",
+    "description": "קרדיטs are the virtual currency used for the API service; this is the plural form."
   },
   "unit.Credits": {
-    "message": "Credits",
-    "description": "Credits are the virtual currency used for the API service; this is both uppercase and plural form."
+    "message": "קרדיטים",
+    "description": "קרדיטs are the virtual currency used for the API service; this is both uppercase and plural form."
   },
   "unit.call": {
-    "message": "Call",
-    "description": "Call refers to the number of times the API service has been called."
+    "message": "קריאה",
+    "description": "קריאה refers to the number of times the API service has been called."
   },
   "unit.count": {
-    "message": "Times",
-    "description": "Times refers to the number of times the API service has been called."
+    "message": "פעמים",
+    "description": "פעמים refers to the number of times the API service has been called."
   },
   "unit.Call": {
-    "message": "Call",
-    "description": "Call refers to the number of times the API service has been called; this is the uppercase form."
+    "message": "קריאה",
+    "description": "קריאה refers to the number of times the API service has been called; this is the uppercase form."
   },
   "unit.calls": {
-    "message": "Calls",
-    "description": "Calls refers to the number of times the API service has been called; this is the plural form."
+    "message": "קריאות",
+    "description": "קריאהs refers to the number of times the API service has been called; this is the plural form."
   },
   "unit.Calls": {
-    "message": "Calls",
-    "description": "Calls refers to the number of times the API service has been called; this is both uppercase and plural form."
+    "message": "קריאות",
+    "description": "קריאהs refers to the number of times the API service has been called; this is both uppercase and plural form."
   },
   "unit.MB": {
     "message": "MB",
