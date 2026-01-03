@@ -1,147 +1,147 @@
 {
   "button.pay": {
-    "message": "Pay",
-    "description": "Text in button, used to pay for the order."
+    "message": "לתשלום",
+    "description": "Text in button, used to pay for the הזמנה."
   },
   "button.continuePay": {
-    "message": "Continue Payment",
-    "description": "Text in button, used to continue paying for the order."
+    "message": "להמשך תשלום",
+    "description": "Text in button, used to continue paying for the הזמנה."
   },
   "button.checkDetail": {
-    "message": "View Details",
-    "description": "Text in button, used to view order details."
+    "message": "צפה בפרטים",
+    "description": "Text in button, used to view הזמנה פרטים."
   },
   "button.query": {
-    "message": "Query",
-    "description": "Text in button, used to query the order."
+    "message": "בדיקה",
+    "description": "Text in button, used to query the הזמנה."
   },
   "button.finish": {
-    "message": "Complete Manually",
-    "description": "Text in button, used to manually complete the order."
+    "message": "סיום ידני",
+    "description": "Text in button, used to manually complete the הזמנה."
   },
   "button.update": {
-    "message": "Update",
-    "description": "Text in button, used to update the order."
+    "message": "עדכון",
+    "description": "Text in button, used to עדכון the הזמנה."
   },
   "field.id": {
-    "message": "Order ID",
-    "description": "The ID of the order."
+    "message": "מזהה הזמנה",
+    "description": "The ID of the הזמנה."
   },
   "field.amount": {
-    "message": "Amount",
-    "description": "The point amount of the order."
+    "message": "כמות",
+    "description": "The point כמות of the הזמנה."
   },
   "field.price": {
-    "message": "Amount",
-    "description": "The point amount of the order."
+    "message": "כמות",
+    "description": "The point כמות of the הזמנה."
   },
   "field.description": {
-    "message": "Order Description",
-    "description": "The description of the order."
+    "message": "תיאור הזמנה",
+    "description": "The description of the הזמנה."
   },
   "field.state": {
-    "message": "Status",
-    "description": "The status of the order."
+    "message": "סטטוס",
+    "description": "The סטטוס of the הזמנה."
   },
   "field.createdAt": {
-    "message": "Creation Time",
-    "description": "The creation time of the order."
+    "message": "זמן יצירה",
+    "description": "The creation זמן of the הזמנה."
   },
   "field.service": {
-    "message": "Service Name",
-    "description": "The name of the service."
+    "message": "שם שירות",
+    "description": "The name of the שירות."
   },
   "field.payWay": {
-    "message": "Payment Method",
-    "description": "The payment method for the order."
+    "message": "אמצעי תשלום",
+    "description": "The תשלום אמצעי for the הזמנה."
   },
   "field.api": {
     "message": "API",
-    "description": "API is an online service."
+    "description": "API is an online שירות."
   },
   "field.proxy": {
     "message": "Proxy",
-    "description": "Proxy is an online service, referring to an HTTP proxy used for data transmission."
+    "description": "Proxy is an online שירות, referring to an HTTP proxy used for data transmission."
   },
   "message.paidSuccessfully": {
-    "message": "Payment Successful",
-    "description": "Message indicating successful payment."
+    "message": "התשלום הצליח ✅",
+    "description": "Message indicating successful תשלום."
   },
   "message.orderExpired": {
-    "message": "The order has expired, please create a new order to make a payment.",
+    "message": "ההזמנה פגה תוקף. צור/י הזמנה חדשה כדי לשלם.",
     "description": "Message for expired orders."
   },
   "message.createFailed": {
-    "message": "Creation Failed",
-    "description": "Message indicating creation failure."
+    "message": "יצירה נכשלה",
+    "description": "Message indicating creation כשל."
   },
   "message.wechatPayHelp": {
-    "message": "Please open WeChat on your phone and scan to complete the payment.",
-    "description": "Message for WeChat payment help."
+    "message": "פתח/י WeChat בטלפון וסרוק/י כדי להשלים את התשלום.",
+    "description": "Message for WeChat תשלום help."
   },
   "message.free": {
-    "message": "Free",
-    "description": "Message for free orders."
+    "message": "חינם",
+    "description": "Message for חינם orders."
   },
   "message.buyInExternalUrl": {
-    "message": "Please complete the payment in the external link.",
-    "description": "Message for external link payment."
+    "message": "בצע/י את התשלום בקישור החיצוני.",
+    "description": "Message for external link תשלום."
   },
   "message.updateFailed": {
-    "message": "Update Failed",
-    "description": "Message indicating update failure."
+    "message": "עדכון נכשל",
+    "description": "Message indicating עדכון כשל."
   },
   "message.updateSuccessfully": {
-    "message": "Update Successful",
-    "description": "Message indicating successful update."
+    "message": "עודכן בהצלחה ✅",
+    "description": "Message indicating successful עדכון."
   },
   "message.confirmFinish": {
-    "message": "This action will manually set the order to paid status and complete the distribution process, which cannot be undone. Please confirm that the customer has completed the payment, do you want to continue?",
+    "message": "This action will manually set the הזמנה to paid סטטוס and complete the distribution process, which cannot be undone. נא אשר/י that the customer has completed the תשלום, do you want to continue?",
     "description": "Message for confirming completion."
   },
   "state.pending": {
-    "message": "Pending Payment",
-    "description": "The status of the order, indicating that the order is still waiting for user payment."
+    "message": "ממתין לתשלום",
+    "description": "The סטטוס of the הזמנה, indicating that the הזמנה is still waiting for user תשלום."
   },
   "state.paid": {
-    "message": "Paid",
-    "description": "The status of the order, indicating that the order has been paid."
+    "message": "שולם",
+    "description": "The סטטוס of the הזמנה, indicating that the הזמנה has been paid."
   },
   "state.finished": {
-    "message": "Completed",
-    "description": "The status of the order, indicating that the order has been completed."
+    "message": "הושלם",
+    "description": "The סטטוס of the הזמנה, indicating that the הזמנה has been completed."
   },
   "state.expired": {
-    "message": "Payment Timeout",
-    "description": "The status of the order, indicating that the order has expired."
+    "message": "פג תוקף תשלום",
+    "description": "The סטטוס of the הזמנה, indicating that the הזמנה has expired."
   },
   "state.failed": {
-    "message": "Payment Failed",
-    "description": "The status of the order, indicating that the payment for the order has failed."
+    "message": "התשלום נכשל",
+    "description": "The סטטוס of the הזמנה, indicating that the תשלום for the הזמנה has נכשל."
   },
   "title.info": {
-    "message": "Order Information",
-    "description": "Title displayed as the website title, indicating order information."
+    "message": "מידע על ההזמנה",
+    "description": "Title displayed as the website title, indicating הזמנה information."
   },
   "title.wechatPay": {
     "message": "WeChat Pay",
-    "description": "Title displayed as the website title, indicating WeChat payment."
+    "description": "Title displayed as the website title, indicating WeChat תשלום."
   },
   "title.aliPay": {
     "message": "Alipay",
-    "description": "Title displayed as the website title, indicating Alipay payment, which is an online payment."
+    "description": "Title displayed as the website title, indicating Alipay תשלום, which is an online תשלום."
   },
   "title.stripe": {
     "message": "Stripe",
-    "description": "Title displayed as the website title, indicating Stripe payment, which is an online payment."
+    "description": "Title displayed as the website title, indicating Stripe תשלום, which is an online תשלום."
   },
   "title.manageOrder": {
-    "message": "Manage Orders",
-    "description": "Title displayed as the website title, indicating order management."
+    "message": "ניהול הזמנות",
+    "description": "Title displayed as the website title, indicating הזמנה management."
   },
   "title.x402": {
-    "message": "Cryptocurrency",
-    "description": "Title displayed as the website title, indicating cryptocurrency payment (based on the X402 payment scheme)."
+    "message": "קריפטו",
+    "description": "Title displayed as the website title, indicating cryptocurrency תשלום (based on the X402 תשלום scheme)."
   },
   "message.discountTag": {
     "message": "{percent}% Discount",
@@ -149,91 +149,91 @@
   },
   "message.discountHint": {
     "message": "As our exclusive VIP customer, you can automatically enjoy a {percent}% discount.",
-    "description": "Text explaining to the user that they automatically enjoy a discount due to VIP status."
+    "description": "Text explaining to the user that they automatically enjoy a discount due to VIP סטטוס."
   },
   "message.x402DiscountApplied": {
-    "message": "Enjoy an additional {percent}% OFF with X402 payment.",
-    "description": "Text explaining the additional discount brought by X402 payment."
+    "message": "Enjoy an additional {percent}% OFF with X402 תשלום.",
+    "description": "Text explaining the additional discount brought by X402 תשלום."
   },
   "message.x402DiscountTag": {
     "message": "{percent}% Discount",
-    "description": "Highlighting the discount percentage that can be additionally enjoyed by choosing X402 payment."
+    "description": "Highlighting the discount percentage that can be additionally enjoyed by choosing X402 תשלום."
   },
   "message.x402DiscountHint": {
-    "message": "Select X402 payment to enjoy an additional {percent}% OFF discount immediately.",
-    "description": "A hint to inform users that they can unlock an additional discount by using X402 payment."
+    "message": "Select X402 תשלום to enjoy an additional {percent}% OFF discount immediately.",
+    "description": "A hint to inform users that they can unlock an additional discount by using X402 תשלום."
   },
   "message.x402IntroShort": {
-    "message": "Complete USDC payment directly with your wallet.",
+    "message": "Complete USDC תשלום directly with your ארנק.",
     "description": "A brief introductory message."
   },
   "message.x402TabWallet": {
-    "message": "Wallet Payment",
-    "description": "Title for the Wallet Payment tab."
+    "message": "תשלום מארנק",
+    "description": "Title for the ארנק תשלום tab."
   },
   "message.x402TabApi": {
-    "message": "Programmatic",
+    "message": "באמצעות קוד",
     "description": "Title for the Programmatic tab."
   },
   "message.x402WalletTitle": {
-    "message": "Connect Wallet and Pay USDC",
-    "description": "Title for the X402 wallet quick payment (USDC)."
+    "message": "חבר/י ארנק ושלם/י ב־USDC",
+    "description": "Title for the X402 ארנק quick תשלום (USDC)."
   },
   "message.x402WalletConnected": {
-    "message": "Connected",
-    "description": "Label displayed when the wallet is connected."
+    "message": "מחובר",
+    "description": "Label displayed when the ארנק is connected."
   },
   "message.x402ConnectWallet": {
-    "message": "Connect Wallet",
-    "description": "Text for the button to connect the EVM wallet."
+    "message": "חיבור ארנק",
+    "description": "Text for the button to חבר/י the EVM ארנק."
   },
   "message.x402NoWalletDesc": {
-    "message": "Please use a browser that supports wallets (recommended Chrome/Brave), or install the MetaMask/Phantom extension; you can also open this page in the built-in browser of your mobile wallet app.",
-    "description": "General description for when no wallet is available."
+    "message": "נא use a browser that supports wallets (recommended Chrome/Brave), or install the Meta Mask/Phantom extension; you can also open this page in the built in browser of your mobile ארנק app.",
+    "description": "General description for when no ארנק is available."
   },
   "message.x402SwitchNetwork": {
-    "message": "Please switch your wallet network to {network}",
+    "message": "נא switch your ארנק network to {network}",
     "description": "Text prompting the user to switch to the specified chain network."
   },
   "message.x402SolanaNotEnabled": {
     "message": "Solana X402 backend is not yet enabled.",
-    "description": "Prompt when the order has not enabled Solana X402."
+    "description": "פרומפט when the הזמנה has not enabled Solana X402."
   },
   "message.x402NeedConnectAccount": {
-    "message": "Please connect your wallet first.",
-    "description": "Reminder displayed when the wallet is not connected."
+    "message": "קודם חבר/י ארנק.",
+    "description": "Reminder displayed when the ארנק is not connected."
   },
   "message.x402ConfirmTitle": {
-    "message": "Confirm Payment",
-    "description": "Title for the X402 payment confirmation popup."
+    "message": "אישור תשלום",
+    "description": "Title for the X402 תשלום confirmation popup."
   },
   "message.x402ConfirmDesc": {
-    "message": "Confirm payment of USDC on {network}?",
-    "description": "Description for the X402 payment confirmation popup."
+    "message": "אשר/י תשלום of USDC on {network}?",
+    "description": "Description for the X402 תשלום confirmation popup."
   },
   "message.x402StepsTitle": {
-    "message": "Payment Steps",
-    "description": "Title for the steps."
+    "message": "שלבי תשלום",
+    "description": "Title for the שלבים."
   },
   "message.x402Step1": {
-    "message": "Connect your wallet (if not installed, please install the extension and refresh this page or open this page with your mobile wallet)",
+    "message": "חבר/י your ארנק (if not installed, נא install the extension and refresh this page or open this page with your mobile ארנק)",
     "description": "Text for Step 1."
   },
   "message.x402Step2": {
-    "message": "Modify wallet settings to confirm the wallet network is {network}",
+    "message": "Modify ארנק settings to אשר/י the ארנק network is {network}",
     "description": "Text for Step 2."
   },
   "message.x402Step3": {
-    "message": "Click 'Use Wallet to Pay' and complete the authorization signature in your wallet",
+    "message": "Click 'Use ארנק to Pay' and complete the authorization signature in your ארנק",
     "description": "Text for Step 3."
   },
   "message.x402Step4": {
-    "message": "After successful signing, we will automatically settle, and this page will refresh to show that payment has been completed.",
+    "message": "After successful signing, we will automatically settle, and this page will refresh to show that תשלום has been completed.",
     "description": "Text for Step 4."
   },
   "message.x402IntegrationResourceLabel": {
-    "message": "Payment API Address",
-    "description": "Label for the payment API address."
+    "message": "תשלום API Address",
+    "description": "Label for the תשלום API address."
   },
   "message.x402IntegrationPayToLabel": {
     "message": "Settlement Address",
@@ -248,7 +248,7 @@
     "description": "Label displaying the settlement asset."
   },
   "message.x402IntegrationFallback": {
-    "message": "Failed to retrieve complete session data, please refer to the developer documentation or contact support for necessary parameters.",
+    "message": "נכשל to retrieve complete session data, נא refer to the developer documentation or contact support for necessary פרמטרים.",
     "description": "Message displayed when session data cannot be retrieved."
   },
   "message.x402IntegrationDocsCta": {
@@ -256,47 +256,47 @@
     "description": "Text for the action button to open the developer guide."
   },
   "message.x402InstallGuideTitle": {
-    "message": "Install Wallet Extension",
-    "description": "Title for the wallet installation instructions popup."
+    "message": "Install ארנק Extension",
+    "description": "Title for the ארנק installation instructions popup."
   },
   "message.x402InstallGuideDesc": {
-    "message": "Please follow the steps below to complete the installation of the {wallet} extension, then use the button below to refresh this page to re-detect the wallet.",
-    "description": "Description guiding users to complete the wallet extension installation."
+    "message": "נא follow the שלבים below to complete the installation of the {wallet} extension, then use the button below to refresh this page to re detect the ארנק.",
+    "description": "Description guiding users to complete the ארנק extension installation."
   },
   "message.x402InstallGuideStep1": {
-    "message": "Open the newly opened page to download and install the {wallet} browser extension (recommended Chrome/Brave).",
-    "description": "Step 1 for wallet installation."
+    "message": "Open the newly opened page to הורד and install the {wallet} browser extension (recommended Chrome/Brave).",
+    "description": "Step 1 for ארנק installation."
   },
   "message.x402InstallGuideStep2": {
-    "message": "Complete the extension installation, log in/unlock, and confirm that it is enabled in the current browser profile.",
-    "description": "Step 2 for wallet installation."
+    "message": "Complete the extension installation, log in/unlock, and אשר/י that it is enabled in the current browser profile.",
+    "description": "Step 2 for ארנק installation."
   },
   "message.x402InstallGuideStep3": {
-    "message": "Return to this page, click 'I have installed' and refresh before trying to 'Connect Wallet' again.",
-    "description": "Step 3 for wallet installation."
+    "message": "להחזיר to this page, click 'I have installed' and refresh before trying to 'חבר/י ארנק' again.",
+    "description": "Step 3 for ארנק installation."
   },
   "message.x402InstallGuideConfirm": {
     "message": "I have installed",
-    "description": "Main button after completing wallet installation."
+    "description": "Main button after completing ארנק installation."
   },
   "message.x402NetworkGuideTitle": {
     "message": "Adjust Network Settings",
     "description": "Title for the network mismatch instructions popup."
   },
   "message.x402NetworkGuideDesc": {
-    "message": "Please follow the steps below to switch your wallet network to {network}, and refresh this page to re-detect after completion.",
-    "description": "Description guiding users to adjust their wallet network."
+    "message": "נא follow the שלבים below to switch your ארנק network to {network}, and refresh this page to re detect after completion.",
+    "description": "Description guiding users to adjust their ארנק network."
   },
   "message.x402NetworkGuideStep1": {
-    "message": "Open the wallet extension, go to Settings -> Active Networks.",
+    "message": "Open the ארנק extension, go to Settings > Active Networks.",
     "description": "Step 1 for network settings."
   },
   "message.x402NetworkGuideStep2": {
-    "message": "In the network list, confirm that {network} (or another specified network) is enabled. If it is enabled, you can ignore this step.",
+    "message": "In the network list, אשר/י that {network} (or another specified network) is enabled. If it is enabled, you can ignore this step.",
     "description": "Instructions for the second step of adjusting the network, no need to turn off Ethereum."
   },
   "message.x402NetworkGuideStep3": {
-    "message": "Return to this page and click 'I have completed the setup' to refresh and try the payment again.",
+    "message": "להחזיר to this page and click 'I have completed the setup' to refresh and try the תשלום again.",
     "description": "Network setup step 3."
   },
   "message.x402NetworkGuideConfirm": {
@@ -304,28 +304,28 @@
     "description": "Main button after completing the network setup."
   },
   "message.x402NetworkSwitchFailed": {
-    "message": "The current wallet does not support automatic network switching. Please manually switch to the specified network in the wallet and try again.",
-    "description": "Prompt to inform the user that the wallet does not support automatic network switching and needs to switch manually."
+    "message": "The current ארנק does not support automatic network switching. נא manually switch to the specified network in the ארנק and try again.",
+    "description": "פרומפט to inform the user that the ארנק does not support automatic network switching and needs to switch manually."
   },
   "message.x402PaymentFailed": {
-    "message": "X402 wallet payment failed, please try again later. If it fails multiple times, please contact support and provide the error information.",
-    "description": "General error prompt that appears when X402 wallet payment fails."
+    "message": "X402 ארנק תשלום נכשל, נא try again later. If it fails multiple times, נא contact support and provide the error information.",
+    "description": "General error פרומפט that appears when X402 ארנק תשלום fails."
   },
   "message.x402WalletPayCta": {
-    "message": "Pay with wallet",
-    "description": "Button text for completing payment using the bound wallet."
+    "message": "Pay with ארנק",
+    "description": "Button text for completing תשלום using the bound ארנק."
   },
   "button.refund": {
     "message": "Refund",
-    "description": "Text in the button for manually refunding an order."
+    "description": "Text in the button for manually refunding an הזמנה."
   },
   "field.applicationId": {
     "message": "Application ID",
-    "description": "The application ID associated with the order."
+    "description": "The application ID associated with the הזמנה."
   },
   "field.serviceId": {
-    "message": "Service ID",
-    "description": "The service ID corresponding to the discount."
+    "message": "שירות ID",
+    "description": "The שירות ID corresponding to the discount."
   },
   "field.generalDiscount": {
     "message": "General Discount",
@@ -337,75 +337,75 @@
   },
   "field.discount": {
     "message": "Discount",
-    "description": "The discount rate applied to the user's order."
+    "description": "The discount אחוז applied to the user's הזמנה."
   },
   "field.actions": {
     "message": "Actions",
     "description": "Title for the action button column."
   },
   "message.confirmRefund": {
-    "message": "This action will revoke the rights of this order and mark it as refunded, and cannot be undone. Please confirm that you have processed the refund, do you want to continue?",
-    "description": "Message to confirm the refund."
+    "message": "This action will revoke the rights of this הזמנה and mark it as refunded, and cannot be undone. נא אשר/י that you have processed the refund, do you want to continue?",
+    "description": "Message to אשר/י the refund."
   },
   "message.x402IntegrationIntro": {
-    "message": "The current order uses the X402 payment protocol. Please complete the integration on the server side based on the parameters below and initiate the payment.",
+    "message": "The current הזמנה uses the X402 תשלום protocol. נא complete the integration on the server side based on the פרמטרים below and initiate the תשלום.",
     "description": "Introduction to the need to use the X402 protocol."
   },
   "message.x402IntegrationProtocol": {
-    "message": "Call the facilitator payment interface and complete the signature broadcast. After successful settlement, return to this page to confirm the status.",
-    "description": "Instructions for completing the X402 payment operation steps."
+    "message": "Call the facilitator תשלום interface and complete the signature broadcast. After successful settlement, להחזיר to this page to אשר/י the סטטוס.",
+    "description": "Instructions for completing the X402 תשלום operation שלבים."
   },
   "message.x402IntegrationDocsHint": {
-    "message": "Want to know more details? Please check the development documentation below.",
+    "message": "Want to know more פרטים? נא check the development documentation below.",
     "description": "Text reminding users that they can get more information through the development documentation."
   },
   "message.x402WalletTitleEvm": {
-    "message": "EVM Wallet",
-    "description": "Title for the EVM wallet connection card."
+    "message": "EVM ארנק",
+    "description": "Title for the EVM ארנק connection card."
   },
   "message.x402WalletTitleSolana": {
-    "message": "Solana Wallet",
-    "description": "Title for the Solana wallet connection card."
+    "message": "Solana ארנק",
+    "description": "Title for the Solana ארנק connection card."
   },
   "message.x402WalletStatusDetected": {
     "message": "Detected",
-    "description": "Status label for detected/installed wallets."
+    "description": "סטטוס label for detected/installed wallets."
   },
   "message.x402WalletStatusInstall": {
     "message": "Install",
-    "description": "Wallet installation entry/status label."
+    "description": "ארנק installation entry/status label."
   },
   "message.x402WalletStatusQr": {
     "message": "QR Code",
-    "description": "Label for the WalletConnect QR code entry."
+    "description": "Label for the Wallet Connect QR code entry."
   },
   "message.x402WalletConnectTitle": {
-    "message": "WalletConnect",
-    "description": "Title for the WalletConnect QR code popup."
+    "message": "Wallet Connect",
+    "description": "Title for the Wallet Connect QR code popup."
   },
   "message.x402WalletConnectPreparing": {
-    "message": "Preparing WalletConnect…",
-    "description": "Prompt when preparing the WalletConnect connection."
+    "message": "Preparing Wallet Connect…",
+    "description": "פרומפט when preparing the Wallet Connect connection."
   },
   "message.x402WalletConnectOpenWallet": {
-    "message": "Open Wallet",
-    "description": "Button text to invoke the wallet via WalletConnect on mobile."
+    "message": "Open ארנק",
+    "description": "Button text to invoke the ארנק via Wallet Connect on mobile."
   },
   "message.x402WalletConnectScanHint": {
-    "message": "Please use a wallet that supports WalletConnect to scan the QR code.",
-    "description": "Prompt text below the WalletConnect QR code."
+    "message": "נא use a ארנק that supports Wallet Connect to scan the QR code.",
+    "description": "פרומפט text below the Wallet Connect QR code."
   },
   "message.x402SwitchNetworkCta": {
     "message": "Switch to {network}",
     "description": "CTA for clicking to switch networks."
   },
   "message.x402NoWalletTitle": {
-    "message": "No EVM Wallet Detected",
-    "description": "Title when no EVM wallet is injected in the browser."
+    "message": "No EVM ארנק Detected",
+    "description": "Title when no EVM ארנק is injected in the browser."
   },
   "message.x402NoWalletSafariDesc": {
-    "message": "Safari usually does not support extensions like MetaMask. It is recommended to use Chrome/Brave or open this page in the built-in browser of the mobile wallet app.",
-    "description": "Description for no wallet in Safari environment."
+    "message": "Safari usually does not support extensions like MetaMask. It is recommended to use Chrome/Brave or open this page in the built in browser of the mobile ארנק app.",
+    "description": "Description for no ארנק in Safari environment."
   },
   "message.x402InstallMetaMask": {
     "message": "Install MetaMask",
@@ -416,68 +416,68 @@
     "description": "Button text for installing Phantom."
   },
   "message.x402ConnectWC": {
-    "message": "Connect with WalletConnect",
-    "description": "Button text for connecting with WalletConnect."
+    "message": "חבר/י with Wallet Connect",
+    "description": "Button text for connecting with Wallet Connect."
   },
   "message.x402RefreshDetect": {
-    "message": "Re-detect",
-    "description": "Button text for re-detecting the wallet."
+    "message": "Re detect",
+    "description": "Button text for re detecting the ארנק."
   },
   "message.x402MissingWCProjectId": {
-    "message": "WalletConnect Project ID not configured (please set the environment variable VITE_WALLETCONNECT_PROJECT_ID)",
-    "description": "Prompt for missing WalletConnect project ID."
+    "message": "Wallet Connect Project ID not configured (נא set the environment variable VITE WALLETCONNECT PROJECT מזהה)",
+    "description": "פרומפט for missing Wallet Connect project ID."
   },
   "message.x402WalletBound": {
     "message": "Bound",
-    "description": "Badge displayed when the wallet is bound."
+    "description": "Badge displayed when the ארנק is bound."
   },
   "message.userIdRequired": {
-    "message": "Please enter the user ID.",
-    "description": "Prompt message displayed when the user ID is empty."
+    "message": "נא enter the user ID.",
+    "description": "פרומפט message displayed when the user ID is empty."
   },
   "message.serviceIdRequired": {
-    "message": "Please select a service.",
-    "description": "Prompt message displayed when the service ID is empty."
+    "message": "נא select a שירות.",
+    "description": "פרומפט message displayed when the שירות ID is empty."
   },
   "message.discountRequired": {
-    "message": "Please enter a discount between 0 and 1.",
-    "description": "Prompt message displayed when the discount is not within the valid range."
+    "message": "נא enter a discount between 0 and 1.",
+    "description": "פרומפט message displayed when the discount is not within the valid range."
   },
   "message.discountCreated": {
     "message": "Discount saved successfully.",
-    "description": "Prompt message displayed when a new discount is successfully created."
+    "description": "פרומפט message displayed when a new discount is successfully נוצר."
   },
   "message.discountUpdated": {
     "message": "Discount updated successfully.",
-    "description": "Prompt message displayed when a discount is successfully edited."
+    "description": "פרומפט message displayed when a discount is successfully edited."
   },
   "message.discountDeleted": {
     "message": "Discount deleted successfully.",
-    "description": "Prompt message displayed when a discount is successfully deleted."
+    "description": "פרומפט message displayed when a discount is successfully deleted."
   },
   "state.refunded": {
     "message": "Refunded",
-    "description": "The status of the order, indicating that the order has been refunded."
+    "description": "The סטטוס of the הזמנה, indicating that the הזמנה has been refunded."
   },
   "title.revenueAnalysis": {
     "message": "Revenue Analysis",
     "description": "Title of the revenue analysis page."
   },
   "title.todayRevenue": {
-    "message": "Today's Transaction Amount",
-    "description": "Today's transaction amount."
+    "message": "Today's Transaction כמות",
+    "description": "Today's transaction כמות."
   },
   "title.last7dRevenue": {
-    "message": "Transaction Amount in the Last Week",
-    "description": "Transaction amount in the last week."
+    "message": "Transaction כמות in the אחרון Week",
+    "description": "Transaction כמות in the אחרון week."
   },
   "title.last30dRevenue": {
-    "message": "Transaction Amount in the Last Month",
-    "description": "Transaction amount in the last 30 days."
+    "message": "Transaction כמות in the אחרון Month",
+    "description": "Transaction כמות in the אחרון 30 days."
   },
   "title.last90dRevenue": {
-    "message": "Transaction Amount in the Last Quarter",
-    "description": "Transaction amount in the last 90 days."
+    "message": "Transaction כמות in the אחרון Quarter",
+    "description": "Transaction כמות in the אחרון 90 days."
   },
   "title.revenueTrend": {
     "message": "Revenue Trend",
@@ -485,7 +485,7 @@
   },
   "title.manageOrderDiscount": {
     "message": "Discount Management",
-    "description": "Title of the order discount management page."
+    "description": "Title of the הזמנה discount management page."
   },
   "title.discountLookup": {
     "message": "Current Discounts",
@@ -496,7 +496,7 @@
     "description": "Title of the section for creating a new discount."
   },
   "title.updateDiscount": {
-    "message": "Update Discount",
+    "message": "עדכון Discount",
     "description": "Title of the popup for editing a discount."
   }
 }

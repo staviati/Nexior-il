@@ -1,43 +1,43 @@
 {
   "name.taskId": {
-    "message": "Task ID",
-    "description": "The ID of the task"
+    "message": "מזהה משימה",
+    "description": "The ID of the משימה"
   },
   "name.type": {
-    "message": "Type",
-    "description": "The content type of the QR code to be generated, such as 'link', 'text', etc."
+    "message": "סוג",
+    "description": "The content סוג of the QR code to be generated, such as 'link', 'text', etc."
   },
   "name.failure": {
-    "message": "Failure",
-    "description": "The failure status of the task"
+    "message": "כשל",
+    "description": "The כשל סטטוס of the משימה"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "The reason for the task failure"
+    "message": "סיבת כשל",
+    "description": "The סיבה for the משימה כשל"
   },
   "name.status": {
-    "message": "Status",
-    "description": "The status of the task"
+    "message": "סטטוס",
+    "description": "The סטטוס of the משימה"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "The trace ID of the task"
+    "message": "מזהה מעקב",
+    "description": "The מעקב ID of the משימה"
   },
   "name.size": {
     "message": "Size",
     "description": "The size of the QR code to be generated"
   },
   "name.createdAt": {
-    "message": "Created At",
-    "description": "The date and time the QR code was generated"
+    "message": "נוצר ב־",
+    "description": "The date and זמן the QR code was generated"
   },
   "name.pixelStyle": {
-    "message": "Pixel Style",
-    "description": "The pixel style of the QR code to be generated"
+    "message": "Pixel סגנון",
+    "description": "The pixel סגנון of the QR code to be generated"
   },
   "name.seed": {
     "message": "Seed",
-    "description": "The seed for the QR code to be generated"
+    "description": "The Seed for the QR code to be generated"
   },
   "name.paddingLevel": {
     "message": "Padding Level",
@@ -60,8 +60,8 @@
     "description": "The position of the QR code to be generated"
   },
   "name.prompt": {
-    "message": "Prompt",
-    "description": "The prompt for content input"
+    "message": "פרומפט",
+    "description": "The פרומפט for content input"
   },
   "name.rotate": {
     "message": "Rotation",
@@ -72,8 +72,8 @@
     "description": "The advanced settings of the QR code to be generated"
   },
   "name.aspectRatio": {
-    "message": "Aspect Ratio",
-    "description": "The aspect ratio of the QR code to be generated"
+    "message": "יחס ממדים",
+    "description": "The יחס ממדים of the QR code to be generated"
   },
   "name.markerShape": {
     "message": "Marker Shape",
@@ -88,59 +88,59 @@
     "description": "The name of the QR code generator"
   },
   "name.steps": {
-    "message": "Generation Steps",
-    "description": "The number of steps to generate the QR code"
+    "message": "Generation שלבים",
+    "description": "The number of שלבים to צור the QR code"
   },
   "name.preset": {
-    "message": "Preset Style",
+    "message": "Preset סגנון",
     "description": "The preset of the QR code to be generated"
   },
   "name.qrartBot": {
-    "message": "QrArt Bot",
+    "message": "Qr Art Bot",
     "description": "The name of the QR code generator"
   },
   "name.contentImageUrl": {
-    "message": "Content Image URL",
-    "description": "The content image URL of the QR code to be generated"
+    "message": "Content תמונה URL",
+    "description": "The content תמונה URL of the QR code to be generated"
   },
   "inputWay.input": {
     "message": "Input",
-    "description": "Input method"
+    "description": "Input אמצעי"
   },
   "inputWay.upload": {
-    "message": "Upload",
-    "description": "Input method"
+    "message": "העלאה",
+    "description": "Input אמצעי"
   },
   "description.qrw": {
     "message": "QR code visibility, the larger the size, the higher the QR code visibility",
-    "description": "Description of the parameter 'qrw'"
+    "description": "Description of the פרמטר 'qrw'"
   },
   "description.steps": {
-    "message": "The number of steps to generate the QR code, the more steps, the higher the QR code visibility",
-    "description": "Description of the parameter 'steps'"
+    "message": "The number of שלבים to צור the QR code, the more שלבים, the higher the QR code visibility",
+    "description": "Description of the פרמטר 'שלבים'"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "The pending status of the task"
+    "message": "ממתין",
+    "description": "The ממתין סטטוס of the משימה"
   },
   "placeholder.paddingNoise": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for padding noise input"
   },
   "placeholder.paddingLevel": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for padding level"
   },
   "placeholder.prompt": {
-    "message": "Enter prompt words for the QR code style to be generated, e.g., flowers",
-    "description": "Placeholder text in the prompt field"
+    "message": "Enter פרומפט words for the QR code סגנון to be generated, e.g., flowers",
+    "description": "Placeholder text in the פרומפט field"
   },
   "placeholder.seed": {
     "message": "Seed range is 1 to 9007199254740991",
-    "description": "Placeholder for seed input"
+    "description": "Placeholder for Seed input"
   },
   "placeholder.position": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for position input"
   },
   "placeholder.content": {
@@ -148,179 +148,179 @@
     "description": "Placeholder text in the content field"
   },
   "placeholder.aspectRatio": {
-    "message": "Please select...",
-    "description": "Placeholder for aspect ratio input"
+    "message": "בחר/י…",
+    "description": "Placeholder for יחס ממדים input"
   },
   "placeholder.preset": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for preset input"
   },
   "placeholder.markerShape": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for marker shape input"
   },
   "placeholder.rotate": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for rotation input"
   },
   "placeholder.subMarker": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for sub marker input"
   },
   "button.generate": {
-    "message": "Generate",
+    "message": "צור",
     "description": "Button text for generating the QR code"
   },
   "button.uploadQr": {
-    "message": "Upload QR Code",
+    "message": "העלאה QR Code",
     "description": "Button text for uploading the QR code"
   },
   "preset.sunset": {
     "message": "Sunset",
-    "description": "The preset style of the QR code to be generated"
+    "description": "The preset סגנון of the QR code to be generated"
   },
   "preset.floral": {
     "message": "Floral",
-    "description": "The preset style of the QR code to be generated"
+    "description": "The preset סגנון of the QR code to be generated"
   },
   "preset.snowflakes": {
     "message": "Snowflakes",
-    "description": "The preset style of the QR code to be generated"
+    "description": "The preset סגנון of the QR code to be generated"
   },
   "preset.feathers": {
     "message": "Feathers",
-    "description": "The preset style of the QR code to be generated"
+    "description": "The preset סגנון of the QR code to be generated"
   },
   "preset.raindrops": {
     "message": "Raindrops",
-    "description": "The preset style of the QR code to be generated"
+    "description": "The preset סגנון of the QR code to be generated"
   },
   "preset.ultraRealism": {
     "message": "Ultra Realism",
-    "description": "The preset style of the QR code to be generated"
+    "description": "The preset סגנון of the QR code to be generated"
   },
   "preset.epicRealms": {
     "message": "Epic Realms",
-    "description": "The preset style of the QR code to be generated"
+    "description": "The preset סגנון of the QR code to be generated"
   },
   "preset.intricateStudio": {
     "message": "Intricate Studio",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.symmetricMasterpiece": {
     "message": "Symmetric Masterpiece",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.luminousHighway": {
     "message": "Luminous Highway",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.celestialJourney": {
     "message": "Celestial Journey",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.neonMech": {
     "message": "Neon Mech",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.etherealLowPoly": {
     "message": "Ethereal Low Poly",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.goldenVista": {
     "message": "Golden Vista",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.cinematicExpanse": {
     "message": "Cinematic Expanse",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.cinematicWarm": {
     "message": "Cinematic Warm",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.desolateWilderness": {
     "message": "Desolate Wilderness",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.vibrantPalette": {
     "message": "Vibrant Palette",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.enigmaticJourney": {
     "message": "Enigmatic Journey",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.timelessCinematic": {
     "message": "Timeless Cinematic",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.regalGalaxy": {
     "message": "Regal Galaxy",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.illustriousCanvas": {
     "message": "Illustrious Canvas",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.expressiveMural": {
     "message": "Expressive Mural",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "preset.sereneHaze": {
     "message": "Serene Haze",
-    "description": "Preset style for the QR code to be generated"
+    "description": "Preset סגנון for the QR code to be generated"
   },
   "message.uploadQr": {
-    "message": "Upload a QR code image to generate an artistic QR code with the same content",
+    "message": "העלאה a QR code תמונה to צור an artistic QR code with the same content",
     "description": "Instructions for uploading a QR code"
   },
   "message.promptPlaceholder": {
-    "message": "Please enter a sentence describing the image to be generated, e.g., a cute cat. Additional parameters will override default preset parameters",
-    "description": "Placeholder text in the prompt field"
+    "message": "נא enter a sentence describing the תמונה to be generated, e.g., a cute cat. Additional פרמטרים will override default preset פרמטרים",
+    "description": "Placeholder text in the פרומפט field"
   },
   "message.uploadReferencesExceed": {
-    "message": "You can upload up to 5 images",
+    "message": "You can העלאה up to 5 images",
     "description": "Error message when the number of uploaded images exceeds the limit"
   },
   "message.uploadReferencesSuccess": {
-    "message": "Image uploaded successfully",
-    "description": "Success message when an image is uploaded successfully"
+    "message": "תמונה uploaded successfully",
+    "description": "הצלחה message when an תמונה is uploaded successfully"
   },
   "message.uploadReferencesError": {
-    "message": "Failed to upload image, please try again later",
-    "description": "Error message when image upload fails"
+    "message": "נכשל to העלאה תמונה, נא try again later",
+    "description": "Error message when תמונה העלאה fails"
   },
   "message.startingTask": {
-    "message": "Starting task...",
-    "description": "Message when a drawing task begins"
+    "message": "מתחילים משימה…",
+    "description": "Message when a drawing משימה begins"
   },
   "message.startTaskSuccess": {
-    "message": "Successfully initiated generation task",
-    "description": "Success message when a task is started successfully"
+    "message": "Successfully initiated generation משימה",
+    "description": "הצלחה message when a משימה is started successfully"
   },
   "message.startTaskFailed": {
-    "message": "Failed to initiate task, please contact the administrator",
-    "description": "Error message when starting a drawing task fails"
+    "message": "נכשל to initiate משימה, נא contact the administrator",
+    "description": "Error message when starting a drawing משימה fails"
   },
   "message.usedUp": {
-    "message": "Your credits are used up, please purchase more credits to continue using",
+    "message": "Your credits are used up, נא purchase more credits to continue using",
     "description": "Message when credits are used up"
   },
   "message.generating": {
     "message": "Generating...",
-    "description": "Message when an image is being generated"
+    "description": "Message when an תמונה is being generated"
   },
   "message.generateFailed": {
-    "message": "Failed to generate image",
-    "description": "Message when image generation fails"
+    "message": "נכשל to צור תמונה",
+    "description": "Message when תמונה generation fails"
   },
   "message.noOperations": {
     "message": "No operations available",
     "description": "Message when no operations are available"
   },
   "message.noTasks": {
-    "message": "No historical tasks, please click below to generate a new QR code",
+    "message": "No historical tasks, נא click below to צור a new QR code",
     "description": "Message when there are no tasks"
   },
   "markerShape.square": {
@@ -353,23 +353,23 @@
   },
   "subMarker.square": {
     "message": "Square",
-    "description": "Sub-marker shape used for generating QR code"
+    "description": "Sub marker shape used for generating QR code"
   },
   "subMarker.circle": {
     "message": "Circle",
-    "description": "Sub-marker shape used for generating QR code"
+    "description": "Sub marker shape used for generating QR code"
   },
   "subMarker.plus": {
     "message": "Plus",
-    "description": "Sub-marker shape used for generating QR code"
+    "description": "Sub marker shape used for generating QR code"
   },
   "subMarker.box": {
     "message": "Box",
-    "description": "Sub-marker shape used for generating QR code"
+    "description": "Sub marker shape used for generating QR code"
   },
   "subMarker.random": {
     "message": "Random",
-    "description": "Sub-marker shape used for generating QR code"
+    "description": "Sub marker shape used for generating QR code"
   },
   "position.center": {
     "message": "Center",
@@ -409,46 +409,46 @@
   },
   "pixelStyle.row": {
     "message": "Row",
-    "description": "Pixel style for generating QR code"
+    "description": "Pixel סגנון for generating QR code"
   },
   "pixelStyle.column": {
     "message": "Column",
-    "description": "Pixel style for generating QR code"
+    "description": "Pixel סגנון for generating QR code"
   },
   "pixelStyle.square": {
     "message": "Square",
-    "description": "Pixel style for generating QR code"
+    "description": "Pixel סגנון for generating QR code"
   },
   "pixelStyle.rounded": {
     "message": "Rounded",
-    "description": "Pixel style for generating QR code"
+    "description": "Pixel סגנון for generating QR code"
   },
   "pixelStyle.dot": {
     "message": "Dot",
-    "description": "Pixel style for generating QR code"
+    "description": "Pixel סגנון for generating QR code"
   },
   "pixelStyle.squircle": {
     "message": "Squircle",
-    "description": "Pixel style for generating QR code"
+    "description": "Pixel סגנון for generating QR code"
   },
   "type.text": {
     "message": "Text",
-    "description": "Content type for generating QR code"
+    "description": "Content סוג for generating QR code"
   },
   "type.link": {
     "message": "Link",
-    "description": "Content type for generating QR code"
+    "description": "Content סוג for generating QR code"
   },
   "type.email": {
     "message": "Email",
-    "description": "Content type for generating QR code"
+    "description": "Content סוג for generating QR code"
   },
   "type.phone": {
     "message": "Phone",
-    "description": "Content type for generating QR code"
+    "description": "Content סוג for generating QR code"
   },
   "type.sms": {
     "message": "SMS",
-    "description": "Content type for generating QR code"
+    "description": "Content סוג for generating QR code"
   }
 }

@@ -1,166 +1,166 @@
 {
   "name.seedanceBot": {
-    "message": "SeeDance Bot",
-    "description": "Name of the SeeDance video generator"
+    "message": "See Dance Bot",
+    "description": "Name of the See Dance ווידאו generator"
   },
   "name.prompt": {
-    "message": "Prompt",
-    "description": "Prompt for generating the video"
+    "message": "פרומפט",
+    "description": "פרומפט for generating the ווידאו"
   },
   "description.prompt": {
-    "message": "Describe the video you want to generate, you can add SeeDance parameters (e.g., --rs 720p --rt 16:9 --dur 5).",
-    "description": "Instructions for prompt input"
+    "message": "תאר/י את הווידאו שתרצה/י ליצור — אפשר להוסיף גם פרמטרים של SeeDance (למשל: ‎--rs 720p ‎--rt 16:9 ‎--dur 5).",
+    "description": "Instructions for פרומפט input"
   },
   "placeholder.prompt": {
-    "message": "Describe your video…",
-    "description": "Placeholder for prompt"
+    "message": "תאר/י את הווידאו…",
+    "description": "Placeholder for פרומפט"
   },
   "name.model": {
-    "message": "Model",
-    "description": "Model selection label"
+    "message": "מודל",
+    "description": "מודל selection label"
   },
   "description.model": {
-    "message": "Select the SeeDance model version for generation.",
-    "description": "Instructions for model selection"
+    "message": "Select the See Dance מודל גרסה for generation.",
+    "description": "Instructions for מודל selection"
   },
   "placeholder.select": {
-    "message": "Select",
+    "message": "בחר/י",
     "description": "Placeholder for dropdown selection"
   },
   "model.seedance10pro": {
     "message": "doubao-seedance-1.0-pro",
-    "description": "SeeDance 1.0 Pro model"
+    "description": "See Dance 1.0 Pro מודל"
   },
   "model.seedance10proFast": {
     "message": "doubao-seedance-1.0-pro-fast",
-    "description": "SeeDance 1.0 Pro Fast model"
+    "description": "See Dance 1.0 Pro Fast מודל"
   },
   "model.seedance15pro": {
     "message": "doubao-seedance-1.5-pro",
-    "description": "SeeDance 1.5 Pro model"
+    "description": "See Dance 1.5 Pro מודל"
   },
   "model.seedance10liteT2v": {
     "message": "doubao-seedance-1.0-lite-t2v",
-    "description": "SeeDance 1.0 Lite T2V model"
+    "description": "See Dance 1.0 Lite T2V מודל"
   },
   "model.seedance10liteI2v": {
     "message": "doubao-seedance-1.0-lite-i2v",
-    "description": "SeeDance 1.0 Lite I2V model"
+    "description": "See Dance 1.0 Lite I2V מודל"
   },
   "name.serviceTier": {
-    "message": "Service Tier",
-    "description": "Service tier label"
+    "message": "רמת שירות",
+    "description": "שירות רמה label"
   },
   "description.serviceTier": {
-    "message": "Processing tier: default or flex.",
-    "description": "Instructions for service tier"
+    "message": "בעיבוד רמה: default or flex.",
+    "description": "Instructions for שירות רמה"
   },
   "serviceTier.default": {
-    "message": "default",
-    "description": "Default tier"
+    "message": "רגיל",
+    "description": "Default רמה"
   },
   "serviceTier.flex": {
-    "message": "flex",
-    "description": "Flexible tier"
+    "message": "גמיש",
+    "description": "Flexible רמה"
   },
   "name.returnLastFrame": {
-    "message": "Return Last Frame",
-    "description": "Return last frame toggle label"
+    "message": "להחזיר פריים אחרון",
+    "description": "להחזיר אחרון פריים toggle label"
   },
   "description.returnLastFrame": {
-    "message": "Enabling this will return the last frame image as well.",
-    "description": "Instructions for returning last frame"
+    "message": "Enabling this will להחזיר the אחרון פריים תמונה as well.",
+    "description": "Instructions for returning אחרון פריים"
   },
   "name.firstFrame": {
-    "message": "First Frame Image",
-    "description": "First frame image upload label"
+    "message": "תמונת פריים ראשון",
+    "description": "First פריים תמונה העלאה label"
   },
   "description.firstFrame": {
-    "message": "Optional. Upload a reference/first frame image.",
-    "description": "Instructions for first frame image"
+    "message": "Optional. העלאה a reference/first פריים תמונה.",
+    "description": "Instructions for first פריים תמונה"
   },
   "name.lastFrame": {
-    "message": "Last Frame Image",
-    "description": "Last frame image upload label"
+    "message": "תמונת פריים אחרון",
+    "description": "אחרון פריים תמונה העלאה label"
   },
   "description.lastFrame": {
-    "message": "Optional. Upload the last frame image (requires first frame).",
-    "description": "Instructions for last frame image"
+    "message": "Optional. העלאה the אחרון פריים תמונה (requires first פריים).",
+    "description": "Instructions for אחרון פריים תמונה"
   },
   "button.generate": {
-    "message": "Generate",
-    "description": "Generate button"
+    "message": "צור",
+    "description": "צור button"
   },
   "button.upload": {
-    "message": "Upload",
-    "description": "Upload button"
+    "message": "העלאה",
+    "description": "העלאה button"
   },
   "button.download": {
-    "message": "Download",
-    "description": "Download button"
+    "message": "הורד",
+    "description": "הורד button"
   },
   "button.on": {
-    "message": "On",
+    "message": "מופעל",
     "description": "Toggle on text"
   },
   "button.off": {
-    "message": "Off",
+    "message": "מכובה",
     "description": "Toggle off text"
   },
   "message.startingTask": {
-    "message": "Starting SeeDance task…",
-    "description": "Task start prompt"
+    "message": "מתחילים משימת SeeDance…",
+    "description": "משימה start פרומפט"
   },
   "message.startTaskSuccess": {
-    "message": "Task started",
-    "description": "Task start success prompt"
+    "message": "המשימה התחילה ✅",
+    "description": "משימה start הצלחה פרומפט"
   },
   "message.startTaskFailed": {
-    "message": "Failed to start: ",
-    "description": "Task start failure prompt"
+    "message": "נכשל to start:",
+    "description": "משימה start כשל פרומפט"
   },
   "message.usedUp": {
-    "message": "Quota exhausted",
-    "description": "Quota exhausted prompt"
+    "message": "נגמרה המכסה 😅",
+    "description": "מכסה נגמרה פרומפט"
   },
   "message.uploadExceed": {
-    "message": "You can upload a maximum of 1 image",
-    "description": "Upload limit exceeded prompt"
+    "message": "אפשר להעלות עד תמונה אחת בלבד",
+    "description": "העלאה limit exceeded פרומפט"
   },
   "message.uploadError": {
-    "message": "Upload failed",
-    "description": "Upload failure prompt"
+    "message": "העלאה נכשלה",
+    "description": "העלאה כשל פרומפט"
   },
   "message.downloadVideo": {
-    "message": "Download Video",
-    "description": "Download video prompt"
+    "message": "הורד וידאו",
+    "description": "הורד ווידאו פרומפט"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "Queue status"
+    "message": "ממתין",
+    "description": "Queue סטטוס"
   },
   "status.processing": {
-    "message": "Processing",
-    "description": "Processing status"
+    "message": "בעיבוד",
+    "description": "בעיבוד סטטוס"
   },
   "name.taskId": {
-    "message": "Task ID",
-    "description": "Task ID label"
+    "message": "מזהה משימה",
+    "description": "משימה ID label"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "Trace ID label"
+    "message": "מזהה מעקב",
+    "description": "מעקב ID label"
   },
   "name.failure": {
-    "message": "Failure",
-    "description": "Failure label"
+    "message": "כשל",
+    "description": "כשל label"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "Failure reason label"
+    "message": "סיבת כשל",
+    "description": "כשל סיבה label"
   },
   "name.status": {
-    "message": "Status",
-    "description": "Status label"
+    "message": "סטטוס",
+    "description": "סטטוס label"
   }
 }

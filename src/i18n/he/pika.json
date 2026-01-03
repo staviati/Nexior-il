@@ -1,251 +1,251 @@
 {
   "style.effect1": {
     "message": "Levitate",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect2": {
     "message": "Decapitate",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect3": {
-    "message": "Eye-pop",
-    "description": "Name of the video effect in Pika"
+    "message": "Eye pop",
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect4": {
-    "message": "Ta-da",
-    "description": "Name of the video effect in Pika"
+    "message": "Ta da",
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect5": {
     "message": "Deflate",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect6": {
     "message": "Crumble",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect7": {
     "message": "Dissolve",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect8": {
     "message": "Squish",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect9": {
     "message": "Inflate",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect10": {
     "message": "Melt",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect11": {
-    "message": "Cake-ify",
-    "description": "Name of the video effect in Pika"
+    "message": "Cake ify",
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect12": {
     "message": "Crush",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "style.effect13": {
     "message": "Explode",
-    "description": "Name of the video effect in Pika"
+    "description": "Name of the ווידאו אפקט in Pika"
   },
   "name.taskId": {
-    "message": "Task ID",
-    "description": "ID of the task"
+    "message": "מזהה משימה",
+    "description": "ID of the משימה"
   },
   "name.type": {
-    "message": "Type",
-    "description": "Content type of the Pika video to be generated, such as 'link', 'text', etc."
+    "message": "סוג",
+    "description": "Content סוג of the Pika ווידאו to be generated, such as 'link', 'text', etc."
   },
   "name.failure": {
-    "message": "Failure",
-    "description": "Failure status of the task"
+    "message": "כשל",
+    "description": "כשל סטטוס of the משימה"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "Reason for task failure"
+    "message": "סיבת כשל",
+    "description": "סיבה for משימה כשל"
   },
   "name.status": {
-    "message": "Status",
-    "description": "Status of the task"
+    "message": "סטטוס",
+    "description": "סטטוס of the משימה"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "Trace ID of the task"
+    "message": "מזהה מעקב",
+    "description": "מעקב ID of the משימה"
   },
   "name.createdAt": {
-    "message": "Created At",
-    "description": "Date and time when the Pika video was generated"
+    "message": "נוצר ב־",
+    "description": "Date and זמן when the Pika ווידאו was generated"
   },
   "name.imageUrl": {
-    "message": "Reference Image",
-    "description": "Reference image for the video to be generated"
+    "message": "תמונת ייחוס",
+    "description": "Reference תמונה for the ווידאו to be generated"
   },
   "name.videoUrl": {
-    "message": "Custom Video",
-    "description": "Custom video"
+    "message": "וידאו מותאם",
+    "description": "Custom ווידאו"
   },
   "name.prompt": {
-    "message": "Video Prompt",
-    "description": "Prompt for content input"
+    "message": "פרומפט לווידאו",
+    "description": "פרומפט for content input"
   },
   "name.ingredients": {
-    "message": "Multi-Image",
+    "message": "ריבוי תמונות",
     "description": "Switch/label for creating videos with multiple images"
   },
   "name.model": {
-    "message": "Model Version",
-    "description": "Model version used to generate the video"
+    "message": "גרסת מודל",
+    "description": "מודל גרסה used to צור the ווידאו"
   },
   "name.effect": {
-    "message": "Video Effect",
-    "description": "Name of the style parameter used to switch between different versions or styles of the model"
+    "message": "אפקט וידאו",
+    "description": "Name of the סגנון פרמטר used to switch between different versions or styles of the מודל"
   },
   "name.ingredientsModel": {
-    "message": "Ingredients Model",
-    "description": "Model version used to generate the video"
+    "message": "Ingredients מודל",
+    "description": "מודל גרסה used to צור the ווידאו"
   },
   "name.pikaBot": {
     "message": "Pika Bot",
-    "description": "Name of the Pika video generator"
+    "description": "Name of the Pika ווידאו generator"
   },
   "description.ingredients": {
-    "message": "Enable this button if you want to upload multiple images to generate your video.",
-    "description": "Description of the 'ingredients' parameter"
+    "message": "Enable this button if you want to העלאה multiple images to צור your ווידאו.",
+    "description": "Description of the 'ingredients' פרמטר"
   },
   "description.imageUrl": {
-    "message": "In a multi-image video creation task, multiple images must be uploaded.",
-    "description": "Description of the 'imageUrl' parameter"
+    "message": "In a multi תמונה ווידאו creation משימה, multiple images must be uploaded.",
+    "description": "Description of the 'image Url' פרמטר"
   },
   "description.prompt": {
-    "message": "Prompt words for generating Pika videos",
-    "description": "Description of the 'prompt' parameter"
+    "message": "פרומפט words for generating Pika videos",
+    "description": "Description of the 'פרומפט' פרמטר"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "Waiting status of the task"
+    "message": "ממתין",
+    "description": "Waiting סטטוס of the משימה"
   },
   "status.processing": {
-    "message": "Processing",
-    "description": "Processing status of the task"
+    "message": "בעיבוד",
+    "description": "בעיבוד סטטוס of the משימה"
   },
   "placeholder.paddingNoise": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for padding noise input"
   },
   "placeholder.select": {
-    "message": "Select",
+    "message": "בחר/י",
     "description": "Placeholder text in the select field"
   },
   "placeholder.paddingLevel": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for padding level"
   },
   "placeholder.prompt": {
-    "message": "Enter prompt words for the video style, e.g., moving",
-    "description": "Placeholder text in the prompt field"
+    "message": "הקלד/י פרומפט לסגנון הווידאו… למשל: תנועה/מצלמה נעה",
+    "description": "Placeholder text in the פרומפט field"
   },
   "placeholder.position": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for position input"
   },
   "placeholder.aspectRatio": {
-    "message": "Please select...",
-    "description": "Placeholder for aspect ratio input"
+    "message": "בחר/י…",
+    "description": "Placeholder for יחס ממדים input"
   },
   "placeholder.preset": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for preset input"
   },
   "placeholder.markerShape": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for marker shape input"
   },
   "placeholder.rotate": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for rotation input"
   },
   "placeholder.subMarker": {
-    "message": "Please select...",
-    "description": "Placeholder for sub-marker input"
+    "message": "בחר/י…",
+    "description": "Placeholder for sub marker input"
   },
   "button.precise": {
-    "message": "Precise",
-    "description": "Button text for generating Pika video"
+    "message": "מדויק",
+    "description": "Button text for generating Pika ווידאו"
   },
   "button.creative": {
-    "message": "Creative",
-    "description": "Button text for generating Pika video"
+    "message": "יצירתי",
+    "description": "Button text for generating Pika ווידאו"
   },
   "button.generate": {
-    "message": "Generate",
-    "description": "Button text for generating Pika video"
+    "message": "צור",
+    "description": "Button text for generating Pika ווידאו"
   },
   "button.extend": {
-    "message": "Extend Video",
-    "description": "Button text for extending video"
+    "message": "Extend ווידאו",
+    "description": "Button text for extending ווידאו"
   },
   "button.download": {
-    "message": "Download Video",
-    "description": "Button text for downloading video"
+    "message": "הורד וידאו",
+    "description": "Button text for downloading ווידאו"
   },
   "button.uploadImageUrl": {
-    "message": "Upload",
-    "description": "Button text for uploading image"
+    "message": "העלאה",
+    "description": "Button text for uploading תמונה"
   },
   "button.uploadVideoUrl": {
-    "message": "Upload Video",
-    "description": "Button text for uploading video"
+    "message": "העלאה ווידאו",
+    "description": "Button text for uploading ווידאו"
   },
   "message.uploadReferencesExceed": {
-    "message": "You can upload up to 5 images",
+    "message": "You can העלאה up to 5 images",
     "description": "Error message when the number of uploaded images exceeds the limit"
   },
   "message.uploadReferencesSuccess": {
-    "message": "Image uploaded successfully",
-    "description": "Success message when an image is uploaded successfully"
+    "message": "תמונה uploaded successfully",
+    "description": "הצלחה message when an תמונה is uploaded successfully"
   },
   "message.uploadReferencesError": {
-    "message": "Image upload failed, please try again later",
-    "description": "Error message when image upload fails"
+    "message": "תמונה העלאה נכשל, נא try again later",
+    "description": "Error message when תמונה העלאה fails"
   },
   "message.startingTask": {
-    "message": "Starting task...",
-    "description": "Message when the drawing task begins"
+    "message": "מתחילים משימה…",
+    "description": "Message when the drawing משימה begins"
   },
   "message.startTaskSuccess": {
-    "message": "Task initiated successfully",
-    "description": "Success message when the task is successfully started"
+    "message": "משימה initiated successfully",
+    "description": "הצלחה message when the משימה is successfully started"
   },
   "message.startTaskFailed": {
-    "message": "Failed to initiate task, please contact the administrator",
-    "description": "Error message when starting the drawing task fails"
+    "message": "נכשל to initiate משימה, נא contact the administrator",
+    "description": "Error message when starting the drawing משימה fails"
   },
   "message.usedUp": {
-    "message": "Your credits are exhausted, please purchase more to continue",
+    "message": "Your credits are נגמרה, נא purchase more to continue",
     "description": "Message when credits are used up"
   },
   "message.generating": {
     "message": "Generating...",
-    "description": "Message when the image is being generated"
+    "description": "Message when the תמונה is being generated"
   },
   "message.downloadVideo": {
-    "message": "Download this video",
-    "description": "Message for downloading the video"
+    "message": "הורד this ווידאו",
+    "description": "Message for downloading the ווידאו"
   },
   "message.extendVideo": {
-    "message": "Continue generating this video",
-    "description": "Message for continuing video generation"
+    "message": "Continue generating this ווידאו",
+    "description": "Message for continuing ווידאו generation"
   },
   "message.generateFailed": {
-    "message": "Image generation failed",
-    "description": "Message when image generation fails"
+    "message": "תמונה generation נכשל",
+    "description": "Message when תמונה generation fails"
   },
   "message.uploadVideoExceed": {
-    "message": "Number of uploaded first frame images exceeds the limit",
-    "description": "Error message when the number of uploaded first frame images exceeds the limit"
+    "message": "Number of uploaded first פריים images exceeds the limit",
+    "description": "Error message when the number of uploaded first פריים images exceeds the limit"
   },
   "message.uploadVideoSizeExceed": {
     "message": "Uploaded file size cannot exceed 10MB!",
@@ -256,27 +256,27 @@
     "description": "Error message when the uploaded file is not in MP4 format"
   },
   "message.uploadStartImageExceed": {
-    "message": "Number of uploaded first frame images exceeds the limit",
-    "description": "Error message when the number of uploaded first frame images exceeds the limit"
+    "message": "Number of uploaded first פריים images exceeds the limit",
+    "description": "Error message when the number of uploaded first פריים images exceeds the limit"
   },
   "message.uploadEndImageExceed": {
-    "message": "Number of uploaded last frame images exceeds the limit",
-    "description": "Error message when the number of uploaded last frame images exceeds the limit"
+    "message": "Number of uploaded אחרון פריים images exceeds the limit",
+    "description": "Error message when the number of uploaded אחרון פריים images exceeds the limit"
   },
   "message.uploadStartImageError": {
-    "message": "Failed to upload first frame image",
-    "description": "Error message when uploading the first frame image fails"
+    "message": "נכשל to העלאה first פריים תמונה",
+    "description": "Error message when uploading the first פריים תמונה fails"
   },
   "message.uploadVideoError": {
-    "message": "Failed to upload video",
-    "description": "Error message when uploading the video fails"
+    "message": "נכשל to העלאה ווידאו",
+    "description": "Error message when uploading the ווידאו fails"
   },
   "message.uploadEndImageError": {
-    "message": "Failed to upload last frame image",
-    "description": "Error message when uploading the last frame image fails"
+    "message": "נכשל to העלאה אחרון פריים תמונה",
+    "description": "Error message when uploading the אחרון פריים תמונה fails"
   },
   "message.uploadDocumentsError": {
-    "message": "Failed to upload document",
+    "message": "נכשל to העלאה document",
     "description": "Error message when uploading a document fails"
   },
   "message.noOperations": {
@@ -284,7 +284,7 @@
     "description": "Message when there are no available operations"
   },
   "message.noTasks": {
-    "message": "No historical tasks, please click on the left to generate a video",
+    "message": "No historical tasks, נא click on the left to צור a ווידאו",
     "description": "Message when there are no tasks"
   }
 }

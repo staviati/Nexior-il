@@ -1,95 +1,95 @@
 {
   "entity.requestQueries": {
-    "message": "URL Parameters",
-    "description": "These are the parameters passed in the URL. They are separated by '?' and by '&'."
+    "message": "פרמטרים ב־URL",
+    "description": "These are the פרמטרים passed in the URL. They are separated by '?' and by '&'."
   },
   "entity.requestBody": {
-    "message": "Request Body",
-    "description": "This is the body of the request. Usually used for POST and PUT requests."
+    "message": "גוף הבקשה",
+    "description": "This is the גוף of the בקשה. Usually used for POST and PUT requests."
   },
   "entity.responseBody": {
-    "message": "Response Body",
-    "description": "This is the body of the response. Typically presented in JSON format."
+    "message": "גוף התשובה",
+    "description": "This is the גוף of the תשובה. Typically presented in JSON format."
   },
   "entity.requestHeaders": {
-    "message": "Request Headers",
-    "description": "These are the headers passed in the request. Usually used for authentication."
+    "message": "כותרות בקשה",
+    "description": "These are the כותרות passed in the בקשה. Usually used for authentication."
   },
   "entity.requestHeader": {
-    "message": "Request Header",
-    "description": "This is the header passed in the request. Typically used for authentication."
+    "message": "כותרת בקשה",
+    "description": "This is the header passed in the בקשה. Typically used for authentication."
   },
   "entity.requestQuery": {
-    "message": "URL Parameter",
-    "description": "This is the parameter passed in the URL. Separated by '?' and by '&'."
+    "message": "פרמטר ב־URL",
+    "description": "This is the פרמטר passed in the URL. Separated by '?' and by '&'."
   },
   "entity.responseHeaders": {
-    "message": "Response Headers",
-    "description": "These are the headers passed in the response. Usually used for authentication."
+    "message": "כותרות תשובה",
+    "description": "These are the כותרות passed in the תשובה. Usually used for authentication."
   },
   "entity.response": {
-    "message": "Response",
-    "description": "This is the response returned from the server."
+    "message": "תשובה",
+    "description": "This is the תשובה returned from the server."
   },
   "entity.success": {
-    "message": "Success",
-    "description": "This is the response returned when the request is successful."
+    "message": "הצלחה",
+    "description": "This is the תשובה returned when the בקשה is successful."
   },
   "entity.failure": {
-    "message": "Failure",
-    "description": "This is the response returned when the request fails."
+    "message": "כשל",
+    "description": "This is the תשובה returned when the בקשה fails."
   },
   "entity.responseExample": {
-    "message": "Example",
-    "description": "This is an example of the response returned from the server."
+    "message": "דוגמה",
+    "description": "This is an example of the תשובה returned from the server."
   },
   "entity.authentication": {
-    "message": "Authentication",
-    "description": "This is the authentication required to initiate the request."
+    "message": "אימות",
+    "description": "This is the authentication required to initiate the בקשה."
   },
   "message.free": {
-    "message": "Free",
-    "description": "Indicates that the price is free, no points or money are required to use the API service."
+    "message": "חינם",
+    "description": "Indicates that the price is חינם, no points or money are required to use the API שירות."
   },
   "message.appliedCount": {
-    "message": "Application Count",
-    "description": "The number of times the API service has been applied for."
+    "message": "כמות שימושים",
+    "description": "The number of times the API שירות has been applied for."
   },
   "message.firstFree": {
-    "message": "First Free",
-    "description": "Indicates that the first use of the API service is free, with no points or money required."
+    "message": "פעם ראשונה חינם",
+    "description": "Indicates that the first use of the API שירות is חינם, with no points or money required."
   },
   "message.custom": {
-    "message": "Specified Amount",
-    "description": "Indicates that the price has been specified, requiring the use of specified points or money to use the API service."
+    "message": "כמות מוגדרת",
+    "description": "Indicates that the price has been specified, requiring the use of specified points or money to use the API שירות."
   },
   "message.present": {
-    "message": "Gift",
-    "description": "We will present points to you when using the API service for the first time."
+    "message": "מתנה",
+    "description": "We will present points to you when using the API שירות for the first זמן."
   },
   "message.around": {
-    "message": "Around",
+    "message": "בערך",
     "description": "The price is approximately, actual price may vary."
   },
   "message.successRate15min": {
-    "message": "Real-time Success Rate",
-    "description": "The real-time success rate of the API service in the past 15 minutes."
+    "message": "אחוז הצלחה בזמן אמת",
+    "description": "The real זמן הצלחה אחוז of the API שירות in the past 15 דקות."
   },
   "message.ySuccessRate": {
-    "message": "Success Rate (100%)",
-    "description": "The success rate of the API service."
+    "message": "אחוז הצלחה (100%)",
+    "description": "The הצלחה אחוז of the API שירות."
   },
   "message.xMinutes": {
-    "message": "Time (minutes)",
-    "description": "Time measured in minutes."
+    "message": "זמן (דקות)",
+    "description": "זמן measured in דקות."
   },
   "message.streamUsage": {
-    "message": "Friendly reminder: The above code may not be fully applicable for streaming requests. Please refer to the integration documentation for modifications.",
-    "description": "The above code may not be fully applicable for streaming requests. Please refer to the integration documentation for modifications."
+    "message": "Friendly reminder: The above code may not be fully applicable for streaming requests. נא refer to the integration documentation for modifications.",
+    "description": "The above code may not be fully applicable for streaming requests. נא refer to the integration documentation for modifications."
   },
   "message.alphaStage": {
-    "message": "This API is in Alpha stage, an early preview version which may have potential instability, and the API format may undergo significant changes. It is not recommended for use in production environments. Current pricing is relatively low, and significant price adjustments may occur in the future.",
-    "description": "This API is in Alpha stage, an early preview version which may have potential instability, and the API format may undergo significant changes. It is not recommended for use in production environments. Current pricing is relatively low, and significant price adjustments may occur in the future."
+    "message": "This API is in Alpha stage, an early preview גרסה which may have potential instability, and the API format may undergo significant changes. It is not recommended for use in production environments. Current pricing is relatively low, and significant price adjustments may occur in the future.",
+    "description": "This API is in Alpha stage, an early preview גרסה which may have potential instability, and the API format may undergo significant changes. It is not recommended for use in production environments. Current pricing is relatively low, and significant price adjustments may occur in the future."
   },
   "message.betaStage": {
     "message": "This API is in Beta stage, the API format is not expected to change significantly, but there may be potential instability, use in production environments with caution. Current pricing is relatively low, and moderate price adjustments may occur in the future.",

@@ -1,134 +1,134 @@
 {
   "name.taskId": {
-    "message": "Task ID",
-    "description": "The ID of the task"
+    "message": "מזהה משימה",
+    "description": "The ID of the משימה"
   },
   "name.task": {
-    "message": "Task Type",
-    "description": "Type of Nano Banana image operation"
+    "message": "משימה סוג",
+    "description": "סוג of Nano Banana תמונה operation"
   },
   "name.generate": {
-    "message": "Create Image",
-    "description": "Operation type: Create Image"
+    "message": "Create תמונה",
+    "description": "Operation סוג: Create תמונה"
   },
   "name.edits": {
-    "message": "Edit Image",
-    "description": "Operation type: Edit Image"
+    "message": "Edit תמונה",
+    "description": "Operation סוג: Edit תמונה"
   },
   "name.imageUrls": {
-    "message": "Reference Images",
+    "message": "תמונות ייחוס",
     "description": "Reference images for editing"
   },
   "name.failure": {
-    "message": "Failure",
-    "description": "Task failure"
+    "message": "כשל",
+    "description": "משימה כשל"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "Reason for task failure"
+    "message": "סיבת כשל",
+    "description": "סיבה for משימה כשל"
   },
   "name.status": {
-    "message": "Status",
-    "description": "Task status"
+    "message": "סטטוס",
+    "description": "משימה סטטוס"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "Trace ID"
+    "message": "מזהה מעקב",
+    "description": "מזהה מעקב"
   },
   "name.prompt": {
-    "message": "Image Prompt",
-    "description": "Prompt for generating/editing"
+    "message": "פרומפט לתמונה",
+    "description": "פרומפט for generating/editing"
   },
   "name.nanobananaBot": {
     "message": "Nano Banana Bot",
-    "description": "Name of the Nano Banana image generator"
+    "description": "Name of the Nano Banana תמונה generator"
   },
   "name.aspectRatio": {
-    "message": "Aspect Ratio",
-    "description": "Aspect ratio of the generated image"
+    "message": "יחס ממדים",
+    "description": "יחס ממדים of the generated תמונה"
   },
   "name.resolution": {
-    "message": "Resolution",
-    "description": "Resolution of the generated image"
+    "message": "רזולוציה",
+    "description": "רזולוציה of the generated תמונה"
   },
   "description.resolutionProOnly": {
-    "message": "Resolution settings are only supported for nano-banana-pro.",
-    "description": "Resolution options are only effective for pro models"
+    "message": "רזולוציה settings are only supported for nano banana pro.",
+    "description": "רזולוציה options are only effective for pro models"
   },
   "description.prompt": {
-    "message": "Prompt for generating or editing images",
-    "description": "Description of the prompt"
+    "message": "פרומפט for generating or editing images",
+    "description": "Description of the פרומפט"
   },
   "description.action": {
-    "message": "Action to generate the image. If `generate`, it will create an image based on the prompt; if `edit`, it will edit based on the prompt and uploaded image.",
-    "description": "Description of the action parameter"
+    "message": "Action to צור the תמונה. If `generate`, it will create an תמונה based on the פרומפט; if `edit`, it will edit based on the פרומפט and uploaded תמונה.",
+    "description": "Description of the action פרמטר"
   },
   "description.model": {
-    "message": "Model used for generating images. Default is nano-banana. nano-banana-pro is an alias for gemini-3-pro-image, and nano-banana is an alias for gemini-2.5-flash-image.",
-    "description": "Description of the model parameter"
+    "message": "מודל used for generating images. Default is nano banana. nano banana pro is an alias for gemini 3 pro תמונה, and nano banana is an alias for gemini 2.5 flash תמונה.",
+    "description": "Description of the מודל פרמטר"
   },
   "description.imageUrls": {
-    "message": "Must upload 1-5 images for the edit image task.",
-    "description": "Description of the image_urls parameter"
+    "message": "Must העלאה 1 5 images for the edit תמונה משימה.",
+    "description": "Description of the תמונה urls פרמטר"
   },
   "description.aspectRatio": {
-    "message": "Aspect ratio of the generated image. Supported values are `1:1`, `3:2`, `2:3`, `16:9`, `9:16`, `4:3`, `3:4`. Default is `1:1`. Only effective when `action` is `generate`; if `action` is `edit`, it will follow the aspect ratio of the first image in `image_urls`.",
-    "description": "Description of the aspect_ratio parameter"
+    "message": "יחס ממדים of the generated תמונה. Supported values are `1:1`, `3:2`, `2:3`, `16:9`, `9:16`, `4:3`, `3:4`. Default is `1:1`. Only effective when `action` is `generate`; if `action` is `edit`, it will follow the יחס ממדים of the first תמונה in `image urls`.",
+    "description": "Description of the יחס ממדים פרמטר"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "Task pending status"
+    "message": "ממתין",
+    "description": "משימה ממתין סטטוס"
   },
   "placeholder.select": {
-    "message": "Select",
+    "message": "בחר/י",
     "description": "Selection placeholder"
   },
   "placeholder.prompt": {
-    "message": "Enter prompt, e.g., a white Siamese cat",
-    "description": "Prompt placeholder"
+    "message": "הקלד/י פרומפט… למשל: חתול סיאמי לבן",
+    "description": "פרומפט placeholder"
   },
   "button.generate": {
-    "message": "Generate",
-    "description": "Generate button"
+    "message": "צור",
+    "description": "צור button"
   },
   "button.uploadImageUrls": {
-    "message": "Upload",
-    "description": "Upload reference images button (simplified to 'Upload', do not use 'Upload Images')"
+    "message": "העלאה",
+    "description": "העלאה reference images button (simplified to 'העלאה', do not use 'העלאה Images')"
   },
   "message.startingTask": {
-    "message": "Starting task...",
-    "description": "Message indicating task start"
+    "message": "מתחילים משימה…",
+    "description": "Message indicating משימה start"
   },
   "message.startTaskSuccess": {
-    "message": "Successfully initiated generation task",
-    "description": "Task successfully created"
+    "message": "Successfully initiated generation משימה",
+    "description": "משימה successfully נוצר"
   },
   "message.startTaskFailed": {
-    "message": "Failed to initiate task, please contact the administrator:",
-    "description": "Task creation failed"
+    "message": "נכשל to initiate משימה, נא contact the administrator:",
+    "description": "משימה creation נכשל"
   },
   "message.usedUp": {
-    "message": "Your credits are exhausted, please purchase more credits to continue using",
-    "description": "Exhausted credits message"
+    "message": "Your credits are נגמרה, נא purchase more credits to continue using",
+    "description": "נגמרה credits message"
   },
   "message.uploadImageExceed": {
-    "message": "You can upload a maximum of 5 images",
-    "description": "Image count exceeds limit"
+    "message": "You can העלאה a מקסימום of 5 images",
+    "description": "תמונה count exceeds limit"
   },
   "message.uploadImageError": {
-    "message": "Failed to upload image, please try again later",
-    "description": "Upload failed"
+    "message": "נכשל to העלאה תמונה, נא try again later",
+    "description": "העלאה נכשלה"
   },
   "name.model": {
-    "message": "Model",
-    "description": "Label for selecting Nano Banana model"
+    "message": "מודל",
+    "description": "Label for selecting Nano Banana מודל"
   },
   "model.nanoBanana": {
-    "message": "nano-banana",
-    "description": "Option for the basic Nano Banana model"
+    "message": "nano banana",
+    "description": "Option for the basic Nano Banana מודל"
   },
   "model.nanoBananaPro": {
-    "message": "nano-banana-pro",
-    "description": "Option for the professional Nano Banana model"
+    "message": "nano banana pro",
+    "description": "Option for the professional Nano Banana מודל"
   }
 }
