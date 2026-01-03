@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "מזהה משתמש",
+    "description": "מזהה ייחודי של המשתמש"
+  },
+  "field.isVerified": {
+    "message": "מאומת",
+    "description": "האם המשתמש אומת על סמך מידע אמיתי"
+  },
+  "field.email": {
+    "message": "אימייל",
+    "description": "כתובת האימייל של המשתמש"
+  },
+  "field.nickname": {
+    "message": "כינוי",
+    "description": "הכינוי שמוצג באתר"
+  },
+  "field.username": {
+    "message": "שם משתמש",
+    "description": "שם המשתמש (לזיהוי ולהתחברות)"
+  },
+  "field.dateJoined": {
+    "message": "תאריך הרשמה",
+    "description": "מתי המשתמש הצטרף אלינו"
+  }
+}

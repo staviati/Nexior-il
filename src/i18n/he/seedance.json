@@ -1,0 +1,166 @@
+{
+  "name.seedanceBot": {
+    "message": "SeeDance Bot",
+    "description": "Name of the SeeDance video generator"
+  },
+  "name.prompt": {
+    "message": "Prompt",
+    "description": "Prompt for generating the video"
+  },
+  "description.prompt": {
+    "message": "Describe the video you want to generate, you can add SeeDance parameters (e.g., --rs 720p --rt 16:9 --dur 5).",
+    "description": "Instructions for prompt input"
+  },
+  "placeholder.prompt": {
+    "message": "Describe your video…",
+    "description": "Placeholder for prompt"
+  },
+  "name.model": {
+    "message": "Model",
+    "description": "Model selection label"
+  },
+  "description.model": {
+    "message": "Select the SeeDance model version for generation.",
+    "description": "Instructions for model selection"
+  },
+  "placeholder.select": {
+    "message": "Select",
+    "description": "Placeholder for dropdown selection"
+  },
+  "model.seedance10pro": {
+    "message": "doubao-seedance-1.0-pro",
+    "description": "SeeDance 1.0 Pro model"
+  },
+  "model.seedance10proFast": {
+    "message": "doubao-seedance-1.0-pro-fast",
+    "description": "SeeDance 1.0 Pro Fast model"
+  },
+  "model.seedance15pro": {
+    "message": "doubao-seedance-1.5-pro",
+    "description": "SeeDance 1.5 Pro model"
+  },
+  "model.seedance10liteT2v": {
+    "message": "doubao-seedance-1.0-lite-t2v",
+    "description": "SeeDance 1.0 Lite T2V model"
+  },
+  "model.seedance10liteI2v": {
+    "message": "doubao-seedance-1.0-lite-i2v",
+    "description": "SeeDance 1.0 Lite I2V model"
+  },
+  "name.serviceTier": {
+    "message": "Service Tier",
+    "description": "Service tier label"
+  },
+  "description.serviceTier": {
+    "message": "Processing tier: default or flex.",
+    "description": "Instructions for service tier"
+  },
+  "serviceTier.default": {
+    "message": "default",
+    "description": "Default tier"
+  },
+  "serviceTier.flex": {
+    "message": "flex",
+    "description": "Flexible tier"
+  },
+  "name.returnLastFrame": {
+    "message": "Return Last Frame",
+    "description": "Return last frame toggle label"
+  },
+  "description.returnLastFrame": {
+    "message": "Enabling this will return the last frame image as well.",
+    "description": "Instructions for returning last frame"
+  },
+  "name.firstFrame": {
+    "message": "First Frame Image",
+    "description": "First frame image upload label"
+  },
+  "description.firstFrame": {
+    "message": "Optional. Upload a reference/first frame image.",
+    "description": "Instructions for first frame image"
+  },
+  "name.lastFrame": {
+    "message": "Last Frame Image",
+    "description": "Last frame image upload label"
+  },
+  "description.lastFrame": {
+    "message": "Optional. Upload the last frame image (requires first frame).",
+    "description": "Instructions for last frame image"
+  },
+  "button.generate": {
+    "message": "Generate",
+    "description": "Generate button"
+  },
+  "button.upload": {
+    "message": "Upload",
+    "description": "Upload button"
+  },
+  "button.download": {
+    "message": "Download",
+    "description": "Download button"
+  },
+  "button.on": {
+    "message": "On",
+    "description": "Toggle on text"
+  },
+  "button.off": {
+    "message": "Off",
+    "description": "Toggle off text"
+  },
+  "message.startingTask": {
+    "message": "Starting SeeDance task…",
+    "description": "Task start prompt"
+  },
+  "message.startTaskSuccess": {
+    "message": "Task started",
+    "description": "Task start success prompt"
+  },
+  "message.startTaskFailed": {
+    "message": "Failed to start: ",
+    "description": "Task start failure prompt"
+  },
+  "message.usedUp": {
+    "message": "Quota exhausted",
+    "description": "Quota exhausted prompt"
+  },
+  "message.uploadExceed": {
+    "message": "You can upload a maximum of 1 image",
+    "description": "Upload limit exceeded prompt"
+  },
+  "message.uploadError": {
+    "message": "Upload failed",
+    "description": "Upload failure prompt"
+  },
+  "message.downloadVideo": {
+    "message": "Download Video",
+    "description": "Download video prompt"
+  },
+  "status.pending": {
+    "message": "Pending",
+    "description": "Queue status"
+  },
+  "status.processing": {
+    "message": "Processing",
+    "description": "Processing status"
+  },
+  "name.taskId": {
+    "message": "Task ID",
+    "description": "Task ID label"
+  },
+  "name.traceId": {
+    "message": "Trace ID",
+    "description": "Trace ID label"
+  },
+  "name.failure": {
+    "message": "Failure",
+    "description": "Failure label"
+  },
+  "name.failureReason": {
+    "message": "Failure Reason",
+    "description": "Failure reason label"
+  },
+  "name.status": {
+    "message": "Status",
+    "description": "Status label"
+  }
+}

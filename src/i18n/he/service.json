@@ -1,0 +1,134 @@
+{
+  "button.learnMore": {
+    "message": "לפרטים נוספים",
+    "description": "טקסט הכפתור למידע נוסף על השירות."
+  },
+  "button.apply": {
+    "message": "להצטרפות",
+    "description": "טקסט הכפתור להגשת בקשה/הצטרפות לשירות."
+  },
+  "button.introduction": {
+    "message": "היכרות עם השירות",
+    "description": "טקסט הכפתור לצפייה בהצגת השירות."
+  },
+  "button.apis": {
+    "message": "תיאור API",
+    "description": "טקסט הכפתור לצפייה בתיאור ה־API."
+  },
+  "button.pricing": {
+    "message": "מחירים",
+    "description": "טקסט הכפתור לצפייה במחירים."
+  },
+  "field.name": {
+    "message": "שם",
+    "description": "שם השירות."
+  },
+  "field.price": {
+    "message": "מחיר",
+    "description": "מחיר השירות."
+  },
+  "field.introduction": {
+    "message": "מבוא",
+    "description": "תיאור/מבוא לשירות."
+  },
+  "field.apis": {
+    "message": "API",
+    "description": "ה־API של השירות (שירות אונליין)."
+  },
+  "field.proxies": {
+    "message": "פרוקסי",
+    "description": "Proxy של השירות (לתעבורת HTTP)."
+  },
+  "message.free": {
+    "message": "חינם",
+    "description": "טקסט שמוצג כשהשירות חינמי."
+  },
+  "message.around": {
+    "message": "בערך",
+    "description": "טקסט שמוצג כשהמחיר הוא בערך ערך מסוים."
+  },
+  "message.welcomeCredits": {
+    "message": "קרדיטים במתנה",
+    "description": "טקסט שמוצג כשהשירות נותן קרדיטים חינם להתחלה."
+  },
+  "message.appliedCount": {
+    "message": "מספר מצטרפים",
+    "description": "טקסט שמוצג לספירת כמות הבקשות/הצטרפויות."
+  },
+  "message.indexTitle": {
+    "message": "הבחירה החכמה לשירותים דיגיטליים",
+    "description": "כותרת דף הבית."
+  },
+  "message.indexSubtitle": {
+    "message": "מכניסים כוח לעבודה ולחיים — עם שירותים שעושים את העבודה כמו שצריך.",
+    "description": "תת־כותרת דף הבית."
+  },
+  "message.fromPrice": {
+    "message": "החל מ־",
+    "description": "טקסט שמופיע לפני מחיר."
+  },
+  "message.packages": {
+    "message": "יש לנו חבילות קרדיטים מגוונות — ככל שקונים יותר, מקבלים הנחה טובה יותר.",
+    "description": "טקסט שמוצג כשיש חבילות קרדיטים."
+  },
+  "message.offer": {
+    "message": "מבצע",
+    "description": "טקסט שמוצג כשיש הצעה/מבצע."
+  },
+  "message.partnersTitle": {
+    "message": "שותפים מובילים סומכים עלינו",
+    "description": "כותרת אזור השותפים."
+  },
+  "title.apis": {
+    "message": "API",
+    "description": "כותרת אזור ה־API."
+  },
+  "title.proxies": {
+    "message": "פרוקסי",
+    "description": "כותרת אזור ה־Proxies."
+  },
+  "title.packages": {
+    "message": "חבילות",
+    "description": "חבילות לרכישת קרדיטים."
+  },
+  "unit.credit": {
+    "message": "קרדיט",
+    "description": "קרדיטים הם מטבע וירטואלי לשימוש בשירות."
+  },
+  "unit.Credit": {
+    "message": "קרדיט",
+    "description": "אותו דבר, גרסת אות גדולה."
+  },
+  "unit.credits": {
+    "message": "קרדיטים",
+    "description": "רבים של קרדיט."
+  },
+  "unit.Credits": {
+    "message": "קרדיטים",
+    "description": "רבים, אות גדולה."
+  },
+  "unit.call": {
+    "message": "קריאה",
+    "description": "קריאה היא מספר הפעמים שה־API הופעל."
+  },
+  "unit.Call": {
+    "message": "קריאה",
+    "description": "אותו דבר, אות גדולה."
+  },
+  "unit.calls": {
+    "message": "קריאות",
+    "description": "רבים של קריאה."
+  },
+  "unit.Calls": {
+    "message": "קריאות",
+    "description": "רבים, אות גדולה."
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "מגה־בייט (יחידת נפח מידע)."
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "גיגה־בייט (יחידת נפח מידע)."
+  }
+}

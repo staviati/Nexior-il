@@ -1,0 +1,410 @@
+{
+  "field.title": {
+    "message": "כותרת האתר",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.origin": {
+    "message": "דומיין האתר",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.description": {
+    "message": "תיאור האתר",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.keywords": {
+    "message": "מילות מפתח",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.logo": {
+    "message": "לוגו האתר",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.favicon": {
+    "message": "אייקון אתר (Favicon)",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.qr": {
+    "message": "קוד QR",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.url": {
+    "message": "קישור",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.admins": {
+    "message": "מזהי אדמין",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "מזמין ברירת מחדל",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.distributionForceInviterId": {
+    "message": "מזמין כפוי",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresChat": {
+    "message": "צ׳אט",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresVeo": {
+    "message": "Veo",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresSora": {
+    "message": "Sora",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresGrok": {
+    "message": "Grok",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresDeepseek": {
+    "message": "Deepseek",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresChatgpt": {
+    "message": "ChatGPT",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresPixverse": {
+    "message": "Pixverse",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresPika": {
+    "message": "Pika",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresKling": {
+    "message": "Kling",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresHailuo": {
+    "message": "Hailuo",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresHeadshots": {
+    "message": "תמונת ת״ז עם AI",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresFlux": {
+    "message": "Flux",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresNanobanana": {
+    "message": "Nano Banana",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresSeedream": {
+    "message": "SeeDream",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresSeedance": {
+    "message": "SeeDance",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresSupport": {
+    "message": "תמיכה",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "field.featuresI18n": {
+    "message": "תמיכה רב־לשונית",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.basicConfig": {
+    "message": "הגדרות בסיסיות",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.seoConfig": {
+    "message": "הגדרות SEO",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editAdmins": {
+    "message": "עריכת אדמינים",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.featuresConfig": {
+    "message": "הפעלת פיצ׳רים",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editTitle": {
+    "message": "עריכת כותרת",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editOrigin": {
+    "message": "עריכת דומיין",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editKeywords": {
+    "message": "עריכת מילות מפתח",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editLogo": {
+    "message": "עריכת לוגו",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editFavicon": {
+    "message": "עריכת Favicon",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editDescription": {
+    "message": "עריכת תיאור",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.distributionConfig": {
+    "message": "הגדרות הפצה",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "עריכת מזמין ברירת מחדל",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "עריכת מזמין כפוי",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editQR": {
+    "message": "עריכת QR",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "title.editUrl": {
+    "message": "עריכת קישור",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "placeholder.title": {
+    "message": "הקלד/י כותרת לאתר",
+    "description": "מופיע כטקסט עזר בשדה"
+  },
+  "placeholder.origin": {
+    "message": "הקלד/י דומיין לאתר",
+    "description": "מופיע כטקסט עזר בשדה"
+  },
+  "placeholder.editUrl": {
+    "message": "הדבק/י קישור",
+    "description": "מופיע כטקסט עזר בשדה"
+  },
+  "placeholder.description": {
+    "message": "כתוב/י תיאור קצר לאתר",
+    "description": "מופיע כטקסט עזר בשדה"
+  },
+  "placeholder.keywords": {
+    "message": "הקלד/י מילות מפתח",
+    "description": "מופיע כטקסט עזר בשדה"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "הקלד/י מזהה מזמין ברירת מחדל",
+    "description": "מופיע כטקסט עזר בשדה"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "הקלד/י מזהה מזמין כפוי",
+    "description": "מופיע כטקסט עזר בשדה"
+  },
+  "message.uploadImageExceed": {
+    "message": "חרגת ממגבלת העלאת תמונות",
+    "description": "הודעה כשעוברים את המגבלה"
+  },
+  "message.uploadImageError": {
+    "message": "שגיאה בהעלאת תמונה",
+    "description": "הודעה כשיש תקלה בהעלאה"
+  },
+  "message.editLogoTip": {
+    "message": "גודל מומלץ: 200×60 פיקסלים",
+    "description": "טיפ להעלאת לוגו"
+  },
+  "message.editQRTip": {
+    "message": "גודל מומלץ: 200×200 פיקסלים",
+    "description": "טיפ להעלאת QR"
+  },
+  "message.editFaviconTip": {
+    "message": "גודל מומלץ: 32×32 פיקסלים",
+    "description": "טיפ להעלאת favicon"
+  },
+  "message.editUrl": {
+    "message": "הדבק/י קישור",
+    "description": "הודעה להזנת קישור"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "חייב להישאר לפחות אדמין אחד",
+    "description": "הודעה שמונעת מחיקה של כל האדמינים"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "זהו מזהה המשתמש של המזמין ברירת־המחדל. אם קישור ההפצה לא כולל פרמטר inviter_id — המערכת תשתמש במזהה הזה אוטומטית.",
+    "description": "טיפ למזמין ברירת מחדל"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "זהו מזהה משתמש “כפוי”. אם הוא מוגדר — הוא ישמש כמזמין בכל מצב, גם אם בקישור ההפצה מופיע inviter_id אחר.",
+    "description": "טיפ למזמין כפוי"
+  },
+  "message.originTip": {
+    "message": "דומיין האתר. שים/י לב: ההגדרות קשורות לדומיין ולא ניתן לשנות אותו אחר כך.",
+    "description": "טיפ לדומיין"
+  },
+  "message.titleTip": {
+    "message": "כותרת האתר שמופיעה בלשונית הדפדפן.",
+    "description": "טיפ לכותרת"
+  },
+  "message.descriptionTip": {
+    "message": "תיאור האתר (metadata) — עוזר ל־SEO כדי שימצאו אותך יותר בקלות.",
+    "description": "טיפ לתיאור האתר"
+  },
+  "message.logoTip": {
+    "message": "לוגו האתר שמופיע בחלק העליון של התפריט כשהתפריט פתוח.",
+    "description": "טיפ ללוגו"
+  },
+  "message.faviconTip": {
+    "message": "האייקון הקטן שמופיע בלשונית הדפדפן.",
+    "description": "טיפ ל־favicon"
+  },
+  "message.adminsTip": {
+    "message": "מזהי האדמינים של האתר. כברירת מחדל, המשתמש הראשון שיוצר את האתר נהיה אדמין. רק אדמינים יכולים לנהל את האתר.",
+    "description": "טיפ לניהול אדמינים"
+  },
+  "message.adminsTip2": {
+    "message": "אפשר להוסיף/להסיר מזהי אדמין כאן. מזהי משתמשים ניתן לראות ב־https://auth.acedata.cloud",
+    "description": "טיפ נוסף לניהול אדמינים"
+  },
+  "message.keywordsTip": {
+    "message": "מילות מפתח של האתר (metadata) — עוזר ל־SEO.",
+    "description": "טיפ למילות מפתח"
+  },
+  "message.keywordsTip2": {
+    "message": "אפשר להוסיף/להסיר מילות מפתח כאן. ככל שהן מדויקות יותר — ככה ה־SEO יהיה טוב יותר.",
+    "description": "טיפ נוסף למילות מפתח"
+  },
+  "message.featuresChat": {
+    "message": "הפעל/י או כבה/י את מודול הצ׳אט.",
+    "description": "תיאור פיצ׳ר הצ׳אט"
+  },
+  "message.featuresGrok": {
+    "message": "הפעל/י או כבה/י את מודול Grok.",
+    "description": "תיאור פיצ׳ר Grok"
+  },
+  "message.featuresDeepseek": {
+    "message": "הפעל/י או כבה/י את מודול Deepseek.",
+    "description": "תיאור פיצ׳ר Deepseek"
+  },
+  "message.featuresChatgpt": {
+    "message": "הפעל/י או כבה/י את מודול ChatGPT.",
+    "description": "תיאור פיצ׳ר ChatGPT"
+  },
+  "message.featuresMidjourney": {
+    "message": "הפעל/י או כבה/י את מודול Midjourney.",
+    "description": "תיאור פיצ׳ר Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "הפעל/י או כבה/י את מודול Chatdoc.",
+    "description": "תיאור פיצ׳ר Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "הפעל/י או כבה/י את מודול Qrart.",
+    "description": "תיאור פיצ׳ר Qrart"
+  },
+  "message.featuresVeo": {
+    "message": "הפעל/י או כבה/י את מודול Veo.",
+    "description": "תיאור פיצ׳ר Veo"
+  },
+  "message.featuresSora": {
+    "message": "הפעל/י או כבה/י את מודול Sora.",
+    "description": "תיאור פיצ׳ר Sora"
+  },
+  "message.featuresSuno": {
+    "message": "הפעל/י או כבה/י את מודול Suno.",
+    "description": "תיאור פיצ׳ר Suno"
+  },
+  "message.featuresPixverse": {
+    "message": "הפעל/י או כבה/י את מודול Pixverse.",
+    "description": "תיאור פיצ׳ר Pixverse"
+  },
+  "message.featuresFlux": {
+    "message": "הפעל/י או כבה/י את מודול Flux.",
+    "description": "תיאור פיצ׳ר Flux"
+  },
+  "message.featuresNanobanana": {
+    "message": "הפעל/י או כבה/י את מודול Nano Banana.",
+    "description": "תיאור פיצ׳ר Nano Banana"
+  },
+  "message.featuresSeedream": {
+    "message": "הפעל/י או כבה/י את מודול SeeDream.",
+    "description": "תיאור פיצ׳ר SeeDream"
+  },
+  "message.featuresSeedance": {
+    "message": "הפעל/י או כבה/י את מודול SeeDance.",
+    "description": "תיאור פיצ׳ר SeeDance"
+  },
+  "message.featuresLuma": {
+    "message": "הפעל/י או כבה/י את מודול Luma.",
+    "description": "תיאור פיצ׳ר Luma"
+  },
+  "message.featuresPika": {
+    "message": "הפעל/י או כבה/י את מודול Pika.",
+    "description": "תיאור פיצ׳ר Pika"
+  },
+  "message.featuresKling": {
+    "message": "הפעל/י או כבה/י את מודול Kling.",
+    "description": "תיאור פיצ׳ר Kling"
+  },
+  "message.featuresHailuo": {
+    "message": "הפעל/י או כבה/י את מודול Hailuo.",
+    "description": "תיאור פיצ׳ר Hailuo"
+  },
+  "message.featuresHeadshots": {
+    "message": "הפעל/י או כבה/י את מודול תמונת ת״ז עם AI.",
+    "description": "תיאור פיצ׳ר ID Photo"
+  },
+  "message.featuresSupport": {
+    "message": "הפעל/י או כבה/י תמיכת לקוחות.",
+    "description": "תיאור פיצ׳ר תמיכה"
+  },
+  "message.featuresI18n": {
+    "message": "הפעל/י או כבה/י תמיכה רב־לשונית. כשמכבים — המשתמשים יוכלו להשתמש רק בשפת ברירת המחדל.",
+    "description": "תיאור פיצ׳ר רב־לשוניות"
+  },
+  "button.upload": {
+    "message": "העלאה",
+    "description": "כפתור העלאה"
+  },
+  "button.enabled": {
+    "message": "מופעל",
+    "description": "טקסט למתג: מופעל"
+  },
+  "button.disabled": {
+    "message": "מכובה",
+    "description": "טקסט למתג: מכובה"
+  },
+  "field.featuresGemini": {
+    "message": "Gemini",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "message.featuresGemini": {
+    "message": "הפעל/י או כבה/י את מודול Gemini.",
+    "description": "תיאור פיצ׳ר Gemini"
+  },
+  "field.featuresClaude": {
+    "message": "Claude",
+    "description": "מופיע ככותרת בתיבת העריכה"
+  },
+  "message.featuresClaude": {
+    "message": "הפעל/י או כבה/י את מודול Claude.",
+    "description": "תיאור פיצ׳ר Claude"
+  }
+}

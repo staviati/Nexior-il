@@ -1,0 +1,82 @@
+{
+  "field.createdAt": {
+    "message": "זמן שימוש",
+    "description": "מתי נרשמה פעולת השימוש."
+  },
+  "field.statusCode": {
+    "message": "קוד סטטוס",
+    "description": "קוד הסטטוס של רשומת השימוש."
+  },
+  "field.application": {
+    "message": "אפליקציה",
+    "description": "האפליקציה/הכלי שבאמצעותו השתמשת במשאבים."
+  },
+  "field.status": {
+    "message": "סטטוס",
+    "description": "מצב התהליך/הפעולה."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "ה־API שנקרא (אין צורך לתרגם)."
+  },
+  "field.usedAmount": {
+    "message": "כמות בשימוש",
+    "description": "כמה משאבים נוצלו בפועל."
+  },
+  "field.deductedAmount": {
+    "message": "כמות שחויבה",
+    "description": "כמה משאבים ירדו מהיתרה."
+  },
+  "field.remainingAmount": {
+    "message": "יתרה זמינה",
+    "description": "כמה משאבים נשארו לך."
+  },
+  "field.metadata": {
+    "message": "נתונים נוספים",
+    "description": "מידע נוסף על רשומת השימוש."
+  },
+  "title.totalUsed": {
+    "message": "סה״כ שימוש (נקודות)",
+    "description": "סך כל הנקודות שנצרכו."
+  },
+  "title.usageTrend": {
+    "message": "מגמת שימוש",
+    "description": "כותרת הגרף שמציג מגמת שימוש לאורך זמן."
+  },
+  "shortcuts.today": {
+    "message": "היום",
+    "description": "התאריך של היום."
+  },
+  "shortcuts.last1Day": {
+    "message": "24 השעות האחרונות",
+    "description": "טווח תאריכים של היום האחרון."
+  },
+  "shortcuts.last3Days": {
+    "message": "3 הימים האחרונים",
+    "description": "טווח תאריכים של 3 הימים האחרונים."
+  },
+  "shortcuts.last7Days": {
+    "message": "7 הימים האחרונים",
+    "description": "טווח תאריכים של 7 הימים האחרונים."
+  },
+  "shortcuts.last1Month": {
+    "message": "חודש אחרון",
+    "description": "טווח תאריכים של החודש האחרון."
+  },
+  "placeholder.startDate": {
+    "message": "זמן התחלה",
+    "description": "בחר/י זמן התחלה."
+  },
+  "placeholder.endDate": {
+    "message": "זמן סיום",
+    "description": "בחר/י זמן סיום."
+  },
+  "placeholder.to": {
+    "message": "עד",
+    "description": "מפריד בין זמן התחלה לזמן סיום בבורר התאריכים."
+  },
+  "shortcuts.yesterday": {
+    "message": "אתמול",
+    "description": "התאריך של אתמול."
+  }
+}

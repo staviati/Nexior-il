@@ -1,0 +1,138 @@
+{
+  "name.taskId": {
+    "message": "מזהה משימה",
+    "description": "המזהה הייחודי של המשימה"
+  },
+  "name.task": {
+    "message": "סוג משימה",
+    "description": "סוג הפעולה של SeeDream (יצירה/עריכה)"
+  },
+  "name.generate": {
+    "message": "צור תמונה",
+    "description": "סוג פעולה: יצירת תמונה"
+  },
+  "name.edits": {
+    "message": "ערוך תמונה",
+    "description": "סוג פעולה: עריכת תמונה"
+  },
+  "name.imageUrls": {
+    "message": "תמונות ייחוס",
+    "description": "תמונות שיעזרו לעריכה (Reference)"
+  },
+  "name.failure": {
+    "message": "נכשל",
+    "description": "כשל במשימה"
+  },
+  "name.failureReason": {
+    "message": "סיבת כשל",
+    "description": "למה המשימה נכשלה"
+  },
+  "name.status": {
+    "message": "סטטוס",
+    "description": "מצב המשימה"
+  },
+  "name.traceId": {
+    "message": "מזהה מעקב",
+    "description": "מזהה לצורך מעקב/תמיכה"
+  },
+  "name.prompt": {
+    "message": "פרומפט לתמונה",
+    "description": "תיאור ליצירה/עריכה"
+  },
+  "name.seedreamBot": {
+    "message": "בוט SeeDream",
+    "description": "מחולל התמונות של SeeDream"
+  },
+  "name.size": {
+    "message": "גודל",
+    "description": "גודל התמונה שתצא בסוף"
+  },
+  "name.watermark": {
+    "message": "סימן מים",
+    "description": "האם להוסיף סימן מים (Watermark)"
+  },
+  "description.prompt": {
+    "message": "כתוב/י מה את/ה רוצה לראות בתמונה — אפשר גם סגנון, תאורה, אווירה וכו׳",
+    "description": "הסבר לשדה הפרומפט"
+  },
+  "description.model": {
+    "message": "המודל שמשמש ליצירה/עריכה של תמונות.",
+    "description": "הסבר לשדה המודל"
+  },
+  "description.size": {
+    "message": "גודל תמונה. אפשר לבחור `1K`, `2K`, `4K` או להקליד ידנית `<רוחב>x<גובה>`.",
+    "description": "הסבר לשדה הגודל"
+  },
+  "description.watermark": {
+    "message": "האם להוסיף סימן מים של AI על התמונה. כברירת מחדל זה מופעל.",
+    "description": "הסבר לשדה סימן המים"
+  },
+  "description.imageUrls": {
+    "message": "כדי לערוך תמונה — העלה/י 1 עד 14 תמונות ייחוס.",
+    "description": "הסבר לשדה תמונות ייחוס"
+  },
+  "status.pending": {
+    "message": "ממתין",
+    "description": "המשימה בתור וממתינה"
+  },
+  "placeholder.select": {
+    "message": "בחר/י…",
+    "description": "טקסט עזר לבחירה"
+  },
+  "placeholder.prompt": {
+    "message": "כתוב/י פרומפט… למשל: חתול סיאמי לבן",
+    "description": "טקסט עזר לשדה הפרומפט"
+  },
+  "button.generate": {
+    "message": "צור",
+    "description": "כפתור יצירה"
+  },
+  "button.uploadImageUrls": {
+    "message": "העלאה",
+    "description": "כפתור העלאת תמונות ייחוס"
+  },
+  "message.startingTask": {
+    "message": "מתחילים משימה… רגע וזה קורה ✨",
+    "description": "הודעה כשהמשימה מתחילה"
+  },
+  "message.startTaskSuccess": {
+    "message": "המשימה נפתחה בהצלחה ✅",
+    "description": "הודעת הצלחה לפתיחת משימה"
+  },
+  "message.startTaskFailed": {
+    "message": "לא הצלחנו לפתוח משימה. פנה/י למנהל האתר:",
+    "description": "שגיאה בפתיחת משימה"
+  },
+  "message.usedUp": {
+    "message": "נגמרו לך הקרדיטים 😅 קנה/י עוד כדי להמשיך",
+    "description": "הודעה כשאין קרדיטים"
+  },
+  "message.uploadImageExceed": {
+    "message": "אפשר להעלות עד 14 תמונות בלבד",
+    "description": "שגיאה כשהכמות חורגת"
+  },
+  "message.uploadImageError": {
+    "message": "העלאת התמונה נכשלה. נסה/י שוב מאוחר יותר.",
+    "description": "שגיאה בהעלאה"
+  },
+  "name.model": {
+    "message": "מודל",
+    "description": "בחירת מודל SeeDream"
+  },
+  "model.seedream45": {
+    "message": "doubao-seedream-4.5",
+    "description": "אפשרות מודל: SeeDream 4.5"
+  },
+  "model.seedream40": {
+    "message": "doubao-seedream-4.0",
+    "description": "אפשרות מודל: SeeDream 4.0"
+  },
+  "model.seedream30t2i": {
+    "message": "doubao-seedream-3.0-t2i",
+    "description": "אפשרות מודל: SeeDream 3.0 (טקסט לתמונה)"
+  },
+  "model.seededit30i2i": {
+    "message": "doubao-seededit-3.0-i2i",
+    "description": "אפשרות מודל: SeeEdit 3.0 (תמונה לתמונה)"
+  }
+}
