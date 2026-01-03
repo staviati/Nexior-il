@@ -1,4 +1,5 @@
 /*
+{ value: 'he', label: 'עברית' },
 { value: 'en', label: 'English' },
 { value: 'de', label: 'Deutsch' },
 { value: 'pt', label: 'Português' },
@@ -22,6 +23,7 @@
 export const LOCALE_CURRENCY_MAPPING: any = {
   'zh-CN': 'cny',
   'zh-TW': 'cny',
+  he: 'ils',
   en: 'usd',
   de: 'eur',
   pt: 'eur',
@@ -41,6 +43,7 @@ export const LOCALE_CURRENCY_MAPPING: any = {
 };
 
 export const CURRENCY_LABEL_MAPPING: any = {
+  ils: '₪',
   cny: '￥',
   usd: '$',
   eur: '€',

@@ -1,6 +1,7 @@
 export const I18N_DEFAULT_LOCALE = 'en';
 
 export const I18N_SUPPORTED_LOCALES = [
+  { value: 'he', label: 'עברית' },
   { value: 'en', label: 'English' },
   { value: 'de', label: 'Deutsch' },
   { value: 'pt', label: 'Português' },
