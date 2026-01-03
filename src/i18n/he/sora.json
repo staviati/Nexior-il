@@ -1,222 +1,222 @@
 {
   "name.taskId": {
-    "message": "Task ID",
-    "description": "The ID of the task"
+    "message": "מזהה משימה",
+    "description": "המזהה הייחודי של המשימה"
   },
   "name.failure": {
-    "message": "Failed",
-    "description": "The failure status of the task"
+    "message": "נכשל",
+    "description": "סטטוס כשל של המשימה"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "The reason for the task failure"
+    "message": "סיבת כשל",
+    "description": "למה המשימה נכשלה"
   },
   "name.status": {
-    "message": "Status",
-    "description": "The status of the task"
+    "message": "סטטוס",
+    "description": "מצב המשימה"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "The trace ID of the task"
+    "message": "מזהה מעקב",
+    "description": "מזהה לצורך מעקב/תמיכה"
   },
   "name.createdAt": {
-    "message": "Created At",
-    "description": "The date and time the Sora video was generated"
+    "message": "נוצר ב־",
+    "description": "מתי הווידאו נוצר"
   },
   "name.startEndImage": {
-    "message": "Start/End Frames",
-    "description": "Form field label: Start/End frame reference images"
+    "message": "פריימים התחלה/סיום",
+    "description": "תמונות ייחוס לפריימים של התחלה וסיום"
   },
   "name.action": {
-    "message": "Action",
-    "description": "List of available actions"
+    "message": "פעולה",
+    "description": "רשימת פעולות זמינות"
   },
   "name.prompt": {
-    "message": "Video Prompt",
-    "description": "Prompt for content input"
+    "message": "פרומפט לווידאו",
+    "description": "מה ליצור? תאר/י את התוכן והסגנון"
   },
   "name.model": {
-    "message": "Model Version",
-    "description": "The model version used to generate the video"
+    "message": "גרסת מודל",
+    "description": "גרסת המודל שמייצר את הווידאו"
   },
   "name.soraBot": {
-    "message": "OpenAI Sora Bot",
-    "description": "The name of the Sora video generator"
+    "message": "בוט OpenAI Sora",
+    "description": "מחולל הווידאו של Sora"
   },
   "name.orientation": {
-    "message": "Video Orientation",
-    "description": "The name of the video orientation parameter"
+    "message": "כיוון וידאו",
+    "description": "בחירת כיוון (לאורך/לרוחב)"
   },
   "option.portrait": {
-    "message": "Portrait",
-    "description": "Option text: Portrait orientation"
+    "message": "לאורך (Portrait)",
+    "description": "אפשרות: כיוון לאורך"
   },
   "option.landscape": {
-    "message": "Landscape",
-    "description": "Option text: Landscape orientation"
+    "message": "לרוחב (Landscape)",
+    "description": "אפשרות: כיוון לרוחב"
   },
   "name.duration": {
-    "message": "Video Duration",
-    "description": "The name of the video duration parameter"
+    "message": "אורך וידאו",
+    "description": "משך הווידאו"
   },
   "name.size": {
-    "message": "Video Quality",
-    "description": "The name of the video quality parameter"
+    "message": "איכות וידאו",
+    "description": "רמת איכות הווידאו"
   },
   "description.imageUrl": {
-    "message": "Multiple images must be uploaded for tasks creating videos from multiple images.",
-    "description": "Description for the 'imageUrl' parameter"
+    "message": "ליצירת וידאו מכמה תמונות — צריך להעלות כמה תמונות ייחוס.",
+    "description": "הסבר לשדה תמונות"
   },
   "description.prompt": {
-    "message": "Prompt words for generating Sora videos",
-    "description": "Description for the 'prompt' parameter"
+    "message": "מילות תיאור ליצירת וידאו ב־Sora",
+    "description": "הסבר לשדה הפרומפט"
   },
   "description.uploadStartEndImage": {
-    "message": "Array of reference image links, the first is the start frame, followed by the end frame image",
-    "description": "Description for the 'image_url' parameter"
+    "message": "מערך קישורי תמונות ייחוס: הראשונה היא פריים התחלה, ואחריה פריים סיום",
+    "description": "הסבר לתמונות התחלה/סיום"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "The waiting status of the task"
+    "message": "ממתין",
+    "description": "המשימה ממתינה בתור"
   },
   "status.processing": {
-    "message": "Processing",
-    "description": "The processing status of the task"
+    "message": "בעיבוד",
+    "description": "המשימה בעיבוד כרגע"
   },
   "placeholder.paddingNoise": {
-    "message": "Please select...",
-    "description": "Placeholder for padding noise input"
+    "message": "בחר/י…",
+    "description": "טקסט עזר לבחירה"
   },
   "placeholder.select": {
-    "message": "Select",
-    "description": "Placeholder text in the selection field"
+    "message": "בחר/י",
+    "description": "טקסט עזר לבחירה"
   },
   "placeholder.paddingLevel": {
-    "message": "Please select...",
-    "description": "Placeholder for padding level"
+    "message": "בחר/י…",
+    "description": "טקסט עזר לבחירה"
   },
   "placeholder.prompt": {
-    "message": "Enter prompt words for the video style, e.g., moving",
-    "description": "Placeholder text in the prompt field"
+    "message": "כתוב/י פרומפט לסגנון הווידאו… למשל: תנועה/מצלמה נעה",
+    "description": "טקסט עזר לשדה הפרומפט"
   },
   "placeholder.position": {
-    "message": "Please select...",
-    "description": "Placeholder for position input"
+    "message": "בחר/י…",
+    "description": "טקסט עזר לבחירה"
   },
   "tip.proOnly": {
-    "message": "Only the sora-2-pro model supports modifying this parameter",
-    "description": "Tip to inform users that only the professional model supports modifying this parameter"
+    "message": "רק המודל sora-2-pro מאפשר לשנות את הפרמטר הזה",
+    "description": "טיפ שמסביר שרק מודל Pro תומך בזה"
   },
   "button.generate": {
-    "message": "Generate",
-    "description": "Button text to generate Sora video"
+    "message": "צור",
+    "description": "כפתור יצירת וידאו"
   },
   "button.action1": {
-    "message": "Text to Video",
-    "description": "Button text to generate Sora video"
+    "message": "טקסט לווידאו",
+    "description": "כפתור יצירה: מטקסט לווידאו"
   },
   "button.action2": {
-    "message": "Image to Video",
-    "description": "Button text to generate Sora video"
+    "message": "תמונה לווידאו",
+    "description": "כפתור יצירה: מתמונה לווידאו"
   },
   "button.download": {
-    "message": "Download Video",
-    "description": "Button text to download video"
+    "message": "הורדת וידאו",
+    "description": "כפתור להורדת הווידאו"
   },
   "button.uploadImageUrl": {
-    "message": "Upload",
-    "description": "Button text to upload images"
+    "message": "העלאה",
+    "description": "כפתור להעלאת תמונות"
   },
   "button.uploadVideoUrl": {
-    "message": "Upload Video",
-    "description": "Button text to upload video"
+    "message": "העלאת וידאו",
+    "description": "כפתור להעלאת וידאו"
   },
   "button.uploadReferences": {
-    "message": "Upload",
-    "description": "Button text allowing users to upload references"
+    "message": "העלאה",
+    "description": "כפתור להעלאת קבצי ייחוס"
   },
   "message.uploadReferencesExceed": {
-    "message": "You can upload a maximum of 2 images",
-    "description": "Error message when the number of uploaded images exceeds the limit"
+    "message": "אפשר להעלות עד 2 תמונות בלבד",
+    "description": "שגיאה כשהכמות חורגת"
   },
   "message.uploadReferencesSuccess": {
-    "message": "Images uploaded successfully",
-    "description": "Success message when images are uploaded successfully"
+    "message": "התמונות עלו בהצלחה ✅",
+    "description": "הודעת הצלחה להעלאה"
   },
   "message.uploadReferencesError": {
-    "message": "Image upload failed, please try again later",
-    "description": "Error message when image upload fails"
+    "message": "העלאת תמונה נכשלה. נסה/י שוב מאוחר יותר.",
+    "description": "שגיאה בהעלאה"
   },
   "message.startingTask": {
-    "message": "Starting task...",
-    "description": "Message when the drawing task starts"
+    "message": "מתחילים משימה… רגע וזה מתחיל 🎬",
+    "description": "הודעה כשהמשימה מתחילה"
   },
   "message.startTaskSuccess": {
-    "message": "Task initiated successfully",
-    "description": "Success message when the task is started successfully"
+    "message": "המשימה נפתחה בהצלחה ✅",
+    "description": "הודעת הצלחה לפתיחת משימה"
   },
   "message.startTaskFailed": {
-    "message": "Failed to initiate task, please contact the administrator",
-    "description": "Error message when starting the drawing task fails"
+    "message": "לא הצלחנו לפתוח משימה. פנה/י למנהל האתר",
+    "description": "שגיאה בפתיחת משימה"
   },
   "message.usedUp": {
-    "message": "Your credits are exhausted, please purchase more credits to continue",
-    "description": "Message when credits are used up"
+    "message": "נגמרו לך הקרדיטים 😅 קנה/י עוד כדי להמשיך",
+    "description": "הודעה כשאין קרדיטים"
   },
   "message.generating": {
-    "message": "Generating...",
-    "description": "Message when the image is being generated"
+    "message": "יוצרים… עוד רגע זה מוכן ✨",
+    "description": "הודעה בזמן יצירה"
   },
   "message.downloadVideo": {
-    "message": "Download this video",
-    "description": "Message when the image is being generated"
+    "message": "להוריד את הווידאו הזה",
+    "description": "טקסט ליד פעולת הורדה"
   },
   "message.generateFailed": {
-    "message": "Video generation failed",
-    "description": "Message when video generation fails"
+    "message": "יצירת הווידאו נכשלה",
+    "description": "שגיאה כשהיצירה נכשלת"
   },
   "message.uploadVideoExceed": {
-    "message": "The number of uploaded first frame images exceeds the limit",
-    "description": "Error message when the number of uploaded first frame images exceeds the limit"
+    "message": "כמות תמונות פריים התחלה חורגת מהמותר",
+    "description": "שגיאה בכמות תמונות התחלה"
   },
   "message.uploadVideoSizeExceed": {
-    "message": "Uploaded file size cannot exceed 10MB!",
-    "description": "Error message when the uploaded file size exceeds 10MB!"
+    "message": "גודל הקובץ חייב להיות עד 10MB!",
+    "description": "שגיאה כשהקובץ גדול מדי"
   },
   "message.uploadVideoTypeFailed": {
-    "message": "Uploaded file must be in MP4 format!",
-    "description": "Error message when the uploaded file is not in MP4 format!"
+    "message": "הקובץ חייב להיות בפורמט MP4!",
+    "description": "שגיאה כשהפורמט לא מתאים"
   },
   "message.uploadStartEndImageExceed": {
-    "message": "The number of uploaded first frame images exceeds the limit",
-    "description": "Error message when the number of uploaded first frame images exceeds the limit"
+    "message": "כמות תמונות פריים התחלה חורגת מהמותר",
+    "description": "שגיאה בכמות תמונות התחלה/סיום"
   },
   "message.uploadEndImageExceed": {
-    "message": "The number of uploaded last frame images exceeds the limit",
-    "description": "Error message when the number of uploaded last frame images exceeds the limit"
+    "message": "כמות תמונות פריים סיום חורגת מהמותר",
+    "description": "שגיאה בכמות תמונות סיום"
   },
   "message.uploadStartImageError": {
-    "message": "Failed to upload first frame image",
-    "description": "Error message when failing to upload the first frame image"
+    "message": "לא הצלחנו להעלות את תמונת פריים ההתחלה",
+    "description": "שגיאה בהעלאת תמונת התחלה"
   },
   "message.uploadVideoError": {
-    "message": "Failed to upload video",
-    "description": "Error message when failing to upload the video"
+    "message": "לא הצלחנו להעלות את הווידאו",
+    "description": "שגיאה בהעלאת וידאו"
   },
   "message.uploadEndImageError": {
-    "message": "Failed to upload last frame image",
-    "description": "Error message when failing to upload the last frame image"
+    "message": "לא הצלחנו להעלות את תמונת פריים הסיום",
+    "description": "שגיאה בהעלאת תמונת סיום"
   },
   "message.uploadDocumentsError": {
-    "message": "Failed to upload document",
-    "description": "Error message when failing to upload the document"
+    "message": "לא הצלחנו להעלות את המסמך",
+    "description": "שגיאה בהעלאת מסמך"
   },
   "message.noOperations": {
-    "message": "No available operations",
-    "description": "Message when there are no available operations"
+    "message": "אין פעולות זמינות כרגע",
+    "description": "הודעה כשאין פעולות"
   },
   "message.noTasks": {
-    "message": "No historical tasks, please click on the left to generate a video",
-    "description": "Message when there are no tasks"
+    "message": "אין היסטוריה עדיין — לחץ/י משמאל כדי ליצור וידאו חדש 🎥",
+    "description": "הודעה כשאין משימות קודמות"
   }
 }
