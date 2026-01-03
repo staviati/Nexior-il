@@ -1,262 +1,262 @@
 {
   "name.taskId": {
-    "message": "Task ID",
-    "description": "The ID of the task"
+    "message": "מזהה משימה",
+    "description": "The ID of the משימה"
   },
   "name.type": {
-    "message": "Type",
-    "description": "The content type of the Kling video to be generated, such as 'link', 'text', etc."
+    "message": "סוג",
+    "description": "The תוכן סוג of the Kling וידאו to be generated, such as 'link', 'text', etc."
   },
   "name.modeStd": {
-    "message": "Standard",
-    "description": "The standard mode for Kling videos"
+    "message": "סטנדרטי",
+    "description": "The סטנדרטי מצב for Kling videos"
   },
   "name.modePro": {
-    "message": "High Quality",
-    "description": "The high-quality mode for Kling videos"
+    "message": "איכות גבוהה",
+    "description": "The גבוהה איכות מצב for Kling videos"
   },
   "name.failure": {
-    "message": "Failed",
-    "description": "The failure status of the task"
+    "message": "נכשל",
+    "description": "The כשל סטטוס of the משימה"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "The reason for the task failure"
+    "message": "סיבת כשל",
+    "description": "The סיבה for the משימה כשל"
   },
   "name.status": {
-    "message": "Status",
-    "description": "The status of the task"
+    "message": "סטטוס",
+    "description": "The סטטוס of the משימה"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "The trace ID of the task"
+    "message": "מזהה מעקב",
+    "description": "The מעקב ID of the משימה"
   },
   "name.createdAt": {
-    "message": "Created At",
-    "description": "The date and time when the Kling video was generated"
+    "message": "נוצר ב‑",
+    "description": "The date and time when the Kling וידאו was generated"
   },
   "name.cfgScale": {
-    "message": "Freedom Level",
-    "description": "The freedom parameter for generating the video (0-1), larger values are closer to the reference"
+    "message": "רמת חופש",
+    "description": "The freedom parameter for generating the וידאו (0 1), larger values are closer to the reference"
   },
   "name.startImage": {
-    "message": "First Frame",
-    "description": "Form field label: first frame reference image"
+    "message": "פריים ראשון",
+    "description": "Form field label: first frame reference תמונה"
   },
   "name.negativePrompt": {
-    "message": "Negative Prompt",
-    "description": "The negative text prompt for generating the video"
+    "message": "פרומפט שלילי",
+    "description": "The שלילי text פרומפט for generating the וידאו"
   },
   "name.endImage": {
-    "message": "Last Frame",
-    "description": "Form field label: last frame reference image"
+    "message": "פריים אחרון",
+    "description": "Form field label: last frame reference תמונה"
   },
   "name.videoUrl": {
-    "message": "Custom Video",
-    "description": "Custom video"
+    "message": "וידאו מותאם",
+    "description": "Custom וידאו"
   },
   "name.prompt": {
-    "message": "Video Prompt",
-    "description": "The prompt for content input"
+    "message": "פרומפט לווידאו",
+    "description": "The פרומפט for תוכן input"
   },
   "name.duration": {
-    "message": "Video Duration",
-    "description": "The duration of the video"
+    "message": "אורך הווידאו",
+    "description": "The אורך of the וידאו"
   },
   "name.ingredients": {
-    "message": "Multi-Image",
+    "message": "ריבוי תמונות",
     "description": "Switch/label for creating videos with multiple images"
   },
   "name.model": {
-    "message": "Model Version",
-    "description": "The model version used to generate the video"
+    "message": "גרסת מודל",
+    "description": "The מודל גרסה used to צור the וידאו"
   },
   "name.ratio": {
-    "message": "Video Ratio",
-    "description": "The video ratio used to generate the video"
+    "message": "יחס ממדים לווידאו",
+    "description": "The וידאו ממדים used to צור the וידאו"
   },
   "name.mode": {
-    "message": "Video Mode",
-    "description": "The mode used to generate the video"
+    "message": "מצב וידאו",
+    "description": "The מצב used to צור the וידאו"
   },
   "name.effect": {
-    "message": "Video Effect",
-    "description": "The name of the style parameter used to switch between different versions or styles of the model"
+    "message": "אפקט וידאו",
+    "description": "The name of the style parameter used to switch between different versions or styles of the מודל"
   },
   "name.ingredientsModel": {
-    "message": "Ingredients Model",
-    "description": "The model version used to generate the video"
+    "message": "Ingredients מודל",
+    "description": "The מודל גרסה used to צור the וידאו"
   },
   "name.klingBot": {
     "message": "Kling Bot",
-    "description": "The name of the Kling video generator"
+    "description": "The name of the Kling וידאו generator"
   },
   "description.ingredients": {
-    "message": "If you want to upload multiple images to generate your video, please enable this button.",
+    "message": "If you want to העלאה multiple images to צור your וידאו, נא enable this button.",
     "description": "Description for the 'ingredients' parameter"
   },
   "description.imageUrl": {
     "message": "In tasks for creating videos with multiple images, multiple images must be uploaded.",
-    "description": "Description for the 'imageUrl' parameter"
+    "description": "Description for the 'image Url' parameter"
   },
   "description.prompt": {
-    "message": "The prompt for generating Kling videos",
-    "description": "Description for the 'prompt' parameter"
+    "message": "הפרומפט ליצירת וידאו (Kling)",
+    "description": "Description for the 'פרומפט' parameter"
   },
   "description.negativePrompt": {
-    "message": "Negative text prompt, optional, must not exceed 200 characters",
-    "description": "Description for the 'negativePrompt' parameter"
+    "message": "פרומפט שלילי (לא חובה), עד 200 תווים",
+    "description": "Description for the 'negative Prompt' parameter"
   },
   "description.uploadStartImage": {
-    "message": "Upload the first frame image as a reference for generation; the final video will reference the first frame.",
-    "description": "Description for the upload reference parameter"
+    "message": "העלו פריים ראשון כרפרנס — הווידאו הסופי יתבסס עליו.",
+    "description": "Description for the העלאה reference parameter"
   },
   "description.uploadEndImage": {
-    "message": "Upload the last frame image as a reference for generation; the final video will reference the last frame.",
-    "description": "Description for the upload reference parameter"
+    "message": "העלו פריים אחרון כרפרנס — הווידאו הסופי יתבסס עליו.",
+    "description": "Description for the העלאה reference parameter"
   },
   "description.cfgScale": {
-    "message": "The freedom level for generating the video, optional [0,1]. Larger values indicate stronger relevance.",
-    "description": "Description for the upload reference parameter"
+    "message": "The freedom רמה for generating the וידאו, optional [0,1]. Larger values indicate stronger relevance.",
+    "description": "Description for the העלאה reference parameter"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "The pending status of the task"
+    "message": "ממתין",
+    "description": "The ממתין סטטוס of the משימה"
   },
   "status.processing": {
-    "message": "Processing",
-    "description": "The processing status of the task"
+    "message": "בעיבוד",
+    "description": "The בעיבוד סטטוס of the משימה"
   },
   "placeholder.paddingNoise": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for padding noise input"
   },
   "placeholder.select": {
-    "message": "Select",
+    "message": "בחר/י",
     "description": "Placeholder text in the selection field"
   },
   "placeholder.paddingLevel": {
-    "message": "Please select...",
-    "description": "Placeholder for padding level"
+    "message": "בחר/י…",
+    "description": "Placeholder for padding רמה"
   },
   "placeholder.prompt": {
-    "message": "Enter the prompt for the video style, e.g., moving",
-    "description": "Placeholder text in the prompt field"
+    "message": "הקלידו פרומפט לסגנון הווידאו… למשל: מצלמה נעה",
+    "description": "Placeholder text in the פרומפט field"
   },
   "placeholder.negativePrompt": {
-    "message": "Enter the negative prompt for the video style, up to 200 characters",
-    "description": "Placeholder text in the negative prompt field"
+    "message": "הקלידו פרומפט שלילי (לא חובה), עד 200 תווים",
+    "description": "Placeholder text in the שלילי פרומפט field"
   },
   "placeholder.position": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for position input"
   },
   "placeholder.aspectRatio": {
-    "message": "Please select...",
-    "description": "Placeholder for aspect ratio input"
+    "message": "בחר/י…",
+    "description": "Placeholder for יחס ממדים input"
   },
   "placeholder.preset": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for preset input"
   },
   "placeholder.markerShape": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for marker shape input"
   },
   "placeholder.rotate": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for rotation input"
   },
   "placeholder.subMarker": {
-    "message": "Please select...",
-    "description": "Placeholder for sub-marker input"
+    "message": "בחר/י…",
+    "description": "Placeholder for sub marker input"
   },
   "button.precise": {
-    "message": "Precise",
-    "description": "Button text for generating Kling video"
+    "message": "מדויק",
+    "description": "Button text for generating Kling וידאו"
   },
   "button.creative": {
-    "message": "Creative",
-    "description": "Button text for generating Kling video"
+    "message": "יצירתי",
+    "description": "Button text for generating Kling וידאו"
   },
   "button.generate": {
-    "message": "Generate",
-    "description": "Button text for generating Kling video"
+    "message": "צור",
+    "description": "Button text for generating Kling וידאו"
   },
   "button.extend": {
-    "message": "Extend Video",
-    "description": "Button text for extending video"
+    "message": "הארכת וידאו",
+    "description": "Button text for extending וידאו"
   },
   "button.download": {
-    "message": "Download Video",
-    "description": "Button text for downloading video"
+    "message": "הורדת וידאו",
+    "description": "Button text for downloading וידאו"
   },
   "button.uploadImageUrl": {
-    "message": "Upload",
-    "description": "Button text for uploading an image (simplified to 'Upload', do not use 'Upload Image')"
+    "message": "העלאה",
+    "description": "Button text for uploading an תמונה (simplified to 'העלאה', do not use 'העלאה תמונה')"
   },
   "button.uploadVideoUrl": {
-    "message": "Upload Video",
-    "description": "Button text for uploading video"
+    "message": "העלאת וידאו",
+    "description": "Button text for uploading וידאו"
   },
   "button.uploadReferences": {
-    "message": "Upload",
-    "description": "Button text allowing users to upload references"
+    "message": "העלאה",
+    "description": "Button text allowing users to העלאה references"
   },
   "message.uploadReferencesExceed": {
-    "message": "You can upload a maximum of 1 image",
+    "message": "You can העלאה a maximum of 1 תמונה",
     "description": "Error message when the number of uploaded images exceeds the limit"
   },
   "message.uploadReferencesSuccess": {
-    "message": "Image uploaded successfully",
-    "description": "Success message when an image is uploaded successfully"
+    "message": "התמונה עלתה בהצלחה ✅",
+    "description": "Success message when an תמונה is uploaded successfully"
   },
   "message.uploadReferencesError": {
-    "message": "Image upload failed, please try again later",
-    "description": "Error message when image upload fails"
+    "message": "העלאה נכשלה — נסו שוב בעוד קצת",
+    "description": "Error message when תמונה העלאה fails"
   },
   "message.startingTask": {
-    "message": "Starting task...",
-    "description": "Message when the drawing task starts"
+    "message": "מתחילים…",
+    "description": "Message when the drawing משימה starts"
   },
   "message.startTaskSuccess": {
-    "message": "Task initiated successfully",
-    "description": "Success message when the task is successfully started"
+    "message": "המשימה יצאה לדרך ✅",
+    "description": "Success message when the משימה is successfully started"
   },
   "message.startTaskFailed": {
-    "message": "Failed to initiate task, please contact the administrator",
-    "description": "Error message when starting the drawing task fails"
+    "message": "לא הצלחנו להתחיל — פנו למנהל המערכת",
+    "description": "Error message when starting the drawing משימה fails"
   },
   "message.usedUp": {
-    "message": "Your credits are exhausted, please purchase more to continue",
+    "message": "Your credits are exhausted, נא purchase more to continue",
     "description": "Message when credits are used up"
   },
   "message.generating": {
-    "message": "Generating...",
-    "description": "Message while the image is being generated"
+    "message": "מייצרים…",
+    "description": "Message while the תמונה is being generated"
   },
   "message.downloadVideo": {
-    "message": "Download this video",
-    "description": "Message while the image is being generated"
+    "message": "הורדת הווידאו הזה",
+    "description": "Message while the תמונה is being generated"
   },
   "message.extendVideo": {
-    "message": "Continue generating this video",
-    "description": "Message while the image is being generated"
+    "message": "להמשיך ליצור מהווידאו הזה",
+    "description": "Message while the תמונה is being generated"
   },
   "message.generateFailed": {
-    "message": "Image generation failed",
-    "description": "Message when image generation fails"
+    "message": "יצירת התמונה נכשלה",
+    "description": "Message when תמונה generation fails"
   },
   "message.uploadVideoExceed": {
     "message": "Number of uploaded first frame images exceeds the limit",
     "description": "Error message when the number of uploaded first frame images exceeds the limit"
   },
   "message.uploadVideoSizeExceed": {
-    "message": "Uploaded file size cannot exceed 10MB!",
-    "description": "Error message when uploaded file size exceeds 10MB!"
+    "message": "Uploaded file גודל cannot exceed 10MB!",
+    "description": "Error message when uploaded file גודל exceeds 10MB!"
   },
   "message.uploadVideoTypeFailed": {
-    "message": "Uploaded file must be in MP4 format!",
+    "message": "חייבים להעלות קובץ MP4",
     "description": "Error message when uploaded file is not in MP4 format!"
   },
   "message.uploadStartImageExceed": {
@@ -268,27 +268,27 @@
     "description": "Error message when the number of uploaded last frame images exceeds the limit"
   },
   "message.uploadStartImageError": {
-    "message": "Failed to upload first frame image",
-    "description": "Error message when uploading the first frame image fails"
+    "message": "העלאת פריים ראשון נכשלה",
+    "description": "Error message when uploading the first frame תמונה fails"
   },
   "message.uploadVideoError": {
-    "message": "Failed to upload video",
-    "description": "Error message when uploading the first frame image fails"
+    "message": "העלאת הווידאו נכשלה",
+    "description": "Error message when uploading the first frame תמונה fails"
   },
   "message.uploadEndImageError": {
-    "message": "Failed to upload last frame image",
-    "description": "Error message when uploading the last frame image fails"
+    "message": "העלאת פריים אחרון נכשלה",
+    "description": "Error message when uploading the last frame תמונה fails"
   },
   "message.uploadDocumentsError": {
-    "message": "Failed to upload document",
+    "message": "נכשל to העלאה document",
     "description": "Error message when uploading document fails"
   },
   "message.noOperations": {
-    "message": "No available operations",
+    "message": "אין פעולות זמינות",
     "description": "Message when there are no available operations"
   },
   "message.noTasks": {
-    "message": "No historical tasks, please click on the left to generate a video",
+    "message": "אין היסטוריית משימות — לחצו משמאל כדי ליצור וידאו",
     "description": "Message when there are no tasks"
   }
 }

@@ -1,114 +1,114 @@
 {
   "name.taskId": {
-    "message": "Task ID",
-    "description": "The ID of the task"
+    "message": "מזהה משימה",
+    "description": "The ID of the משימה"
   },
   "name.mode": {
     "message": "Generation Speed",
-    "description": "The name of the speed parameter used to set the speed of image generation"
+    "description": "The name of the speed parameter used to set the speed of תמונה generation"
   },
   "name.type": {
-    "message": "Type",
-    "description": "The content type of the QR code to be generated, such as 'link', 'text', etc."
+    "message": "סוג",
+    "description": "The תוכן סוג of the QR code to be generated, such as 'link', 'text', etc."
   },
   "name.failure": {
-    "message": "Failure",
-    "description": "The failure status of the task"
+    "message": "כשל",
+    "description": "The כשל סטטוס of the משימה"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "The reason for the task failure"
+    "message": "סיבת כשל",
+    "description": "The סיבה for the משימה כשל"
   },
   "name.status": {
-    "message": "Status",
-    "description": "The status of the task"
+    "message": "סטטוס",
+    "description": "The סטטוס of the משימה"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "The trace ID of the task"
+    "message": "מזהה מעקב",
+    "description": "The מעקב ID of the משימה"
   },
   "name.size": {
-    "message": "Size",
-    "description": "The size of the QR code to be generated"
+    "message": "גודל",
+    "description": "The גודל of the QR code to be generated"
   },
   "name.createdAt": {
-    "message": "Created At",
+    "message": "נוצר ב‑",
     "description": "The date and time when the QR code was generated"
   },
   "name.endImageUrls": {
-    "message": "Portrait Images",
+    "message": "תמונות פורטרט",
     "description": "The seed for generating the QR code"
   },
   "description.endImageUrls": {
-    "message": "Generate corresponding ID photos based on this portrait image",
+    "message": "צור corresponding ID photos based on this portrait תמונה",
     "description": "The seed for generating the QR code"
   },
   "name.content": {
-    "message": "Content",
-    "description": "The content of the QR code to be generated"
+    "message": "תוכן",
+    "description": "The תוכן of the QR code to be generated"
   },
   "field.elements": {
-    "message": "ID Photo Style",
-    "description": "The painting style used for generating the image"
+    "message": "סגנון תמונת תעודה",
+    "description": "The painting style used for generating the תמונה"
   },
   "name.headshotsBot": {
-    "message": "Headshots Bot",
+    "message": "בוט תמונות פרופיל",
     "description": "The name for generating Headshots ID photos"
   },
   "name.contentImageUrl": {
-    "message": "Content Image URL",
-    "description": "The URL of the content image for the QR code to be generated"
+    "message": "תוכן תמונה URL",
+    "description": "The URL of the תוכן תמונה for the QR code to be generated"
   },
   "inputWay.input": {
-    "message": "Input Content",
+    "message": "הזנת תוכן",
     "description": "Input method"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "The waiting status of the task"
+    "message": "ממתין",
+    "description": "The waiting סטטוס of the משימה"
   },
   "status.processing": {
-    "message": "Processing",
-    "description": "The processing status of the task"
+    "message": "בעיבוד",
+    "description": "The בעיבוד סטטוס of the משימה"
   },
   "placeholder.paddingNoise": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for padding noise input"
   },
   "placeholder.paddingLevel": {
-    "message": "Please select...",
-    "description": "Placeholder for padding level"
+    "message": "בחר/י…",
+    "description": "Placeholder for padding רמה"
   },
   "placeholder.prompt": {
-    "message": "Enter a prompt for the video style to be generated, e.g., 'Astronauts shuttle from space to volcano'",
-    "description": "Placeholder text in the prompt field"
+    "message": "Enter a פרומפט for the וידאו style to be generated, e.g., 'Astronauts shuttle from space to volcano'",
+    "description": "Placeholder text in the פרומפט field"
   },
   "button.fast": {
-    "message": "Fast Mode",
-    "description": "Button text allowing the user to set 'fast mode' for image generation"
+    "message": "מצב מהיר",
+    "description": "Button text allowing the user to set 'מהיר מצב' for תמונה generation"
   },
   "button.relax": {
-    "message": "Slow Mode",
-    "description": "Button text allowing the user to set 'slow mode' for image generation"
+    "message": "מצב איטי",
+    "description": "Button text allowing the user to set 'איטי מצב' for תמונה generation"
   },
   "button.generate": {
-    "message": "Generate",
+    "message": "צור",
     "description": "Button text for generating Headshots ID photos"
   },
   "button.viewImage": {
-    "message": "View Original",
+    "message": "צפייה במקור",
     "description": "Button text for viewing the original Headshots ID photo"
   },
   "button.download": {
-    "message": "Download Image",
-    "description": "Button text for downloading the image"
+    "message": "הורדת תמונה",
+    "description": "Button text for downloading the תמונה"
   },
   "button.uploadImageUrls": {
-    "message": "Upload",
-    "description": "Button text for uploading portrait images (simplified to 'Upload' to avoid long text)"
+    "message": "העלאה",
+    "description": "Button text for uploading portrait images (simplified to 'העלאה' to avoid long text)"
   },
   "message.uploadReferencesExceed": {
-    "message": "You can upload up to 5 images",
+    "message": "You can העלאה up to 5 images",
     "description": "Error message when the number of uploaded images exceeds the limit"
   },
   "message.uploadReferencesSuccess": {
@@ -116,79 +116,79 @@
     "description": "Success message when images are uploaded successfully"
   },
   "message.uploadReferencesError": {
-    "message": "Image upload failed, please try again later",
-    "description": "Error message when image upload fails"
+    "message": "העלאה נכשלה — נסו שוב בעוד קצת",
+    "description": "Error message when תמונה העלאה fails"
   },
   "message.startingTask": {
-    "message": "Starting task...",
-    "description": "Message when the drawing task starts"
+    "message": "מתחילים…",
+    "description": "Message when the drawing משימה starts"
   },
   "message.startTaskSuccess": {
-    "message": "Task initiated successfully",
-    "description": "Success message when the task is successfully started"
+    "message": "המשימה יצאה לדרך ✅",
+    "description": "Success message when the משימה is successfully started"
   },
   "message.startTaskFailed": {
-    "message": "Failed to initiate task, please contact the administrator",
-    "description": "Error message when starting the drawing task fails"
+    "message": "לא הצלחנו להתחיל — פנו למנהל המערכת",
+    "description": "Error message when starting the drawing משימה fails"
   },
   "message.usedUp": {
-    "message": "Your credits are exhausted, please purchase more to continue using",
+    "message": "Your credits are exhausted, נא purchase more to continue using",
     "description": "Message when credits are used up"
   },
   "message.generating": {
-    "message": "Generating...",
-    "description": "Message when the image is being generated"
+    "message": "מייצרים…",
+    "description": "Message when the תמונה is being generated"
   },
   "message.downloadVideo": {
-    "message": "Download this video",
-    "description": "Message when the image is being generated"
+    "message": "הורדת הווידאו הזה",
+    "description": "Message when the תמונה is being generated"
   },
   "message.generateFailed": {
-    "message": "Image generation failed",
-    "description": "Message when image generation fails"
+    "message": "יצירת התמונה נכשלה",
+    "description": "Message when תמונה generation fails"
   },
   "message.noOperations": {
-    "message": "No available operations",
+    "message": "אין פעולות זמינות",
     "description": "Message when there are no available operations"
   },
   "message.noTasks": {
-    "message": "No historical tasks, please click on the left to generate a video",
+    "message": "אין היסטוריית משימות — לחצו משמאל כדי ליצור וידאו",
     "description": "Message when there are no tasks"
   },
   "styleCategory.styles": {
-    "message": "ID Photo Styles",
-    "description": "Category term used to describe and generate images, generated images should include this category label"
+    "message": "סגנונות תמונת תעודה",
+    "description": "Category term used to describe and צור images, generated images should include this category label"
   },
   "styleTag.malePportrait": {
-    "message": "Male Portrait",
-    "description": "Style term used to describe and generate images, generated images should include this style label"
+    "message": "פורטרט גברי",
+    "description": "Style term used to describe and צור images, generated images should include this style label"
   },
   "styleTag.malePportrait2": {
-    "message": "Male Portrait 2",
-    "description": "Style term used to describe and generate images, generated images should include this style label"
+    "message": "פורטרט גברי 2",
+    "description": "Style term used to describe and צור images, generated images should include this style label"
   },
   "styleTag.kindergarten": {
-    "message": "Kindergarten Entrance Photo",
-    "description": "A style term used to describe and generate images; the generated image should include the style of this tag."
+    "message": "תמונת כניסה לגן",
+    "description": "A style term used to describe and צור images; the generated תמונה should include the style of this tag."
   },
   "styleTag.logoTshirt": {
-    "message": "Corporate Logo T-Shirt Photo",
-    "description": "A style term used to describe and generate images; the generated image should include the style of this tag."
+    "message": "תמונה עם חולצה ממותגת",
+    "description": "A style term used to describe and צור images; the generated תמונה should include the style of this tag."
   },
   "styleTag.wedding": {
-    "message": "Wedding Registration Photo",
-    "description": "A style term used to describe and generate images; the generated image should include the style of this tag."
+    "message": "תמונה לרישום נישואין",
+    "description": "A style term used to describe and צור images; the generated תמונה should include the style of this tag."
   },
   "styleTag.businessPphoto": {
-    "message": "Business Portrait",
-    "description": "A style term used to describe and generate images; the generated image should include the style of this tag."
+    "message": "פורטרט עסקי",
+    "description": "A style term used to describe and צור images; the generated תמונה should include the style of this tag."
   },
   "styleTag.bobSuit": {
-    "message": "Black Suit with Bob Cut",
-    "description": "A style term used to describe and generate images; the generated image should include the style of this tag."
+    "message": "חליפה שחורה + תספורת בוב",
+    "description": "A style term used to describe and צור images; the generated תמונה should include the style of this tag."
   },
   "styleTag.femalePortrait": {
-    "message": "Female Portrait",
-    "description": "A style term used to describe and generate images; the generated image should include the style of this tag."
+    "message": "פורטרט נשי",
+    "description": "A style term used to describe and צור images; the generated תמונה should include the style of this tag."
   }
 }

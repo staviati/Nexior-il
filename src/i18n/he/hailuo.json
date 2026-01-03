@@ -1,150 +1,150 @@
 {
   "name.taskId": {
-    "message": "Task ID",
-    "description": "The ID of the task"
+    "message": "מזהה משימה",
+    "description": "The ID of the משימה"
   },
   "name.type": {
-    "message": "Type",
-    "description": "The content type of the Hailuo video to be generated, such as 'link', 'text', etc."
+    "message": "סוג",
+    "description": "The תוכן סוג of the Hailuo וידאו to be generated, such as 'link', 'text', etc."
   },
   "name.failure": {
-    "message": "Failed",
-    "description": "The failure status of the task"
+    "message": "נכשל",
+    "description": "The כשל סטטוס of the משימה"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "The reason for the task failure"
+    "message": "סיבת כשל",
+    "description": "The סיבה for the משימה כשל"
   },
   "name.status": {
-    "message": "Status",
-    "description": "The status of the task"
+    "message": "סטטוס",
+    "description": "The סטטוס of the משימה"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "The trace ID of the task"
+    "message": "מזהה מעקב",
+    "description": "The מעקב ID of the משימה"
   },
   "name.createdAt": {
-    "message": "Created At",
-    "description": "The date and time the Hailuo video was generated"
+    "message": "נוצר ב‑",
+    "description": "The date and time the Hailuo וידאו was generated"
   },
   "name.imageUrl": {
-    "message": "Reference Image",
-    "description": "The reference image for the video to be generated"
+    "message": "תמונת ייחוס",
+    "description": "The reference תמונה for the וידאו to be generated"
   },
   "name.videoUrl": {
-    "message": "Custom Video",
-    "description": "Custom video"
+    "message": "וידאו מותאם",
+    "description": "Custom וידאו"
   },
   "name.prompt": {
-    "message": "Video Prompt",
-    "description": "The prompt for content input"
+    "message": "פרומפט לווידאו",
+    "description": "The פרומפט for תוכן input"
   },
   "name.ingredients": {
-    "message": "Multi-Image",
+    "message": "ריבוי תמונות",
     "description": "Switch/label for creating videos with multiple images (keep it concise)"
   },
   "name.model": {
-    "message": "Model",
-    "description": "The model version used to generate the video"
+    "message": "מודל",
+    "description": "The מודל גרסה used to צור the וידאו"
   },
   "name.startImageUrl": {
-    "message": "First Frame Image",
+    "message": "תמונת פריים ראשון",
     "description": "The seed for the QR code to be generated"
   },
   "name.ingredientsModel": {
-    "message": "Ingredients Model",
-    "description": "The model version used to generate the video"
+    "message": "Ingredients מודל",
+    "description": "The מודל גרסה used to צור the וידאו"
   },
   "name.hailuoBot": {
     "message": "Hailuo Bot",
-    "description": "The name of the Hailuo video generator"
+    "description": "The name of the Hailuo וידאו generator"
   },
   "description.ingredients": {
-    "message": "Enable this button if you want to upload multiple images to create your video.",
+    "message": "הפעילו אם רוצים להעלות כמה תמונות כדי ליצור וידאו.",
     "description": "Description for the 'ingredients' parameter"
   },
   "description.startImageUrl": {
-    "message": "The first frame image, which will be the first frame of the generated video.",
-    "description": "Description for the 'startImageUrl' parameter"
+    "message": "The first frame תמונה, which will be the first frame of the generated וידאו.",
+    "description": "Description for the 'start Image Url' parameter"
   },
   "description.prompt": {
-    "message": "The prompt words for generating the Hailuo video",
-    "description": "Description for the 'prompt' parameter"
+    "message": "מילות הפרומפט ליצירת וידאו (Hailuo)",
+    "description": "Description for the 'פרומפט' parameter"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "The pending status of the task"
+    "message": "ממתין",
+    "description": "The ממתין סטטוס of the משימה"
   },
   "status.processing": {
-    "message": "Processing",
-    "description": "The processing status of the task"
+    "message": "בעיבוד",
+    "description": "The בעיבוד סטטוס of the משימה"
   },
   "placeholder.paddingNoise": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for padding noise input"
   },
   "placeholder.select": {
-    "message": "Select",
+    "message": "בחר/י",
     "description": "Placeholder text in the select field"
   },
   "placeholder.paddingLevel": {
-    "message": "Please select...",
-    "description": "Placeholder for padding level"
+    "message": "בחר/י…",
+    "description": "Placeholder for padding רמה"
   },
   "placeholder.prompt": {
-    "message": "Enter the prompt for the video style, e.g., 'Fire'",
-    "description": "Placeholder text in the prompt field"
+    "message": "הקלידו פרומפט לסגנון הווידאו… למשל: “Fire”",
+    "description": "Placeholder text in the פרומפט field"
   },
   "placeholder.position": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for position input"
   },
   "placeholder.aspectRatio": {
-    "message": "Please select...",
-    "description": "Placeholder for aspect ratio input"
+    "message": "בחר/י…",
+    "description": "Placeholder for יחס ממדים input"
   },
   "placeholder.preset": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for preset input"
   },
   "placeholder.markerShape": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for marker shape input"
   },
   "placeholder.rotate": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for rotation input"
   },
   "placeholder.subMarker": {
-    "message": "Please select...",
-    "description": "Placeholder for sub-marker input"
+    "message": "בחר/י…",
+    "description": "Placeholder for sub marker input"
   },
   "button.model1": {
-    "message": "Text to Video",
-    "description": "Button text for generating Hailuo video"
+    "message": "טקסט → וידאו",
+    "description": "Button text for generating Hailuo וידאו"
   },
   "button.model2": {
-    "message": "Image to Video",
-    "description": "Button text for generating Hailuo video"
+    "message": "תמונה → וידאו",
+    "description": "Button text for generating Hailuo וידאו"
   },
   "button.generate": {
-    "message": "Generate",
-    "description": "Button text for generating Hailuo video"
+    "message": "צור",
+    "description": "Button text for generating Hailuo וידאו"
   },
   "button.extend": {
-    "message": "Extend Video",
-    "description": "Button text for extending video"
+    "message": "הארכת וידאו",
+    "description": "Button text for extending וידאו"
   },
   "button.download": {
-    "message": "Download Video",
-    "description": "Button text for downloading video"
+    "message": "הורדת וידאו",
+    "description": "Button text for downloading וידאו"
   },
   "button.uploadStartImageUrl": {
-    "message": "Upload",
-    "description": "Button text for uploading image (simplified to 'Upload')"
+    "message": "העלאה",
+    "description": "Button text for uploading תמונה (simplified to 'העלאה')"
   },
   "message.uploadReferencesExceed": {
-    "message": "You can upload up to 5 images",
+    "message": "You can העלאה up to 5 images",
     "description": "Error message when the number of uploaded images exceeds the limit"
   },
   "message.uploadReferencesSuccess": {
@@ -152,51 +152,51 @@
     "description": "Success message when images are uploaded successfully"
   },
   "message.uploadReferencesError": {
-    "message": "Image upload failed, please try again later",
-    "description": "Error message when image upload fails"
+    "message": "העלאה נכשלה — נסו שוב בעוד קצת",
+    "description": "Error message when תמונה העלאה fails"
   },
   "message.startingTask": {
-    "message": "Starting task...",
-    "description": "Message when the drawing task starts"
+    "message": "מתחילים…",
+    "description": "Message when the drawing משימה starts"
   },
   "message.startTaskSuccess": {
-    "message": "Task initiated successfully",
-    "description": "Success message when the task is successfully started"
+    "message": "המשימה יצאה לדרך ✅",
+    "description": "Success message when the משימה is successfully started"
   },
   "message.startTaskFailed": {
-    "message": "Failed to initiate task, please contact the administrator",
-    "description": "Error message when starting the drawing task fails"
+    "message": "לא הצלחנו להתחיל — פנו למנהל המערכת",
+    "description": "Error message when starting the drawing משימה fails"
   },
   "message.usedUp": {
-    "message": "Your credits are exhausted, please purchase more to continue using",
+    "message": "Your credits are exhausted, נא purchase more to continue using",
     "description": "Message when credits are exhausted"
   },
   "message.generating": {
-    "message": "Generating...",
-    "description": "Message when the image is being generated"
+    "message": "מייצרים…",
+    "description": "Message when the תמונה is being generated"
   },
   "message.downloadVideo": {
-    "message": "Download this video",
-    "description": "Message when the image is being generated"
+    "message": "הורדת הווידאו הזה",
+    "description": "Message when the תמונה is being generated"
   },
   "message.extendVideo": {
-    "message": "Continue generating this video",
-    "description": "Message when the image is being generated"
+    "message": "להמשיך ליצור מהווידאו הזה",
+    "description": "Message when the תמונה is being generated"
   },
   "message.generateFailed": {
-    "message": "Image generation failed",
-    "description": "Message when image generation fails"
+    "message": "יצירת התמונה נכשלה",
+    "description": "Message when תמונה generation fails"
   },
   "message.uploadVideoExceed": {
     "message": "Exceeded the limit for the number of first frame images uploaded",
     "description": "Error message when the number of first frame images uploaded exceeds the limit"
   },
   "message.uploadVideoSizeExceed": {
-    "message": "Uploaded file size must not exceed 10MB!",
-    "description": "Error message when the uploaded file size exceeds 10MB!"
+    "message": "גודל הקובץ לא יכול לעלות על ‎10MB",
+    "description": "Error message when the uploaded file גודל exceeds 10MB!"
   },
   "message.uploadVideoTypeFailed": {
-    "message": "Uploaded file must be in MP4 format!",
+    "message": "חייבים להעלות קובץ MP4",
     "description": "Error message when the uploaded file is not in MP4 format!"
   },
   "message.uploadStartImageExceed": {
@@ -208,27 +208,27 @@
     "description": "Error message when the number of last frame images uploaded exceeds the limit"
   },
   "message.uploadStartImageError": {
-    "message": "Failed to upload first frame image",
-    "description": "Error message when the first frame image upload fails"
+    "message": "העלאת פריים ראשון נכשלה",
+    "description": "Error message when the first frame תמונה העלאה fails"
   },
   "message.uploadVideoError": {
-    "message": "Failed to upload video",
-    "description": "Error message when the video upload fails"
+    "message": "העלאת הווידאו נכשלה",
+    "description": "Error message when the וידאו העלאה fails"
   },
   "message.uploadEndImageError": {
-    "message": "Failed to upload last frame image",
-    "description": "Error message when the last frame image upload fails"
+    "message": "העלאת פריים אחרון נכשלה",
+    "description": "Error message when the last frame תמונה העלאה fails"
   },
   "message.uploadDocumentsError": {
-    "message": "Failed to upload document",
-    "description": "Error message when the document upload fails"
+    "message": "נכשל to העלאה document",
+    "description": "Error message when the document העלאה fails"
   },
   "message.noOperations": {
-    "message": "No available operations",
+    "message": "אין פעולות זמינות",
     "description": "Message when there are no available operations"
   },
   "message.noTasks": {
-    "message": "No historical tasks, please click to generate video on the left",
+    "message": "No historical tasks, נא click to צור וידאו on the left",
     "description": "Message when there are no tasks"
   }
 }

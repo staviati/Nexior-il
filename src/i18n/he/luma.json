@@ -1,243 +1,243 @@
 {
   "name.taskId": {
-    "message": "Task ID",
-    "description": "The ID of the task"
+    "message": "מזהה משימה",
+    "description": "The ID of the משימה"
   },
   "name.type": {
-    "message": "Type",
-    "description": "The content type of the QR code to be generated, such as 'link', 'text', etc."
+    "message": "סוג",
+    "description": "The תוכן סוג of the QR code to be generated, such as 'link', 'text', etc."
   },
   "name.failure": {
-    "message": "Failure",
-    "description": "The failure status of the task"
+    "message": "כשל",
+    "description": "The כשל סטטוס of the משימה"
   },
   "name.failureReason": {
-    "message": "Failure Reason",
-    "description": "The reason for the task failure"
+    "message": "סיבת כשל",
+    "description": "The סיבה for the משימה כשל"
   },
   "name.status": {
-    "message": "Status",
-    "description": "The status of the task"
+    "message": "סטטוס",
+    "description": "The סטטוס of the משימה"
   },
   "name.traceId": {
-    "message": "Trace ID",
-    "description": "The trace ID of the task"
+    "message": "מזהה מעקב",
+    "description": "The מעקב ID of the משימה"
   },
   "name.size": {
-    "message": "Size",
-    "description": "The size of the QR code to be generated"
+    "message": "גודל",
+    "description": "The גודל of the QR code to be generated"
   },
   "name.createdAt": {
-    "message": "Created At",
+    "message": "נוצר ב‑",
     "description": "The date and time the QR code was generated"
   },
   "name.pixelStyle": {
-    "message": "Pixel Style",
+    "message": "סגנון פיקסלים",
     "description": "The pixel style of the QR code to be generated"
   },
   "name.startImageUrl": {
-    "message": "Start Image",
+    "message": "תמונת התחלה",
     "description": "The seed for the QR code to be generated"
   },
   "name.videoUrl": {
-    "message": "Custom Video",
+    "message": "וידאו מותאם",
     "description": "The seed for the QR code to be generated"
   },
   "name.endImageUrl": {
-    "message": "End Image",
+    "message": "תמונת סיום",
     "description": "The seed for the QR code to be generated"
   },
   "name.paddingLevel": {
-    "message": "Padding Level",
-    "description": "The padding level of the QR code to be generated"
+    "message": "רמת שוליים",
+    "description": "The padding רמה of the QR code to be generated"
   },
   "name.paddingNoise": {
-    "message": "Padding Noise",
+    "message": "רעש שוליים",
     "description": "The padding noise of the QR code to be generated"
   },
   "name.content": {
-    "message": "Content",
-    "description": "The content of the QR code to be generated"
+    "message": "תוכן",
+    "description": "The תוכן of the QR code to be generated"
   },
   "name.ecl": {
-    "message": "Error Correction Level",
-    "description": "The error correction level of the QR code to be generated"
+    "message": "רמת תיקון שגיאות",
+    "description": "The error correction רמה of the QR code to be generated"
   },
   "name.position": {
-    "message": "Position",
+    "message": "מיקום",
     "description": "The position of the QR code to be generated"
   },
   "name.prompt": {
-    "message": "Video Prompt",
-    "description": "The prompt for content input"
+    "message": "פרומפט לווידאו",
+    "description": "The פרומפט for תוכן input"
   },
   "name.rotate": {
-    "message": "Rotation Angle",
+    "message": "זווית סיבוב",
     "description": "The rotation of the QR code to be generated"
   },
   "name.enhancement": {
-    "message": "Prompt Enhancement",
+    "message": "שיפור פרומפט",
     "description": "Advanced settings for the QR code to be generated"
   },
   "name.custom": {
-    "message": "Upload Video Extension",
-    "description": "Custom extension video"
+    "message": "העלאת וידאו להמשך",
+    "description": "Custom extension וידאו"
   },
   "name.extend": {
-    "message": "Extended Video From",
-    "description": "The prompt for content input"
+    "message": "הארכת וידאו מתוך",
+    "description": "The פרומפט for תוכן input"
   },
   "name.loop": {
-    "message": "Video Loop",
+    "message": "לולאת וידאו",
     "description": "Advanced settings for the QR code to be generated"
   },
   "name.aspectRatio": {
-    "message": "Aspect Ratio",
-    "description": "The aspect ratio of the QR code to be generated"
+    "message": "יחס ממדים",
+    "description": "The יחס ממדים of the QR code to be generated"
   },
   "name.markerShape": {
-    "message": "Marker Shape",
+    "message": "צורת סמן",
     "description": "The marker shape of the QR code to be generated"
   },
   "name.subMarker": {
-    "message": "Sub Marker",
+    "message": "סמן משני",
     "description": "The sub marker of the QR code to be generated"
   },
   "name.qrw": {
-    "message": "Visibility",
+    "message": "נראות",
     "description": "The name of the QR code generator"
   },
   "name.steps": {
-    "message": "Generation Steps",
-    "description": "The number of steps to generate the QR code"
+    "message": "צעדי יצירה",
+    "description": "The number of steps to צור the QR code"
   },
   "name.preset": {
-    "message": "Preset Style",
+    "message": "סגנון מוכן",
     "description": "The preset for the QR code to be generated"
   },
   "name.lumaBot": {
     "message": "Luma Bot",
-    "description": "The name of the Luma video generator"
+    "description": "The name of the Luma וידאו generator"
   },
   "name.contentImageUrl": {
-    "message": "Content Image URL",
-    "description": "The content image URL of the QR code to be generated"
+    "message": "תוכן תמונה URL",
+    "description": "The תוכן תמונה URL of the QR code to be generated"
   },
   "inputWay.input": {
-    "message": "Input Content",
+    "message": "הזנת תוכן",
     "description": "Input method"
   },
   "inputWay.upload": {
-    "message": "Upload QR Code",
+    "message": "העלאת קוד QR",
     "description": "Input method"
   },
   "description.loop": {
-    "message": "Enable looping for the generated video.",
+    "message": "מפעיל לולאה על הווידאו שנוצר.",
     "description": "Description of the 'qrw' parameter"
   },
   "description.enhancement": {
-    "message": "If you're unsure how to write the prompt text, enable the enhancement for input prompts.",
+    "message": "לא בטוחים איך לנסח? הפעילו שיפור פרומפט לעזרה בניסוח.",
     "description": "Description of the 'qrw' parameter"
   },
   "description.custom": {
-    "message": "If you want to upload your own video to extend the video, turn on this button.",
+    "message": "רוצים להעלות וידאו משלכם ולהאריך ממנו? הפעילו את הכפתור הזה.",
     "description": "Description of the 'qrw' parameter"
   },
   "description.startImageUrl": {
-    "message": "The URL of the start image, which will be the first frame of the generated video.",
+    "message": "The URL of the start תמונה, which will be the first frame of the generated וידאו.",
     "description": "Description of the 'steps' parameter"
   },
   "description.videoUrl": {
-    "message": "The URL of the uploaded custom extended video, which will be the extended video.",
+    "message": "The URL of the uploaded custom extended וידאו, which will be the extended וידאו.",
     "description": "Description of the 'steps' parameter"
   },
   "description.endImageUrl": {
-    "message": "The URL of the end image, which will be the last frame of the generated video.",
+    "message": "The URL of the end תמונה, which will be the last frame of the generated וידאו.",
     "description": "Description of the 'steps' parameter"
   },
   "description.prompt": {
-    "message": "The prompt for generating Luma videos",
-    "description": "Description of the 'prompt' parameter"
+    "message": "הפרומפט ליצירת וידאו (Luma)",
+    "description": "Description of the 'פרומפט' parameter"
   },
   "status.pending": {
-    "message": "Pending",
-    "description": "The waiting status of the task"
+    "message": "ממתין",
+    "description": "The waiting סטטוס of the משימה"
   },
   "status.processing": {
-    "message": "Processing",
-    "description": "The processing status of the task"
+    "message": "בעיבוד",
+    "description": "The בעיבוד סטטוס of the משימה"
   },
   "placeholder.paddingNoise": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for padding noise input"
   },
   "placeholder.paddingLevel": {
-    "message": "Please select...",
-    "description": "Placeholder for padding level"
+    "message": "בחר/י…",
+    "description": "Placeholder for padding רמה"
   },
   "placeholder.prompt": {
-    "message": "Enter the prompt for the video style to be generated, e.g., Astronauts shuttle from space to volcano",
-    "description": "Placeholder text in the prompt field"
+    "message": "Enter the פרומפט for the וידאו style to be generated, e.g., Astronauts shuttle from space to volcano",
+    "description": "Placeholder text in the פרומפט field"
   },
   "placeholder.startImageUrl": {
-    "message": "Start Image URL",
+    "message": "כתובת תמונת התחלה",
     "description": "Placeholder for seed input"
   },
   "placeholder.endImageUrl": {
-    "message": "End Image URL",
+    "message": "End תמונה URL",
     "description": "Placeholder for seed input"
   },
   "placeholder.position": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for position input"
   },
   "placeholder.content": {
-    "message": "Enter the content for the QR code to be generated, e.g., https://www.google.com",
-    "description": "Placeholder text in the content field"
+    "message": "הקלידו את התוכן לקוד ה‑QR (למשל קישור)",
+    "description": "Placeholder text in the תוכן field"
   },
   "placeholder.aspectRatio": {
-    "message": "Please select...",
-    "description": "Placeholder for aspect ratio input"
+    "message": "בחר/י…",
+    "description": "Placeholder for יחס ממדים input"
   },
   "placeholder.preset": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for preset input"
   },
   "placeholder.markerShape": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for marker shape input"
   },
   "placeholder.rotate": {
-    "message": "Please select...",
+    "message": "בחר/י…",
     "description": "Placeholder for rotation input"
   },
   "placeholder.subMarker": {
-    "message": "Please select...",
-    "description": "Placeholder for sub-marker input"
+    "message": "בחר/י…",
+    "description": "Placeholder for sub marker input"
   },
   "button.generate": {
-    "message": "Generate",
-    "description": "Button text for generating Luma video"
+    "message": "צור",
+    "description": "Button text for generating Luma וידאו"
   },
   "button.extend": {
-    "message": "Extend Video",
-    "description": "Button text for extending video"
+    "message": "הארכת וידאו",
+    "description": "Button text for extending וידאו"
   },
   "button.download": {
-    "message": "Download Video",
-    "description": "Button text for downloading video"
+    "message": "הורדת וידאו",
+    "description": "Button text for downloading וידאו"
   },
   "button.uploadStartImageUrl": {
-    "message": "Upload",
-    "description": "Button text for uploading an image (simplified to 'Upload')"
+    "message": "העלאה",
+    "description": "Button text for uploading an תמונה (simplified to 'העלאה')"
   },
   "button.uploadVideoUrl": {
-    "message": "Upload Video",
-    "description": "Button text for uploading a video"
+    "message": "העלאת וידאו",
+    "description": "Button text for uploading a וידאו"
   },
   "button.uploadEndImageUrl": {
-    "message": "Upload",
-    "description": "Button text for uploading an image (simplified to 'Upload')"
+    "message": "העלאה",
+    "description": "Button text for uploading an תמונה (simplified to 'העלאה')"
   },
   "preset.sunset": {
     "message": "Sunset",
@@ -336,67 +336,67 @@
     "description": "Preset style for generating QR code"
   },
   "message.uploadQr": {
-    "message": "Upload QR code image to generate an artistic QR code that matches the QR code content",
+    "message": "העלו תמונת QR כדי ליצור QR אמנותי שמתאים לתוכן הקוד",
     "description": "Instructions for uploading QR code"
   },
   "message.promptPlaceholder": {
-    "message": "Enter a sentence describing the image to generate, e.g., a cute cat. Additional parameters will override default preset parameters",
-    "description": "Placeholder text in the prompt field"
+    "message": "כתבו משפט שמתאר מה ליצור (למשל: חתול חמוד). פרמטרים נוספים יעקפו את ברירות המחדל.",
+    "description": "Placeholder text in the פרומפט field"
   },
   "message.uploadReferencesExceed": {
-    "message": "You can upload up to 5 images",
+    "message": "You can העלאה up to 5 images",
     "description": "Error message when the number of uploaded images exceeds the limit"
   },
   "message.uploadReferencesSuccess": {
-    "message": "Image uploaded successfully",
-    "description": "Success message when an image is uploaded successfully"
+    "message": "התמונה עלתה בהצלחה ✅",
+    "description": "Success message when an תמונה is uploaded successfully"
   },
   "message.uploadReferencesError": {
-    "message": "Image upload failed, please try again later",
-    "description": "Error message when image upload fails"
+    "message": "העלאה נכשלה — נסו שוב בעוד קצת",
+    "description": "Error message when תמונה העלאה fails"
   },
   "message.startingTask": {
-    "message": "Starting task...",
-    "description": "Message when the drawing task starts"
+    "message": "מתחילים…",
+    "description": "Message when the drawing משימה starts"
   },
   "message.startTaskSuccess": {
-    "message": "Task initiated successfully",
-    "description": "Success message when the task is successfully initiated"
+    "message": "המשימה יצאה לדרך ✅",
+    "description": "Success message when the משימה is successfully initiated"
   },
   "message.startTaskFailed": {
-    "message": "Task initiation failed, please contact the administrator",
-    "description": "Error message when the drawing task fails to start"
+    "message": "משימה initiation נכשל, נא contact the administrator",
+    "description": "Error message when the drawing משימה fails to start"
   },
   "message.usedUp": {
-    "message": "Your credits are exhausted, please purchase more credits to continue using",
+    "message": "Your credits are exhausted, נא purchase more credits to continue using",
     "description": "Message when credits are used up"
   },
   "message.generating": {
-    "message": "Generating...",
-    "description": "Message displayed while the image is being generated"
+    "message": "מייצרים…",
+    "description": "Message displayed while the תמונה is being generated"
   },
   "message.downloadVideo": {
-    "message": "Download this video",
-    "description": "Message displayed while the image is being generated"
+    "message": "הורדת הווידאו הזה",
+    "description": "Message displayed while the תמונה is being generated"
   },
   "message.extendVideo": {
-    "message": "Continue generating this video",
-    "description": "Message displayed while the image is being generated"
+    "message": "להמשיך ליצור מהווידאו הזה",
+    "description": "Message displayed while the תמונה is being generated"
   },
   "message.generateFailed": {
-    "message": "Image generation failed",
-    "description": "Message displayed when image generation fails"
+    "message": "יצירת התמונה נכשלה",
+    "description": "Message displayed when תמונה generation fails"
   },
   "message.uploadVideoExceed": {
     "message": "Exceeded the limit for the number of first frame images",
     "description": "Error message when the number of first frame images exceeds the limit"
   },
   "message.uploadVideoSizeExceed": {
-    "message": "Uploaded file size cannot exceed 10MB!",
-    "description": "Error message when the uploaded file size exceeds 10MB!"
+    "message": "Uploaded file גודל cannot exceed 10MB!",
+    "description": "Error message when the uploaded file גודל exceeds 10MB!"
   },
   "message.uploadVideoTypeFailed": {
-    "message": "Uploaded file must be in MP4 format!",
+    "message": "חייבים להעלות קובץ MP4",
     "description": "Error message when the uploaded file is not in MP4 format!"
   },
   "message.uploadStartImageExceed": {
@@ -408,155 +408,155 @@
     "description": "Error message when the number of last frame images exceeds the limit"
   },
   "message.uploadStartImageError": {
-    "message": "Failed to upload first frame image",
-    "description": "Error message when the first frame image upload fails"
+    "message": "העלאת פריים ראשון נכשלה",
+    "description": "Error message when the first frame תמונה העלאה fails"
   },
   "message.uploadVideoError": {
-    "message": "Failed to upload video",
-    "description": "Error message when the video upload fails"
+    "message": "העלאת הווידאו נכשלה",
+    "description": "Error message when the וידאו העלאה fails"
   },
   "message.uploadEndImageError": {
-    "message": "Failed to upload last frame image",
-    "description": "Error message when the last frame image upload fails"
+    "message": "העלאת פריים אחרון נכשלה",
+    "description": "Error message when the last frame תמונה העלאה fails"
   },
   "message.uploadDocumentsError": {
-    "message": "Failed to upload document",
-    "description": "Error message when the document upload fails"
+    "message": "נכשל to העלאה document",
+    "description": "Error message when the document העלאה fails"
   },
   "message.noOperations": {
-    "message": "No available operations",
+    "message": "אין פעולות זמינות",
     "description": "Message displayed when there are no available operations"
   },
   "message.noTasks": {
-    "message": "No history tasks, please click to generate video on the left",
+    "message": "No history tasks, נא click to צור וידאו on the left",
     "description": "Message displayed when there are no tasks"
   },
   "markerShape.square": {
-    "message": "Square",
+    "message": "ריבוע",
     "description": "Marker shape used for generating QR codes"
   },
   "markerShape.circle": {
-    "message": "Circle",
+    "message": "עיגול",
     "description": "Marker shape used for generating QR codes"
   },
   "markerShape.plus": {
-    "message": "Plus",
+    "message": "פלוס",
     "description": "Marker shape used for generating QR codes"
   },
   "markerShape.box": {
-    "message": "Box",
+    "message": "קופסה",
     "description": "Marker shape used for generating QR codes"
   },
   "markerShape.octagon": {
-    "message": "Octagon",
+    "message": "מתומן",
     "description": "Marker shape used for generating QR codes"
   },
   "markerShape.tinyPlus": {
-    "message": "Tiny Plus",
+    "message": "פלוס קטן",
     "description": "Marker shape used for generating QR codes"
   },
   "markerShape.random": {
-    "message": "Random",
+    "message": "אקראי",
     "description": "Marker shape used for generating QR codes"
   },
   "subMarker.square": {
-    "message": "Square",
-    "description": "Sub-marker shape used for generating QR codes"
+    "message": "ריבוע",
+    "description": "Sub marker shape used for generating QR codes"
   },
   "subMarker.circle": {
-    "message": "Circle",
-    "description": "Sub-marker shape used for generating QR codes"
+    "message": "עיגול",
+    "description": "Sub marker shape used for generating QR codes"
   },
   "subMarker.plus": {
-    "message": "Plus",
-    "description": "Sub-marker shape used for generating QR codes"
+    "message": "פלוס",
+    "description": "Sub marker shape used for generating QR codes"
   },
   "subMarker.box": {
-    "message": "Box",
-    "description": "Sub-marker shape used for generating QR codes"
+    "message": "קופסה",
+    "description": "Sub marker shape used for generating QR codes"
   },
   "subMarker.random": {
-    "message": "Random",
-    "description": "Sub-marker shape used for generating QR codes"
+    "message": "אקראי",
+    "description": "Sub marker shape used for generating QR codes"
   },
   "position.center": {
-    "message": "Center",
+    "message": "מרכז",
     "description": "Position used for generating QR codes"
   },
   "position.topLeft": {
-    "message": "Top Left",
+    "message": "שמאל עליון",
     "description": "Position used for generating QR codes"
   },
   "position.topRight": {
-    "message": "Top Right",
+    "message": "ימין עליון",
     "description": "Position used for generating QR codes"
   },
   "position.bottomLeft": {
-    "message": "Bottom Left",
+    "message": "שמאל תחתון",
     "description": "Position used for generating QR codes"
   },
   "position.bottomRight": {
-    "message": "Bottom Right",
+    "message": "ימין תחתון",
     "description": "Position used for generating QR codes"
   },
   "position.top": {
-    "message": "Top",
+    "message": "עליון",
     "description": "Position used for generating QR codes"
   },
   "position.bottom": {
-    "message": "Bottom",
+    "message": "תחתון",
     "description": "Position used for generating QR codes"
   },
   "position.left": {
-    "message": "Left",
+    "message": "שמאל",
     "description": "Position used for generating QR codes"
   },
   "position.right": {
-    "message": "Right",
+    "message": "ימין",
     "description": "Position used for generating QR codes"
   },
   "pixelStyle.row": {
-    "message": "Row",
+    "message": "שורות",
     "description": "Pixel style used for generating QR codes"
   },
   "pixelStyle.column": {
-    "message": "Column",
+    "message": "עמודות",
     "description": "Pixel style used for generating QR codes"
   },
   "pixelStyle.square": {
-    "message": "Square",
+    "message": "ריבוע",
     "description": "Pixel style used for generating QR codes"
   },
   "pixelStyle.rounded": {
-    "message": "Rounded",
+    "message": "מעוגל",
     "description": "Pixel style used for generating QR codes"
   },
   "pixelStyle.dot": {
-    "message": "Dot",
+    "message": "נקודות",
     "description": "Pixel style used for generating QR codes"
   },
   "pixelStyle.squircle": {
-    "message": "Squircle",
+    "message": "ריבוע‑מעוגל",
     "description": "Pixel style used for generating QR codes"
   },
   "type.text": {
-    "message": "Text",
-    "description": "Content type used for generating QR codes"
+    "message": "טקסט",
+    "description": "תוכן סוג used for generating QR codes"
   },
   "type.link": {
-    "message": "Link",
-    "description": "Content type used for generating QR codes"
+    "message": "קישור",
+    "description": "תוכן סוג used for generating QR codes"
   },
   "type.email": {
-    "message": "Email",
-    "description": "Content type used for generating QR codes"
+    "message": "אימייל",
+    "description": "תוכן סוג used for generating QR codes"
   },
   "type.phone": {
-    "message": "Phone",
-    "description": "Content type used for generating QR codes"
+    "message": "טלפון",
+    "description": "תוכן סוג used for generating QR codes"
   },
   "type.sms": {
     "message": "SMS",
-    "description": "Content type used for generating QR codes"
+    "description": "תוכן סוג used for generating QR codes"
   }
 }

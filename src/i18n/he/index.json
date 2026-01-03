@@ -1,78 +1,78 @@
 {
   "title.chat": {
-    "message": "AI Chat",
+    "message": "צ׳אט AI",
     "description": "AI chat section title"
   },
   "title.midjourney": {
-    "message": "AI Drawing",
+    "message": "ציור ב‑AI",
     "description": "AI drawing section title"
   },
   "title.qrart": {
-    "message": "AI Art QR Code",
+    "message": "קוד QR אמנותי ב‑AI",
     "description": "AI art QR code section title"
   },
   "title.suno": {
-    "message": "AI Music",
+    "message": "מוזיקה ב‑AI",
     "description": "AI music section title"
   },
   "title.luma": {
-    "message": "AI Video",
-    "description": "AI video section title"
+    "message": "וידאו ב‑AI",
+    "description": "AI וידאו section title"
   },
   "title.headshots": {
-    "message": "AI Headshots",
+    "message": "תמונות פרופיל ב‑AI",
     "description": "AI headshots section title"
   },
   "title.comments": {
-    "message": "Customer Reviews",
+    "message": "חוות דעת",
     "description": "Customer reviews section title"
   },
   "title.introduction": {
-    "message": "Our Services",
+    "message": "השירותים שלנו",
     "description": "Site introduction"
   },
   "subtitle.banner": {
-    "message": "Empower with AI, enhance your productivity comprehensively.",
+    "message": "תנו ל‑AI דחיפה — ותעלו רמה בפרודוקטיביות.",
     "description": "Site subtitle"
   },
   "subtitle.chat": {
-    "message": "Supports multiple Q&A models, with internet connectivity, capable of recognizing images, files, and videos.",
+    "message": "תומך בכמה מודלי שאלות‑תשובות, עם גישה לאינטרנט וזיהוי תמונות/קבצים/וידאו.",
     "description": "AI chat section subtitle"
   },
   "subtitle.midjourney": {
-    "message": "Integrates the latest Midjourney model, generates various styles of images with one click and continuous fine-tuning.",
+    "message": "משלב את Midjourney העדכני: יוצרים תמונות בסגנונות שונים בלחיצה אחת ומדייקים בהמשך.",
     "description": "AI drawing section subtitle"
   },
   "subtitle.qrart": {
-    "message": "Supports various artistic QR code styles, allows uploading existing QR codes, easily artisticizes them for unique visual effects.",
+    "message": "מלא סגנונות לקודי QR אמנותיים: אפשר גם להעלות QR קיים ולהפוך אותו ליצירת אמנות עם אפקטים ייחודיים.",
     "description": "AI art QR code section subtitle"
   },
   "subtitle.suno": {
-    "message": "Supports various music styles, easily generates the music you want, with flexible length extension options.",
+    "message": "יוצרים מוזיקה בסגנונות שונים בקלות, כולל אפשרות להאריך את הטראק כשבא לכם.",
     "description": "AI music section subtitle"
   },
   "subtitle.luma": {
-    "message": "Integrates the latest Luma model, generates custom videos with one click, with flexible video extension options.",
-    "description": "AI video section subtitle"
+    "message": "משלב את Luma העדכני: מייצרים וידאו מותאם בלחיצה אחת, עם אפשרות להמשך/הארכה.",
+    "description": "AI וידאו section subtitle"
   },
   "subtitle.headshots": {
-    "message": "Integrates the latest AI model, generates custom template headshots with one click, supports various styles of headshots.",
+    "message": "משלב מודל AI מתקדם: תמונות פרופיל/פספורט מתבניות בלחיצה אחת, עם מגוון סגנונות.",
     "description": "AI headshots section subtitle"
   },
   "subtitle.comments": {
-    "message": "We are delighted to help these customers, who have given high praise to our services.",
+    "message": "כיף לנו לעזור — הנה כמה לקוחות שנתנו לנו אחלה פידבק 😊",
     "description": "Customer reviews section subtitle"
   },
   "subtitle.introduction": {
-    "message": "We offer one-stop AI services, including Q&A, drawing, QR codes, music, and more, to meet your diverse needs.",
+    "message": "במקום לקפוץ בין אתרים: הכל אצלנו — צ׳אט, ציור, QR, מוזיקה ועוד — לכל הצרכים שלך.",
     "description": "Site introduction"
   },
   "button.try": {
-    "message": "Start Free",
-    "description": "Content inside the text"
+    "message": "מתחילים בחינם",
+    "description": "תוכן inside the text"
   },
   "button.testEnv": {
-    "message": "Test Environment",
+    "message": "סביבת בדיקה",
     "description": "Test environment button"
   },
   "customers.name1": {
@@ -84,7 +84,7 @@
     "description": "Customer's job title"
   },
   "customers.comment1": {
-    "message": "This integrated service is incredibly convenient, I can use various AI tools on one platform, fantastic!",
+    "message": "This integrated שירות is incredibly convenient, I can use various AI tools on one platform, fantastic!",
     "description": "Customer's comment"
   },
   "customers.name2": {
@@ -96,7 +96,7 @@
     "description": "Customer's job title"
   },
   "customers.comment2": {
-    "message": "The platform is very user-friendly, the service quality is excellent, and it greatly enhances my productivity.",
+    "message": "The platform is very user friendly, the שירות איכות is excellent, and it greatly enhances my productivity.",
     "description": "Customer's comment"
   },
   "customers.name3": {

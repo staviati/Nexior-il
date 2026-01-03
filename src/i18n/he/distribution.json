@@ -1,138 +1,138 @@
 {
   "button.detail": {
-    "message": "View Details",
+    "message": "צפייה בפרטים",
     "description": "Button text used to view the details of the site's referral history."
   },
   "button.withdrawal": {
-    "message": "Withdrawal",
+    "message": "משיכה",
     "description": "Button text used to withdraw the earnings from the site's referrals."
   },
   "button.query": {
-    "message": "Query",
+    "message": "בדיקה",
     "description": "Button text used to query the earnings from the site's referrals."
   },
   "field.id": {
-    "message": "Referral ID",
-    "description": "A unique identifier for the referral, which refers to the referrals of the API service website."
+    "message": "מזהה הפניה",
+    "description": "A unique identifier for the referral, which refers to the referrals of the API שירות website."
   },
   "field.percentage": {
-    "message": "Referral Earnings Percentage",
+    "message": "אחוז רווח מהפניות",
     "description": "The percentage of referral earnings calculated based on the order amount."
   },
   "field.price": {
-    "message": "Order Amount",
+    "message": "סכום הזמנה",
     "description": "The order amount used to calculate referral earnings."
   },
   "field.reward": {
-    "message": "Referral Reward",
+    "message": "תגמול הפניה",
     "description": "The referral earnings calculated based on the order amount and referral earnings percentage."
   },
   "field.userId": {
-    "message": "User ID",
-    "description": "The unique identifier for the user, which refers to the users of the API service website."
+    "message": "מזהה משתמש",
+    "description": "The unique identifier for the user, which refers to the users of the API שירות website."
   },
   "field.userEmail": {
-    "message": "User Email",
+    "message": "אימייל משתמש",
     "description": "The email address of the user."
   },
   "field.createdAt": {
-    "message": "Referral Time",
-    "description": "The time when the referral was created."
+    "message": "זמן הפניה",
+    "description": "The time when the referral was נוצר."
   },
   "field.level": {
-    "message": "Level",
-    "description": "The level of the referral used to calculate referral earnings."
+    "message": "רמה",
+    "description": "The רמה of the referral used to calculate referral earnings."
   },
   "field.threshold": {
-    "message": "Referral Earnings Threshold",
+    "message": "סף משיכה לרווחי הפניות",
     "description": "The threshold for referral earnings used for withdrawing referral earnings."
   },
   "field.inviteeId": {
-    "message": "Inviter ID",
-    "description": "The unique identifier for the inviter, which refers to the person who invited the invitee to the API service website."
+    "message": "מזהה המזמין",
+    "description": "The unique identifier for the inviter, which refers to the person who invited the invitee to the API שירות website."
   },
   "field.isVerified": {
-    "message": "Verified",
+    "message": "מאומת",
     "description": "A flag indicating whether the referral user has passed the verification of real information."
   },
   "message.deltaPriceForNextLevel": {
-    "message": "Difference from Next Level",
-    "description": "The difference between the current order amount and the threshold for the next level."
+    "message": "הפער לרמה הבאה",
+    "description": "The difference between the current order amount and the threshold for the next רמה."
   },
   "message.developingWithDrawal": {
-    "message": "Please join to add customer service for processing withdrawals; withdrawals will incur relevant income tax.",
+    "message": "כדי למשוך רווחים, הצטרפו לשירות לקוחות לטיפול במשיכות (משיכות כפופות למס רלוונטי).",
     "description": "A message indicating that the withdrawal feature is under development."
   },
   "message.technicalDetail": {
-    "message": "Technical Details",
+    "message": "פרטים טכניים",
     "description": "Implementation details of the referral system."
   },
   "message.distributionQrDescription": {
-    "message": "Referral QR Code (same as link content)",
+    "message": "קוד QR להפניה (כמו הקישור)",
     "description": "Description of the referral QR code."
   },
   "message.distributionLink": {
-    "message": "Referral Link",
+    "message": "קישור הפניה",
     "description": "A referral link used to bind customers as downline customers."
   },
   "message.updateSuccessfully": {
-    "message": "Update Successful",
+    "message": "עודכן בהצלחה ✅",
     "description": "A message indicating that the referral information has been successfully updated."
   },
   "message.distributionLinkDescription": {
-    "message": "If a customer registers on this platform through this link or QR code, they will be permanently bound as your downline customer, and all purchases made by the customer on this platform will be returned to your account based on the current distribution ratio.",
+    "message": "לקוח שנרשם דרך הקישור או ה‑QR ייקשר אליך כ“לקוח מופנה”, וכל רכישה שלו תזכה אותך בהחזר לפי אחוז ההפצה הנוכחי.",
     "description": "Description of the referral link."
   },
   "message.distributionLinkDescription2": {
-    "message": "This link contains your user ID. When the customer opens the link, your user ID will be recorded in the customer's browser as Cookies, valid for seven days. Within seven days, if the customer registers on this platform by scanning the code, your user ID will be uploaded to the registration server along with the Cookies, and the customer can be bound as your downline customer.",
+    "message": "הקישור כולל את מזהה המשתמש שלך. כשהלקוח פותח אותו, המזהה נשמר בעוגיות (Cookies) ל‑7 ימים. אם בתוך 7 ימים הלקוח נרשם דרך הקישור/ה‑QR, המזהה שלך ישויך לרישום והלקוח ייקשר אליך.",
     "description": "Description of the referral link."
   },
   "title.price": {
-    "message": "Total Amount of Referral Orders",
+    "message": "סה״כ סכום הזמנות בהפניה",
     "description": "The total amount of referral orders used to calculate referral earnings."
   },
   "title.reward": {
-    "message": "Total Referral Reward",
+    "message": "סה״כ תגמול הפניות",
     "description": "The total referral reward calculated based on the order amount and referral earnings percentage."
   },
   "title.level": {
-    "message": "Referral Level",
-    "description": "The referral level used to calculate referral earnings."
+    "message": "רמת הפניה",
+    "description": "The referral רמה used to calculate referral earnings."
   },
   "title.percentage": {
-    "message": "Referral Earnings Percentage",
+    "message": "אחוז רווח מהפניות",
     "description": "The referral earnings percentage used to calculate referral earnings."
   },
   "title.currentLevel": {
-    "message": "Current Level",
-    "description": "The current referral level used to calculate referral earnings."
+    "message": "רמה נוכחית",
+    "description": "The current referral רמה used to calculate referral earnings."
   },
   "title.nextLevel": {
-    "message": "Next Level",
-    "description": "The next referral level used to calculate referral earnings."
+    "message": "רמה הבאה",
+    "description": "The next referral רמה used to calculate referral earnings."
   },
   "title.currentPercentage": {
-    "message": "Current Referral Earnings Percentage",
+    "message": "אחוז רווח נוכחי",
     "description": "The current referral earnings percentage used to calculate referral earnings."
   },
   "title.nextPercentage": {
-    "message": "Next Level Referral Earnings Percentage",
-    "description": "The referral earnings percentage for the next level, used to calculate referral earnings."
+    "message": "אחוז ברמה הבאה",
+    "description": "The referral earnings percentage for the next רמה, used to calculate referral earnings."
   },
   "title.levelInfo": {
-    "message": "Level Information",
-    "description": "Information about the referral level used to calculate referral earnings."
+    "message": "מידע על רמות",
+    "description": "Information about the referral רמה used to calculate referral earnings."
   },
   "title.distributionLink": {
-    "message": "Referral Link",
+    "message": "קישור הפניה",
     "description": "A referral link used to bind customers as downline customers."
   },
   "title.inviteesCount": {
-    "message": "Total Number of Invitors",
+    "message": "סה״כ מוזמנים",
     "description": "The total number of invitors used for calculating referral earnings."
   },
   "title.manageDistributionStatus": {
-    "message": "Distribution Management",
+    "message": "ניהול הפניות",
     "description": "Management of referral statuses."
   }
 }
