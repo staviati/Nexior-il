@@ -16,6 +16,7 @@ import { isTest } from '@/constants/endpoint';
 import { getLocale } from './i18n';
 
 const elementPlusLocaleMap: Record<string, () => Promise<any>> = {
+  he: () => import('element-plus/es/locale/lang/he'),
   en: () => import('element-plus/es/locale/lang/en'),
   de: () => import('element-plus/es/locale/lang/de'),
   pt: () => import('element-plus/es/locale/lang/pt'),
